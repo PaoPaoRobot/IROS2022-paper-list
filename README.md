@@ -1,1675 +1,1974 @@
 # IROS2022-paper-list
 
 This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoRobot) , the Chinese academic nonprofit organization. Welcome to follow our github and our WeChat Public Platform Account ( [paopaorobot_slam](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=100000102&idx=1&sn=0a8a831a4f2c18443dbf436ef5d5ff8c&chksm=6c10bf625b6736748c9612879e166e510f1fe301b72ed5c5d7ecdd0f40726c5d757e975f37af&mpshare=1&scene=1&srcid=0530KxSLjUE9I38yLgfO2nVm&pass_ticket=0aB5tcjeTfmcl9u0eSVzN4Ag4tkpM2RjRFH8DG9vylE%3D#rd) ). Of course, you could contact with [@Yvon Shong](https://github.com/yvonshong).
-# Aerial Robotics I
-- [Can Your Drone Touch? Exploring the Boundaries of Consumer-Grade Multirotors for Physical Interaction](https://events.infovaya.com/presentation?id=76105)
-- [A Multi-VTOL Modular Aspect Ratio Reconfigurable Aerial Robot](https://events.infovaya.com/presentation?id=76108)
-- [Passive Wall Tracking for a Rotorcraft with Tilted and Ducted Propellers Using Proximity Effects](https://events.infovaya.com/presentation?id=76111)
-- [Elastic Vibration Suppression Control for Multilinked Aerial Robot Using Redundant Degrees-Of-Freedom of Thrust Force](https://events.infovaya.com/presentation?id=76114)
-- [Fly Out the Window: Exploiting Discrete-Time Flatness for Fast Vision-Based Multirotor Flight](https://events.infovaya.com/presentation?id=76117)
-- [ReSL: Rethinking Scale Learning in Correlation Filters for Real-Time UAV Tracking](https://events.infovaya.com/presentation?id=76120)
-- [Elastic Tracker: A Spatio-Temporal Trajectory Planner for Flexible Aerial Tracking](https://events.infovaya.com/presentation?id=76123)
-- [Aerial Manipulation Using Contact with the Environment by Thrust Vectorable Multilinked Aerial Robot](https://events.infovaya.com/presentation?id=76126)
-- [Nonlinear MPC for Quadrotor Fault-Tolerant Control](https://events.infovaya.com/presentation?id=76129)
-- [Globally Stable Attitude Control and Quasi-Static Disturbance Estimation in Fixed-Wing UAVs](https://events.infovaya.com/presentation?id=76132)
-- [A Fast and Efficient Attitude Control Algorithm of a Tiltable Actuator Aerial Platform Using Inputs Redundancies](https://events.infovaya.com/presentation?id=76135)
-# Autonomous Systems
-- [Evolved Neuromorphic Radar-Based Altitude Controller for an Autonomous Open-Source Blimp](https://events.infovaya.com/presentation?id=76138)
-- [Prediction of Metacarpophalangeal Joint Angles and Classification of Hand Configurations Based on Ultrasound Imaging of the Forearm](https://events.infovaya.com/presentation?id=76141)
-- [SAGCI-System: Towards Sample-Efficient, Generalizable, Compositional, and Incremental Robot Learning](https://events.infovaya.com/presentation?id=76144)
-- [Sim2Air ](https://events.infovaya.com/presentation?id=76147)
-- [Radar-Based Materials Classification Using Deep Wavelet Scattering Transform: A Comparison of Centimetre vs. Millimetre Wave Units](https://events.infovaya.com/presentation?id=76150)
-- [A Method for Designing Autonomous Robots That Know Their Limits](https://events.infovaya.com/presentation?id=76153)
-- [Task Persistification for Robots with Control-Dependent Energy Dynamics](https://events.infovaya.com/presentation?id=76156)
-- [Charting the Trade-Off between Design Complexity and Plan Execution under Probabilistic Actions](https://events.infovaya.com/presentation?id=76159)
-- [Posetal Games: Efficiency, Existence, and Refinement of Equilibria in Games with Prioritized Metrics](https://events.infovaya.com/presentation?id=76162)
-- [Towards Dynamic Visual Servoing for Interaction Control and Moving Targets](https://events.infovaya.com/presentation?id=76165)
-# Climbing, Walking, and Whole Body Control
-- [An Agile Bicycle-Like Robot for Complex Steel Structure Inspection](https://events.infovaya.com/presentation?id=76168)
-- [CCRobot-V: A Silkworm-Like Cooperative Cable-Climbing Robotic System for Cable Inspection and Maintenance](https://events.infovaya.com/presentation?id=76171)
-- [Learning to Navigate by Pushing](https://events.infovaya.com/presentation?id=76174)
-- [Online Optimal Landing Control of the MIT Mini Cheetah](https://events.infovaya.com/presentation?id=76177)
-- [Passive Inverse Dynamics Control Using a Global Energy Tank for Torque-Controlled Humanoid Robots in Multi-Contact](https://events.infovaya.com/presentation?id=76180)
-- [Modeling, Validation, and Design Investigation of a Passive Biped Walker with Knees and Biomimetic Feet](https://events.infovaya.com/presentation?id=76183)
-- [A Mathematical Design for a Novel Walking Support Device That Leverages Passive Dynamics and Coupling Effects](https://events.infovaya.com/presentation?id=76186)
-- [Scalable Minimally Actuated Leg Extension Bipedal Walker Based on 3D Passive Dynamics](https://events.infovaya.com/presentation?id=76189)
-- [Task-Oriented Generation of Stable Motions for Wheeled Inverted Pendulum Robots](https://events.infovaya.com/presentation?id=76192)
-- [Whole-Body MPC and Dynamic Occlusion Avoidance: A Maximum Likelihood Visibility Approach](https://events.infovaya.com/presentation?id=76195)
-- [Whole-Body Control of Series-Parallel Hybrid Robots](https://events.infovaya.com/presentation?id=76198)
-- [Omni-Roach: A Legged Robot Capable of Traversing Multiple Types of Large Obstacles and Self-Righting](https://events.infovaya.com/presentation?id=76201)
-# Collision Avoidance
-- [Fast Collision Checking for Dual-Arm Collaborative Robots Working in Close Proximity](https://events.infovaya.com/presentation?id=76204)
-- [DPMPC-Planner: A Real-Time UAV Trajectory Planning Framework for Complex Static Environments with Dynamic Obstacles](https://events.infovaya.com/presentation?id=76207)
-- [Simultaneous Control and Trajectory Estimation for Collision Avoidance of Autonomous Robotic Spacecraft Systems](https://events.infovaya.com/presentation?id=76210)
-- [Collision Avoidance for Multiple Quadrotors Using Elastic Safety Clearance Based Model Predictive Control](https://events.infovaya.com/presentation?id=76213)
-- [Improving the Feasibility of DS-Based Collision Avoidance Using Non-Linear Model Predictive Control](https://events.infovaya.com/presentation?id=76216)
-- [Learning to Socially Navigate in Pedestrian-Rich Environments with Interaction Capacity](https://events.infovaya.com/presentation?id=76219)
-- [Safety-Critical Control and Planning for Obstacle Avoidance between Polytopes with Control Barrier Functions](https://events.infovaya.com/presentation?id=76222)
-- [Nearest-Neighbor-Based Collision Avoidance for Quadrotors Via Reinforcement Learning](https://events.infovaya.com/presentation?id=76225)
-- [CoMet: Modeling Group Cohesion for Socially Compliant Robot Navigation in Crowded Scenes](https://events.infovaya.com/presentation?id=76228)
-- [Transferable Collision Detection Learning for Collaborative Manipulator Using Versatile Modularized Neural Network](https://events.infovaya.com/presentation?id=76231)
-- [Fully Persistent Spatial Data Structures for Efficient Queries in Path-Dependent Motion Planning Applications](https://events.infovaya.com/presentation?id=76234)
-- [Iterative Mesh Modification Planning: A New Method for Automatic Disassembly Planning of Complex Industrial Components](https://events.infovaya.com/presentation?id=76237)
-# Computer Vision for Automation
-- [SPIN Road Mapper: Extracting Roads from Aerial Images Via Spatial and Interaction Space Graph Reasoning for Autonomous Driving](https://events.infovaya.com/presentation?id=76240)
-- [G3DOA: Generalizable 3D Descriptor with Overlap Attention for Point Cloud Registration](https://events.infovaya.com/presentation?id=76243)
-- [Object Insertion Based Data Augmentation for Semantic Segmentation](https://events.infovaya.com/presentation?id=76246)
-- [Depth Estimation Matters Most: Improving Per-Object Depth Estimation for Monocular 3D Detection and Tracking](https://events.infovaya.com/presentation?id=76249)
-- [Approximating the Polynomial System for Effective Relative Pose Estimation](https://events.infovaya.com/presentation?id=76252)
-- [PolarMesh: A Star-Convex 3D Shape Approximation for Object Pose Estimation](https://events.infovaya.com/presentation?id=76255)
-- [Burst Imaging for Light-Constrained Structure-From-Motion](https://events.infovaya.com/presentation?id=76258)
-- [A Linear Comb Filter for Event Flicker Removal](https://events.infovaya.com/presentation?id=76261)
-- [Towards Robust Part-Aware Instance Segmentation for Industrial Bin Picking](https://events.infovaya.com/presentation?id=76264)
-- [Learning Local Event-Based Descriptor for Patch-Based Stereo Matching](https://events.infovaya.com/presentation?id=76267)
-- [PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds](https://events.infovaya.com/presentation?id=76270)
-- [Stable 3D Human Pose Estimation in Low-Resolution Videos with a Few Views](https://events.infovaya.com/presentation?id=76273)
-# Continual Learning and Transfer
-- [Learning Multi-Task Transferable Rewards Via Variational Inverse Reinforcement Learning](https://events.infovaya.com/presentation?id=76276)
-- [Learning from Imperfect Demonstrations Via Adversarial Confidence Transfer](https://events.infovaya.com/presentation?id=76279)
-- [OPIRL: Sample Efficient Off-Policy Inverse Reinforcement Learning Via Distribution Matching](https://events.infovaya.com/presentation?id=76282)
-- [Cross Domain Robot Imitation with Invariant Representation](https://events.infovaya.com/presentation?id=76285)
-- [Demonstration-Efficient Guided Policy Search Via Imitation of Robust Tube-MPC](https://events.infovaya.com/presentation?id=76288)
-- [Weakly Supervised Correspondence Learning](https://events.infovaya.com/presentation?id=76291)
-- [JST: Joint Self-Training for Unsupervised Domain Adaptation on 2D&3D Object Detection](https://events.infovaya.com/presentation?id=76294)
-- [Learning Spatiotemporal Occupancy Grid Maps for Lifelong Navigation in Dynamic Scenes](https://events.infovaya.com/presentation?id=76297)
-- [Improving Pedestrian Prediction Models with Self-Supervised Continual Learning](https://events.infovaya.com/presentation?id=76300)
-- [A Deep Feature Aggregation Network for Accurate Indoor Camera Localization](https://events.infovaya.com/presentation?id=76303)
-- [Kinematic Structure Estimation of Arbitrary Articulated Rigid Objects for Event Cameras](https://events.infovaya.com/presentation?id=76306)
-- [Incremental Learning for Enhanced Personalization of Autocomplete Teleoperation](https://events.infovaya.com/presentation?id=76309)
-# Deep Learning for Perception
-- [Multi-Robot Collaborative Perception with Graph Neural Networks](https://events.infovaya.com/presentation?id=76312)
-- [Self-Supervised Depth and Ego-Motion Estimation for Monocular Thermal Video Using Multi-Spectral Consistency Loss](https://events.infovaya.com/presentation?id=76315)
-- [LoopNet: Where to Focus? Detecting Loop Closures in Dynamic Scenes](https://events.infovaya.com/presentation?id=76318)
-- [Bayesian Deep Neural Networks for Supervised Learning Single-View Depth](https://events.infovaya.com/presentation?id=76321)
-- [WS-OPE: Weakly Supervised 6D Object Pose Regression Using Relative Multi-Camera Pose Constraints](https://events.infovaya.com/presentation?id=76324)
-- [Full Surround Monodepth from Multiple Cameras](https://events.infovaya.com/presentation?id=76327)
-- [Learning to Detect Slip with Barometric Tactile Sensors and a Temporal Convolutional Neural Network](https://events.infovaya.com/presentation?id=76330)
-- [Weakly Supervised Disentangled Representation for Goal-Conditioned Reinforcement Learning](https://events.infovaya.com/presentation?id=76333)
-- [Adaptive Cost Volume Fusion Network for Multi-Modal Depth Estimation in Changing Environments](https://events.infovaya.com/presentation?id=76336)
-- [Learning to Remove Bad Weather: Towards Robust Visual Perception for Self-Driving](https://events.infovaya.com/presentation?id=76339)
-- [A Robotic Grasping State Perception Framework with Multi-Phase Tactile Information and Ensemble Learning](https://events.infovaya.com/presentation?id=76342)
-- [SimVODIS++: Neural Semantic Visual Odometry in Dynamic Environments](https://events.infovaya.com/presentation?id=76345)
-# Deep Learning for Robotic Systems I
-- [Meta-Path Analysis on Spatio-Temporal Graphs for Pedestrian Trajectory Prediction](https://events.infovaya.com/presentation?id=76348)
-- [Interleaving Monte Carlo Tree Search and Self-Supervised Learning for Object Retrieval in Clutter](https://events.infovaya.com/presentation?id=76351)
-- [RepAr-Net: Re-Parameterized Encoders and Attentive Feature Arsenals for Fast Video Denoising](https://events.infovaya.com/presentation?id=76354)
-- [A User-Customized Automatic Music Composition System](https://events.infovaya.com/presentation?id=76357)
-- [KEMP: Keyframe-Based Hierarchical End-To-End Deep Model for Long-Term Trajectory Prediction](https://events.infovaya.com/presentation?id=76360)
-- [Narrowing the Coordinate-Frame Gap in Behavior Prediction Models: Distillation for Efficient and Accurate Scene-Centric Motion Forecasting](https://events.infovaya.com/presentation?id=76363)
-- [Learnable Online Graph Representations for 3D Multi-Object Tracking](https://events.infovaya.com/presentation?id=76366)
-- [SEHLNet: Separate Estimation of High and Low-Frequency Components for Depth Completion](https://events.infovaya.com/presentation?id=76369)
-- [Visually Grounding Language Instruction for History-Dependent Manipulation](https://events.infovaya.com/presentation?id=76372)
-- [PANet: A Novel Pixel-Level Attention Network for 6D Pose Estimation with Embedding Vector Features](https://events.infovaya.com/presentation?id=76375)
-- [Learning Visual Localization of a Quadrotor Using Its Noise As Self-Supervision](https://events.infovaya.com/presentation?id=76378)
-- [PF-MOT: Probability Fusion Based 3D Multi-Object Tracking for Autonomous Vehicles](https://events.infovaya.com/presentation?id=76381)
-# Grasping and Multifingered Hands
-- [Powerful and Dexterous Multi-Finger Hand Using Dynamical Pulley Mechanism](https://events.infovaya.com/presentation?id=76384)
-- [HGC-Net: Deep Anthropomorphic Hand Grasping in Clutter](https://events.infovaya.com/presentation?id=76387)
-- [Learn to Grasp with Less Supervision: A Data-Efficient Maximum Likelihood Grasp Sampling Loss](https://events.infovaya.com/presentation?id=76390)
-- [Multi-Dimensional Compliance of Soft Grippers Enables Gentle Interaction with Thin, Flexible Objects](https://events.infovaya.com/presentation?id=76393)
-- [Grasp Transfer for Deformable Objects by Functional Map Correspondence](https://events.infovaya.com/presentation?id=76396)
-- [Learning Object Relations with Graph Neural Networks for Target-Driven Grasping in Dense Clutter](https://events.infovaya.com/presentation?id=76399)
-- [Learning to Pick by Digging: Data-Driven Dig-Grasping for Bin Picking from Clutter](https://events.infovaya.com/presentation?id=76402)
-- [Automatic Acquisition of a Repertoire of Diverse Grasping Trajectories through Behavior Shaping and Novelty Search](https://events.infovaya.com/presentation?id=76405)
-- [FFHNet: Generating Multi-Fingered Robotic Grasps for Unknown Objects in Real-Time](https://events.infovaya.com/presentation?id=76408)
-- [A Force-Sensitive Grasping Controller Using Tactile Gripper Fingers and an Industrial Position-Controlled Robot](https://events.infovaya.com/presentation?id=76411)
-- [Multi-Object Grasping -](https://events.infovaya.com/presentation?id=76414)
-- [Dual CC-Closure Region for Checking Two-Finger Object Caging in a Plane](https://events.infovaya.com/presentation?id=76417)
-# Human Detection, Tracking, and Modeling
-- [A Novel Convolutional Neural Network for Emotion Recognition Using Neurophysiological Signals](https://events.infovaya.com/presentation?id=76420)
-- [AMI: Adaptive Motion Imitation Algorithm Based on Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=76423)
-- [Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Dense Crowd Trajectory Forecasting](https://events.infovaya.com/presentation?id=76426)
-- [Deep Learning-Driven Front-Following within Close Proximity: A Hands-Free Control Model on a Smart Walker](https://events.infovaya.com/presentation?id=76429)
-- [A2DIO: Attention-Driven Deep Inertial Odometry for Pedestrian Localization Based on 6D IMU](https://events.infovaya.com/presentation?id=76432)
-- [Adaptable Action-Aware Vital Models for Personalized Intelligent Patient Monitoring](https://events.infovaya.com/presentation?id=76435)
-- [Human-Following and -Guiding in Crowded Environments Using Semantic Deep-Reinforcement-Learning for Mobile Service Robots](https://events.infovaya.com/presentation?id=76438)
-- [Robust Impedance Control for Dexterous Interaction Using Fractal Impedance Controller with IK-Optimisation](https://events.infovaya.com/presentation?id=76441)
-- [Learning Sparse Interaction Graphs of Partially Detected Pedestrians for Trajectory Prediction](https://events.infovaya.com/presentation?id=76444)
-- [Posture Control of the Passenger Based on Caregiver's Wrist Motion for a Step-Climbing Stroller](https://events.infovaya.com/presentation?id=76447)
-- [Towards Efficient 3D Human Motion Prediction Using Deformable Transformer-Based Adversarial Network](https://events.infovaya.com/presentation?id=76450)
-- [Electrocardiography Measurement and Emotion Estimation of Working Dogs](https://events.infovaya.com/presentation?id=76453)
-# Intelligent Transportation I
-- [RTGNN: A Novel Approach to Model Stochastic Traffic Dynamics](https://events.infovaya.com/presentation?id=76456)
-- [RMS-FlowNet: Efficient and Robust Multi-Scale Scene Flow Estimation for Large-Scale Point Clouds](https://events.infovaya.com/presentation?id=76459)
-- [Real-Time Full-Stack Traffic Scene Perception for Autonomous Driving with Roadside Cameras](https://events.infovaya.com/presentation?id=76462)
-- [SafetyNet: Safe Planning for Real-World Self-Driving Vehicles Using Machine Learned Policies](https://events.infovaya.com/presentation?id=76465)
-- [Camera-Tracklet-Aware Contrastive Learning for Unsupervised Vehicle Re-Identification](https://events.infovaya.com/presentation?id=76468)
-- [Decentralized Ride-Sharing of Shared Autonomous Vehicles Using Graph Neural Network-Based Reinforcement Learning](https://events.infovaya.com/presentation?id=76471)
-- [Extrinsic Calibration and Verification of Multiple Non-Overlapping Field of View Lidar Sensors](https://events.infovaya.com/presentation?id=76474)
-- [LB-L2L-Calib: Accurate and Robust Extrinsic Calibration for Multiple 3D LiDARs with Long Baseline and Large Viewpoint Difference](https://events.infovaya.com/presentation?id=76477)
-- [Fusing Event-Based and RGB Camera for Robust Object Detection in Adverse Conditions](https://events.infovaya.com/presentation?id=76480)
-- [Pedestrian Stop and Go Forecasting with Hybrid Feature Fusion](https://events.infovaya.com/presentation?id=76483)
-- [Online Prediction of Lane Change with a Hierarchical Learning-Based Approach](https://events.infovaya.com/presentation?id=76486)
-- [Reconstruction and Synthesis of Lidar Point Clouds of Spray](https://events.infovaya.com/presentation?id=76489)
-# Manipulation Planning
-- [Gripper Positioning for Object Deformation Tasks](https://events.infovaya.com/presentation?id=76492)
-- [Non-Prehensile Planar Manipulation Via Trajectory Optimization with Complementarity Constraints](https://events.infovaya.com/presentation?id=76495)
-- [Coordinate Invariant User-Guided Constrained Path Planning with Reactive Rapidly Expanding Plane-Oriented Escaping Trees](https://events.infovaya.com/presentation?id=76498)
-- [PyRoboCOP: Python-Based Robotic Control & Optimization Package for Manipulation](https://events.infovaya.com/presentation?id=76501)
-- [Robust Pivoting: Exploiting Frictional Stability Using Bilevel Optimization](https://events.infovaya.com/presentation?id=76504)
-- [TOPP-MPC Based Dual-Arm Dynamic Collaborative Manipulation for Multi-Object Nonprehensile Transportation](https://events.infovaya.com/presentation?id=76507)
-- [Category-Association Based Similarity Matching for Novel Object Pick-And-Place Task](https://events.infovaya.com/presentation?id=76510)
-- [Excavation Reinforcement Learning Using Geometric Representation](https://events.infovaya.com/presentation?id=76513)
-- [RCIK: Real-Time Collision-Free Inverse Kinematics Using a Collision-Cost Prediction Network](https://events.infovaya.com/presentation?id=76516)
-- [Automated Stability Testing of Elastic Rods with Helical Centerlines Using a Robotic System](https://events.infovaya.com/presentation?id=76519)
-- [Coordination of Two Robotic Manipulators for Object Retrieval in Clutter](https://events.infovaya.com/presentation?id=76522)
-- [Planning and Control for Cable-Routing with Dual-Arm Robot](https://events.infovaya.com/presentation?id=76525)
-# Marine Robotics
-- [DRAGONFLY: A UAV Rapidly Deployed Micro-Profiler Array for Underwater Thermocline Observation](https://events.infovaya.com/presentation?id=76528)
-- [Design, Modeling and Implementation of a Projectile-Based Mechanism for USVs Charging Tasks](https://events.infovaya.com/presentation?id=76531)
-- [Overhead Image Factors for Underwater Sonar-Based SLAM](https://events.infovaya.com/presentation?id=76534)
-- [Using Monocular Vision and Human Body Priors for AUVs to Autonomously Approach Divers](https://events.infovaya.com/presentation?id=76537)
-- [Broadband Acoustic Communication Aided Underwater Inertial Navigation System](https://events.infovaya.com/presentation?id=76540)
-- [Learning Cross-Scale Visual Representations for Real-Time Image Geo-Localization](https://events.infovaya.com/presentation?id=76543)
-- [Design of an Autonomous Latching System for Surface Vessels](https://events.infovaya.com/presentation?id=76546)
-- [Towards Accurate Positioning of Underwater Vehicles Using Low-Cost Acoustic Modems](https://events.infovaya.com/presentation?id=76549)
-- [High Definition, Inexpensive, Underwater Mapping](https://events.infovaya.com/presentation?id=76552)
-- [A Bio-Inspired Simultaneous Surface and Underwater Risk Assessment Method Based on Stereo Vision for USVs in Nearshore Clean Waters](https://events.infovaya.com/presentation?id=76555)
-# Mechanism Design I
-- [Reconfigurable Underactuated Adaptive Gripper Designed by Morphological Computation](https://events.infovaya.com/presentation?id=76558)
-- [A Modular Lockable Mechanism for Tendon-Driven Robots: Design, Modeling and Characterization](https://events.infovaya.com/presentation?id=76561)
-- [The Switchable Cable-Driven Mechanism to Control Multiple Cables Individually Using a Single Motor](https://events.infovaya.com/presentation?id=76564)
-- [Recurrent Neural Network with Preisach Model for Configuration-Specific Hysteresis Modeling of Tendon-Sheath Mechanism](https://events.infovaya.com/presentation?id=76567)
-- [Design and Optimization of a Capture System for Precise UAV Landing on Disturbed Aquatic Surface Platforms](https://events.infovaya.com/presentation?id=76570)
-- [Design and Modeling of a Spherical Robot Actuated by a Cylindrical Drive](https://events.infovaya.com/presentation?id=76573)
-- [Design and Modeling of a Compact Advancement Mechanism for a Modified COAST Guidewire Robot](https://events.infovaya.com/presentation?id=76576)
-- [A Novel Passive Mechanism for Flying Robots to Perch Onto Surfaces](https://events.infovaya.com/presentation?id=76579)
-- [A Lightweight, High-Extension, Planar 3-Degree-Of-Freedom Manipulator Using Pinched Bistable Tapes](https://events.infovaya.com/presentation?id=76582)
-- [Cooperative Continuum Robots: Enhancing Individual Continuum Arms by Reconfiguring into a Parallel Manipulator](https://events.infovaya.com/presentation?id=76585)
-- [Remote Rotary Mixing and Spraying of Plural Component Protective Coating for Underground Pipe Internal Rehabilitation Lining](https://events.infovaya.com/presentation?id=76588)
-- [Strict Modes Everywhere ](https://events.infovaya.com/presentation?id=76591)
-# Visual Servoing and Tracking
-- [As-Rigid-As-Possible Shape Servoing](https://events.infovaya.com/presentation?id=76594)
-- [Visual Servoing in Autoencoder Latent Space](https://events.infovaya.com/presentation?id=76597)
-- [SiamX: An Efficient Long-Term Tracker Using Cross-Level Feature Correlation and Adaptive Tracking Scheme](https://events.infovaya.com/presentation?id=76600)
-- [Accurate Calibration of Multi-Perspective Cameras from a Generalization of the Hand-Eye Constraint](https://events.infovaya.com/presentation?id=76603)
-- [Few-Shot Keypoint Detection As Task Adaptation Via Latent Embeddings](https://events.infovaya.com/presentation?id=76606)
-- [Keypoint-Based Category-Level Object Pose Tracking from an RGB Sequence with Uncertainty Estimation](https://events.infovaya.com/presentation?id=76609)
-- [MotionHint: Self-Supervised Monocular Visual Odometry with Motion Constraints](https://events.infovaya.com/presentation?id=76612)
-- [E-VAT: An Asymmetric End-To-End Approach to Visual Active Exploration and Tracking](https://events.infovaya.com/presentation?id=76615)
-- [Fast Graph Refinement and Implicit Neural Representation for Tissue Tracking](https://events.infovaya.com/presentation?id=76618)
-- [Omnidirectional Panoramic Video System with Frame-By-Frame Ultrafast Viewpoint Control](https://events.infovaya.com/presentation?id=76621)
-- [PoseSDF: Simultaneous 3D Human Shape Reconstruction and Gait Pose Estimation Using Signed Distance Functions](https://events.infovaya.com/presentation?id=76624)
-- [Robotic Tool Tracking under Partially Visible Kinematic Chain: A Unified Approach](https://events.infovaya.com/presentation?id=76627)
-# Motion Control
-- [Learning Friction Model for Magnet-Actuated Tethered Capsule Robot](https://events.infovaya.com/presentation?id=76630)
-- [L1 Adaptive Augmentation for Geometric Tracking Control of Quadrotors](https://events.infovaya.com/presentation?id=76633)
-- [Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models](https://events.infovaya.com/presentation?id=76636)
-- [KoopNet: Joint Learning of Koopman Bilinear Models and Function Dictionaries with Application to Quadrotor Trajectory Tracking](https://events.infovaya.com/presentation?id=76639)
-- [Tracking Fast Trajectories with a Deformable Object Using a Learned Model](https://events.infovaya.com/presentation?id=76642)
-- [Model Identification and Control of a Mobile Robot with Omnidirectional Wheels Using Differentiable Physics](https://events.infovaya.com/presentation?id=76645)
-- [KNODE-MPC: A Knowledge-Based Data-Driven Predictive Control Framework for Aerial Robots](https://events.infovaya.com/presentation?id=76648)
-- [Combined Fast Control of Drifting State and Trajectory Tracking for Autonomous Vehicles Based on MPC Controller](https://events.infovaya.com/presentation?id=76651)
-- [Composable Causality in Semantic Robot Programming](https://events.infovaya.com/presentation?id=76654)
-- [A Hierarchical Control Framework for Drift Maneuvering of Autonomous Vehicles](https://events.infovaya.com/presentation?id=76657)
-- [Multi-Terrain Velocity Control of the Spherical Robot by Online Obtaining the Uncertainties in the Dynamics](https://events.infovaya.com/presentation?id=76660)
-- [Experimental Closed-Loop Excitation of Nonlinear Normal Modes on an Elastic Industrial Robot](https://events.infovaya.com/presentation?id=76663)
-# Optimization and Optimal Control I
-- [Value Learning from Trajectory Optimization and Sobolev Descent: A Step Toward Reinforcement Learning with Superlinear Convergence Properties](https://events.infovaya.com/presentation?id=76666)
-- [Object Gathering with a Tethered Robot Duo](https://events.infovaya.com/presentation?id=76669)
-- [Passivity and Control Barrier Functions: Optimizing the Use of Energy](https://events.infovaya.com/presentation?id=76672)
-- [A Hybrid Model-Based Evolutionary Optimization with Passive Boundaries for Physical Human-Robot Interaction](https://events.infovaya.com/presentation?id=76675)
-- [Impact Planning and Pre-Configuration Based on Hierarchical Quadratic Programming](https://events.infovaya.com/presentation?id=76678)
-- [Optimal-Horizon Model-Predictive Control with Differential Dynamic Programming](https://events.infovaya.com/presentation?id=76681)
-- [First Order Approximation of Model Predictive Control Solutions for High Frequency Feedback](https://events.infovaya.com/presentation?id=76684)
-- [Implicit Differential Dynamic Programming](https://events.infovaya.com/presentation?id=76687)
-- [Optimization-Based Trajectory Tracking Approach for Multi-Rotor Aerial Vehicles in Unknown Environments](https://events.infovaya.com/presentation?id=76690)
-- [Safe, Fast, and Efficient Distributed Receding Horizon Constrained Control of Aerial Robot Swarms](https://events.infovaya.com/presentation?id=76693)
-- [Trajectory Distribution Control for Model Predictive Path Integral Control Using Covariance Steering](https://events.infovaya.com/presentation?id=76696)
-- [Multirobot Control with Double-Integrator Dynamics and Control Barrier Functions for Deformable Object Transport](https://events.infovaya.com/presentation?id=76699)
-# Perception for Grasping and Manipulation I
-- [Context-Aware Grasp Generation in Cluttered Scenes](https://events.infovaya.com/presentation?id=76702)
-- [The World is its Own Best Model: Robust Real-World Manipulation through Online Behavior Selection](https://events.infovaya.com/presentation?id=76705)
-- [The Second Generation (G2) Fingertip Sensor for Near-Distance Ranging and Material Sensing in Robotic Grasping](https://events.infovaya.com/presentation?id=76708)
-- [Push-To-See: Learning Non-Prehensile Manipulation to Enhance Instance Segmentation Via Deep Q-Learning](https://events.infovaya.com/presentation?id=76711)
-- [Non-Penetration Iterative Closest Points for Single-View Multi-Object 6D Pose Estimation](https://events.infovaya.com/presentation?id=76714)
-- [Learning-Based Ellipse Detection for Robotic Grasps of Cylinders and Ellipsoids](https://events.infovaya.com/presentation?id=76717)
-- [TransGrasp: A Multi-Scale Hierarchical Point Transformer for 7-DoF Grasp Detection](https://events.infovaya.com/presentation?id=76720)
-- [Online Object Model Reconstruction and Reuse for Lifelong Improvement of Robot Manipulation](https://events.infovaya.com/presentation?id=76723)
-- [Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image](https://events.infovaya.com/presentation?id=76726)
-- [Multi-View Object Pose Distribution Tracking for Pre-Grasp Planning on Mobile Robots](https://events.infovaya.com/presentation?id=76729)
-- [Efficient and Robust Training of Dense Object Nets for Multi-Object Robot Manipulation](https://events.infovaya.com/presentation?id=76732)
-- [SKP: Semantic 3D Keypoint Detection for Category-Level Robotic Manipulation](https://events.infovaya.com/presentation?id=76735)
-# Reinforcement Learning for Mobile Robots
-- [Deep Surrogate Q-Learning for Autonomous Driving](https://events.infovaya.com/presentation?id=76738)
-- [Interpretable Autonomous Flight Via Compact Visualizable Neural Circuit Policies](https://events.infovaya.com/presentation?id=76741)
-- [Legged Robots That Keep on Learning: Fine-Tuning Locomotion Policies in the Real World](https://events.infovaya.com/presentation?id=76744)
-- [Accessibility-Based Clustering for Efficient Learning of Locomotion Skills](https://events.infovaya.com/presentation?id=76747)
-- [Learning Free Gait Transition for Quadruped Robots Via Phase-Guided Controller](https://events.infovaya.com/presentation?id=76750)
-- [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://events.infovaya.com/presentation?id=76753)
-- [Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion](https://events.infovaya.com/presentation?id=76756)
-- [Dynamic Mirror Descent Based Model Predictive Control for Accelerating Robot Learning](https://events.infovaya.com/presentation?id=76759)
-- [Combining Learning-Based Locomotion Policy with Model-Based Manipulation for Legged Mobile Manipulators](https://events.infovaya.com/presentation?id=76762)
-- [Unified Data Collection for Visual-Inertial Calibration Via Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=76765)
-- [Explanation-Aware Experience Replay in Rule-Dense Environments](https://events.infovaya.com/presentation?id=76768)
-- [Relative Distributed Formation and Obstacle Avoidance with Multi-Agent Reinforcement Learning](https://events.infovaya.com/presentation?id=76771)
-# Sensor Fusion
-- [Estimation of Upper Limb Kinematics with a Magnetometer-Free Egocentric Visual-Inertial System](https://events.infovaya.com/presentation?id=76774)
-- [Joint State and Input Estimation of Agent Based on Recursive Kalman Filter Given Prior Knowledge](https://events.infovaya.com/presentation?id=76777)
-- [Towards Artefact Aware Human Motion Capture Using Inertial Sensors Integrated into Loose Clothing](https://events.infovaya.com/presentation?id=76780)
-- [Improved Kalman-Particle Kernel Filter on Lie Groups Applied to Angles-Only UAV Navigation](https://events.infovaya.com/presentation?id=76783)
-- [Asynchronous Collaborative Localization by Integrating Spatiotemporal Graph Learning with Model-Based Estimation](https://events.infovaya.com/presentation?id=76786)
-- [Symbolic State Estimation with Predicates for Contact-Rich Manipulation Tasks](https://events.infovaya.com/presentation?id=76789)
-- [Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving](https://events.infovaya.com/presentation?id=76792)
-- [P2SLAM: Bearing Based WiFi SLAM for Indoor Robots](https://events.infovaya.com/presentation?id=76795)
-- [Deep Measurement Updates for Bayes Filters](https://events.infovaya.com/presentation?id=76798)
-- [Stiffness Measurement of Organoids by Using Wide-Range Force Sensor Probe Fabricated Using Quartz Crystal Resonator](https://events.infovaya.com/presentation?id=76801)
-- [Precise Relative Positioning Via Tight-Coupling of GPS Carrier Phase and Multiple UWBs](https://events.infovaya.com/presentation?id=76804)
-- [Using Collocated Vision and Tactile Sensors for Visual Servoing and Localization](https://events.infovaya.com/presentation?id=76807)
-# Medical Robotics and Prosthetics
-- [Concentric Push–Pull Robots: Planar Modeling and Design](https://events.infovaya.com/presentation?id=76810)
-- [Chip-Less Real-Time Wireless Sensing of Endotracheal Intubation Tubes by Printing and Mounting Conformable Antenna Tag](https://events.infovaya.com/presentation?id=76813)
-- [Development of a Stereo-Vision Based High-Throughput Robotic System for Mouse Tail Vein Injection](https://events.infovaya.com/presentation?id=76816)
-- [Dual-Scale Robotic Solution for Middle Ear Surgery](https://events.infovaya.com/presentation?id=76819)
-- [A Dexterous Robotic System for Autonomous Debridement of Osteolytic Bone Lesions in Confined Spaces: Human Cadaver Studies](https://events.infovaya.com/presentation?id=76822)
-- [An Open Simulation Environment for Learning and Practice of Robot-Assisted Surgical Suturing](https://events.infovaya.com/presentation?id=76825)
-- [A Variable Length, Variable Stiffness Flexible Instrument for Transoral Robotic Surgery](https://events.infovaya.com/presentation?id=76828)
-- [Impact of Generic Tendon Routing on Tension Loss of Tendon-Driven Continuum Manipulators with Planar Deformation](https://events.infovaya.com/presentation?id=76831)
-- [Kinestatic Modeling of a Spatial Screw-Driven Continuum Robot](https://events.infovaya.com/presentation?id=76834)
-- [Accelerating Surgical Robotics Research: A Review of 10 Years with DVRK](https://events.infovaya.com/presentation?id=76837)
-- [Robust Deflected Path Planning Method for Super-Elastic Nitinol Coaxial Biopsy Needle: Application to an Automated Magnetic Resonance Image-Guided Breast Biopsy Robot](https://events.infovaya.com/presentation?id=76840)
-- [Toward Expedited Impedance Tuning of a Robotic Prosthesis for Personalized Gait Assistance by Reinforcement Learning Control](https://events.infovaya.com/presentation?id=76843)
-# Task and Motion Planning
-- [Using Language to Generate State Abstractions for Long-Range Planning in Outdoor Environments](https://events.infovaya.com/presentation?id=76846)
-- [Reactive Locomotion Decision-Making and Robust Motion Planning for Real-Time Perturbation Recovery](https://events.infovaya.com/presentation?id=76849)
-- [Learning to Ground Objects for Robot Task and Motion Planning](https://events.infovaya.com/presentation?id=76852)
-- [Locomotion As a Risk-Mitigating Behavior in Uncertain Environments: A Rapid Planning and Few-Shot Failure Adaptation Approach](https://events.infovaya.com/presentation?id=76855)
-- [Persistent Homology for Effective Non-Prehensile Manipulation](https://events.infovaya.com/presentation?id=76858)
-- [Visually Grounded Task and Motion Planning for Mobile Manipulation](https://events.infovaya.com/presentation?id=76861)
-- [Multi-Agent Motion Planning from Signal Temporal Logic Specifications](https://events.infovaya.com/presentation?id=76864)
-- [Long-Horizon Manipulation of Unknown Objects Via Task and Motion Planning with Estimated Affordances](https://events.infovaya.com/presentation?id=76867)
-- [Failure Is an Option: Task and Motion Planning with Failing Executions](https://events.infovaya.com/presentation?id=76870)
-- [Hierarchical Policy Learning for Mechanical Search](https://events.infovaya.com/presentation?id=76873)
-- [Fast High-Quality Tabletop Rearrangement in Bounded Workspace](https://events.infovaya.com/presentation?id=76876)
-- [Efficient and High-Quality Prehensile Rearrangement in Cluttered and Confined Spaces](https://events.infovaya.com/presentation?id=76879)
-# Outstanding Paper and Outstanding Student Paper Award Finalists
-- [Offline Learning of Counterfactual Perception As Prediction for Real-World Robotic Reinforcement Learning](https://events.infovaya.com/presentation?id=77527)
-- [Dynamic Underactuated Manipulator Using a Flexible Body with a Structural Anisotropy](https://events.infovaya.com/presentation?id=78898)
-- [Interactive Robotic Grasping with Attribute-Guided Disambiguation](https://events.infovaya.com/presentation?id=79621)
-- [Translating Images into Maps](https://events.infovaya.com/presentation?id=79720)
-- [CT-ICP: Real-Time Elastic LiDAR Odometry with Loop Closure](https://events.infovaya.com/presentation?id=78298)
-- [D2A-BSP: Distilled Data Association Belief Space Planning with Performance Guarantees under Budget Constraints](https://events.infovaya.com/presentation?id=80398)
-# Outstanding Coordination / Mechanisms & Design / Locomotion / Navigation Award Finalists
-- [Learning Scalable Policies Over Graphs for Multi-Robot Task Allocation Using Capsule Attention Networks](https://events.infovaya.com/presentation?id=79582)
-- [Decentralized Model Predictive Control for Equilibrium-Based Collaborative UAV Bar Transportation](https://events.infovaya.com/presentation?id=78031)
-- [A Deep Reinforcement Learning Environment for Particle Robot Navigation and Object Manipulation](https://events.infovaya.com/presentation?id=78550)
-- [TaTa: A Universal Jamming Gripper with High-Quality Tactile Perception and Its Application to Underwater Manipulation](https://events.infovaya.com/presentation?id=78517)
-- [Design of a Biomimetic Tactile Sensor for Material Classification](https://events.infovaya.com/presentation?id=80293)
-- [A Wearable Fingertip Cutaneous Haptic Device with Continuous Omnidirectional Motion Feedback](https://events.infovaya.com/presentation?id=79603)
-- [Scalable Minimally Actuated Leg Extension Bipedal Walker Based on 3D Passive Dynamics](https://events.infovaya.com/presentation?id=76189)
-- [Omni-Roach: A Legged Robot Capable of Traversing Multiple Types of Large Obstacles and Self-Righting](https://events.infovaya.com/presentation?id=76201)
-- [Trajectory Optimization Formulation with Smooth Analytical Derivatives for Track-Leg and Wheel-Leg Ground Robots](https://events.infovaya.com/presentation?id=78373)
-- [Event-Triggered Tracking Control Scheme for Quadrotors with External Disturbances: Theory and Validations](https://events.infovaya.com/presentation?id=79627)
-- [EDPLVO: Efficient Direct Point-Line Visual Odometry](https://events.infovaya.com/presentation?id=79072)
-- [Confidence-Based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=79342)
-# Aerial Robotics II
-- [Optimal Design and Control of an Aerial Manipulator with Elastic Suspension Using Unidirectional Thrusters](https://events.infovaya.com/presentation?id=76882)
-- [Large-Angle and High-Speed Trajectory TrackingControl of a Quadrotor UAV Based on Reachability](https://events.infovaya.com/presentation?id=76885)
-- [Cooperative Modular Single Actuator Monocopters Capable of Controlled Passive Separation](https://events.infovaya.com/presentation?id=76888)
-- [Optimal Thrust Vector Control of an Electric Small-Scale Rocket Prototype](https://events.infovaya.com/presentation?id=76891)
-- [Optimal Inverted Landing in a Small Aerial Robot with Varied Approach Velocities and Landing Gear Designs](https://events.infovaya.com/presentation?id=76894)
-- [SMORS: A Soft Multirotor UAV for Multimodal Locomotion and Robust Interaction](https://events.infovaya.com/presentation?id=76897)
-- [Centroidal Aerodynamic Modeling and Control of Flying Multibody Robots](https://events.infovaya.com/presentation?id=76900)
-- [Cooperative Transportation Using Multiple Single-Rotor Robots and Decentralized Control for Unknown Payloads](https://events.infovaya.com/presentation?id=76903)
-- [PogoDrone: Design, Model, and Control of a Jumping Quadrotor](https://events.infovaya.com/presentation?id=76906)
-- [Autonomous and Adaptive Navigation for Terrestrial-Aerial Bimodal Vehicles](https://events.infovaya.com/presentation?id=76909)
-- [Robust Localization of Occluded Targets in Aerial Manipulation Via Range-Only Mapping](https://events.infovaya.com/presentation?id=76912)
-- [Energy Tank-Based Policies for Robust Aerial Physical Interaction with Moving Objects](https://events.infovaya.com/presentation?id=76915)
-# Bioinspired and Biometic Systems
-- [Generalized Omega Turn Gait Enables Agile Limbless Robot Turning in Complex Environments](https://events.infovaya.com/presentation?id=76918)
-- [SenSnake: A Snake Robot with Contact Force Sensing for Studying Locomotion in Complex 3-D Terrain](https://events.infovaya.com/presentation?id=76921)
-- [Autonomous Actuation of Flapping Wing Robots Inspired by Asynchronous Insect Muscle](https://events.infovaya.com/presentation?id=76924)
-- [Optimum Design of a Novel Bio-Inspired Bat Robot](https://events.infovaya.com/presentation?id=76927)
-- [Liftoff of a Motor-Driven Flapping Wing Rotorcraft with Mechanically Decoupled Wings](https://events.infovaya.com/presentation?id=76930)
-- [A Minimalistic Stochastic Dynamics Model of Cluttered Obstacle Traversal](https://events.infovaya.com/presentation?id=76933)
-- [A Tapered Whisker-Based Physical Reservoir Computing System for Mobile Robot Terrain Identification in Unstructured Environments](https://events.infovaya.com/presentation?id=76936)
-- [Design and Experimental Validation of a Shock-Absorption Mechanism Inspired from the Frog's Forelimbs](https://events.infovaya.com/presentation?id=76939)
-- [Maximized Hydrodynamic Stimulation Strategy for Placement of Differential Pressure and Velocity Sensors in Artificial Lateral Line Systems](https://events.infovaya.com/presentation?id=76942)
-- [A New Bio-Inspired Hybrid Cable-Driven Robot (HCDR) to Design More Realistic Snakebots](https://events.infovaya.com/presentation?id=76945)
-- [Development and Stiffness Optimization for a Flexible-Tail Robotic Fish](https://events.infovaya.com/presentation?id=76948)
-- [Optimization of Stress Distribution in Tendon-Driven Continuum Robots Using Fish-Tail-Inspired Method](https://events.infovaya.com/presentation?id=76951)
-# Localization I
-- [Single User WiFi Structure from Motion in the Wild](https://events.infovaya.com/presentation?id=76954)
-- [PatchGraph: In-Hand Tactile Tracking with Learned Surface Normals](https://events.infovaya.com/presentation?id=76957)
-- [LTSR: Long-Term Semantic Relocalization Based on HD Map for Autonomous Vehicles](https://events.infovaya.com/presentation?id=76960)
-- [DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions](https://events.infovaya.com/presentation?id=76963)
-- [Fast-MbyM: Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry](https://events.infovaya.com/presentation?id=76966)
-- [DA-LMR: A Robust Lane Marking Representation for Data Association](https://events.infovaya.com/presentation?id=76969)
-- [Neural Implicit Event Generator for Motion Tracking](https://events.infovaya.com/presentation?id=76972)
-- [Translation Invariant Global Estimation of Heading Angle Using Sinogram of LiDAR Point Cloud](https://events.infovaya.com/presentation?id=76975)
-- [LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition](https://events.infovaya.com/presentation?id=76978)
-- [AutoPlace: Robust Place Recognition with Single-Chip Automotive Radar](https://events.infovaya.com/presentation?id=76981)
-- [GCLO: Ground Constrained LiDAR Odometry with Low-Drifts for GPS-Denied Indoor Environments](https://events.infovaya.com/presentation?id=76984)
-- [Fusing Convolutional Neural Network and Geometric Constraint for Image-Based Indoor Localization](https://events.infovaya.com/presentation?id=76987)
-# Robotics and Automation in Agriculture and Forestry
-- [ROW-SLAM: Under-Canopy Cornfield Semantic SLAM](https://events.infovaya.com/presentation?id=76990)
-- [Loop Closure Detection and SLAM in Vineyards with Deep Semantic Cues](https://events.infovaya.com/presentation?id=76993)
-- [Precise 3D Reconstruction of Plants from UAV Imagery Combining Bundle Adjustment and Template Matching](https://events.infovaya.com/presentation?id=76996)
-- [Self-Supervised Representation Learning for Reliable Robotic Monitoring of Fruit Anomalies](https://events.infovaya.com/presentation?id=76999)
-- [Deep-CNN Based Robotic Multi-Class Under-Canopy Weed Control in Precision Farming](https://events.infovaya.com/presentation?id=77002)
-- [Precision Fruit Tree Pruning Using a Learned Hybrid Vision/interaction Controller](https://events.infovaya.com/presentation?id=77005)
-- [Joint Plant and Leaf Instance Segmentation on Field-Scale UAV Imagery](https://events.infovaya.com/presentation?id=77008)
-- [Strawberry Picking Point Localisation Ripeness and Weight Estimation](https://events.infovaya.com/presentation?id=77011)
-- [Non-Destructive Fruit Firmness Evaluation Using Vision-Based Tactile Information](https://events.infovaya.com/presentation?id=77014)
-- [Agbots 3.0: Adaptive Weed Growth Prediction for Mechanical Weeding Agbots](https://events.infovaya.com/presentation?id=77017)
-- [Deep Reinforcement Learning for Next-Best-View Planning in Agricultural Applications](https://events.infovaya.com/presentation?id=77020)
-- [Mapping Unknown Environments with Instrumented Honey Bees](https://events.infovaya.com/presentation?id=77023)
-# Computer Vision for Transportation
-- [Crossmodal Transformer Based Generative Framework for Pedestrian Trajectory Prediction](https://events.infovaya.com/presentation?id=77026)
-- [Lightweight Monocular Depth Estimation through Guided Decoding](https://events.infovaya.com/presentation?id=77029)
-- [Propagating State Uncertainty through Trajectory Forecasting](https://events.infovaya.com/presentation?id=77032)
-- [De-Snowing LiDAR Point Clouds with Intensity and Spatial-Temporal Features](https://events.infovaya.com/presentation?id=77035)
-- [Refactoring ISP for High-Level Vision Tasks](https://events.infovaya.com/presentation?id=77038)
-- [Stepwise Goal-Driven Networks for Trajectory Prediction](https://events.infovaya.com/presentation?id=77041)
-- [N-QGN: Navigation Map from a Monocular Camera Using Quadtree Generating Networks](https://events.infovaya.com/presentation?id=77044)
-- [Depth-SIMS: Semi-Parametric Image and Depth Synthesis](https://events.infovaya.com/presentation?id=77047)
-- [HoloSeg: An Efficient Holographic Segmentation Network for Real-Time Scene Parsing](https://events.infovaya.com/presentation?id=77050)
-- [Navigation-Oriented Scene Understanding for Robotic Autonomy: Learning to Segment Driveability in Egocentric Images](https://events.infovaya.com/presentation?id=77053)
-- [Lifting 2D Object Locations to 3D by Discounting LiDAR Outliers across Objects and Views](https://events.infovaya.com/presentation?id=77056)
-- [VISTA 2.0: An Open, Data-Driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles](https://events.infovaya.com/presentation?id=77059)
-# Imitation Learning
-- [Memory-Based Gaze Prediction in Deep Imitation Learning for Robot Manipulation](https://events.infovaya.com/presentation?id=77062)
-- [Towards More Generalizable One-Shot Visual Imitation Learning](https://events.infovaya.com/presentation?id=77065)
-- [Symphony: Learning Realistic and Diverse Agents for Autonomous Driving Simulation](https://events.infovaya.com/presentation?id=77068)
-- [Adversarial Imitation Learning from Video Using a State Observer](https://events.infovaya.com/presentation?id=77071)
-- [Modular Adaptive Policy Selection for Multi-Task Imitation Learning through Task Division](https://events.infovaya.com/presentation?id=77074)
-- [Disturbance-Injected Robust Imitation Learning with Task Achievement](https://events.infovaya.com/presentation?id=77077)
-- [Learning Periodic Tasks from Human Demonstrations](https://events.infovaya.com/presentation?id=79519)
-- [Skeletal Feature Compensation for Imitation Learning with Embodiment Mismatch](https://events.infovaya.com/presentation?id=77083)
-- [Multi-Task Learning with Sequence-Conditioned Transporter Networks](https://events.infovaya.com/presentation?id=77086)
-- [VOILA: Visual-Observation-Only Imitation Learning for Autonomous Navigation](https://events.infovaya.com/presentation?id=77089)
-- [Generalizable Task Representation Learning from Human Demonstration Videos: A Geometric Approach](https://events.infovaya.com/presentation?id=77092)
-- [LanCon-Learn: Learning with Language to Enable Generalization in Multi-Task Manipulation Domains](https://events.infovaya.com/presentation?id=77095)
-# Data Sets for Robot Learning
-- [Look and Listen: A Multi-Sensory Pouring Network and Dataset forGranular Media from Human Demonstrations](https://events.infovaya.com/presentation?id=77098)
-- [Predicting Like a Pilot: Dataset and Method to Predict Socially-Aware Aircraft Trajectories in Non-Towered Terminal Airspace](https://events.infovaya.com/presentation?id=77101)
-- [ORFD: A Dataset and Benchmark for Off-Road Freespace Detection](https://events.infovaya.com/presentation?id=77104)
-- [IPS300+: A Challenging Multi-Modal Data Sets for Intersection Perception System](https://events.infovaya.com/presentation?id=77107)
-- [TartanDrive: A Large-Scale Dataset for Learning Off-Road Dynamics Models](https://events.infovaya.com/presentation?id=77110)
-- [Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items](https://events.infovaya.com/presentation?id=77113)
-- [Scalable Scene Flow from Point Clouds in the Real World](https://events.infovaya.com/presentation?id=77116)
-- [Cityscapes TL++: Semantic Traffic Light Annotations for the Cityscapes Dataset](https://events.infovaya.com/presentation?id=77119)
-- [How to Build a Curb Dataset with LiDAR Data for Autonomous Driving](https://events.infovaya.com/presentation?id=77122)
-- [OPV2V: An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-To-Vehicle Communication](https://events.infovaya.com/presentation?id=77125)
-- [RF-Annotate: Automatic RF-Supervised Image Annotation of Common Objects in Context](https://events.infovaya.com/presentation?id=77128)
-- [Panoptic nuScenes: A Large-Scale Benchmark for LiDAR Panoptic Segmentation and Tracking](https://events.infovaya.com/presentation?id=77131)
-# Deep Learning for Robotic Systems II
-- [Multi-Modal Motion Prediction with Transformer-Based Neural Network for Autonomous Driving](https://events.infovaya.com/presentation?id=77134)
-- [HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud](https://events.infovaya.com/presentation?id=77137)
-- [Robust Self-Supervised LiDAR Odometry Via Representative Structure Discovery and 3D Inherent Error Modeling](https://events.infovaya.com/presentation?id=77140)
-- [Deep Weakly Supervised Positioning for Indoor Mobile Robots](https://events.infovaya.com/presentation?id=77143)
-- [Diff-Net: Image Feature Difference Based High-Definition Map Change Detection for Autonomous Driving](https://events.infovaya.com/presentation?id=77146)
-- [Context Is Everything: Implicit Identification for Dynamics Adaptation](https://events.infovaya.com/presentation?id=77149)
-- [Unsupervised Domain Adaptation in LiDAR Semantic Segmentation with Self-Supervision and Gated Adapters](https://events.infovaya.com/presentation?id=77152)
-- [Implicit Kinematic Policies: Unifying Joint and Cartesian Action Spaces in End-To-End Robot Learning](https://events.infovaya.com/presentation?id=77155)
-- [SEMI: Self-Supervised Exploration Via Multisensory Incongruity](https://events.infovaya.com/presentation?id=77158)
-- [Real-Robot Deep Reinforcement Learning: Improving Trajectory Tracking of Flexible-Joint Manipulator with Reference Correction](https://events.infovaya.com/presentation?id=77161)
-- [Sequential Joint Shape and Pose Estimation of Vehicles with Application to Automatic Amodal Segmentation Labeling](https://events.infovaya.com/presentation?id=77164)
-- [A Dual-Stream Architecture for Real-Time Morphological Analysis of Aneurysm in Robot-Assisted Minimally Invasive Surgery](https://events.infovaya.com/presentation?id=77167)
-# Dexterous and In-Hand Manipulation
-- [Manipulation of Unknown Objects Via Contact Configuration Regulation](https://events.infovaya.com/presentation?id=77170)
-- [Physical Property Estimation and Knife Trajectory Optimization During Robotic Cutting](https://events.infovaya.com/presentation?id=77173)
-- [RMPs for Safe Impedance Control in Contact-Rich Manipulation](https://events.infovaya.com/presentation?id=77176)
-- [Discovering Synergies for Robot Manipulationwith Multi-Task Reinforcement Learning](https://events.infovaya.com/presentation?id=77179)
-- [Planning for Dexterous Ungrasping: Secure Ungrasping through Dexterous Manipulation](https://events.infovaya.com/presentation?id=77182)
-- [Contact Mode Guided Motion Planning for Quasidynamic Dexterous Manipulation in 3D](https://events.infovaya.com/presentation?id=77185)
-- [Robust Ungrasping of High Aspect Ratio Objects through Dexterous Manipulation](https://events.infovaya.com/presentation?id=77188)
-- [Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand](https://events.infovaya.com/presentation?id=77191)
-- [On the Feasibility of Learning Finger-Gaiting In-Hand Manipulation with Intrinsic Sensing](https://events.infovaya.com/presentation?id=77194)
-- [Negative Stiffness Analysis and Regulation of In-Hand Manipulation with Underactuated Compliant Hands](https://events.infovaya.com/presentation?id=77197)
-- [Complex In-Hand Manipulation Via Compliance-Enabled Finger Gaiting and Multi-Modal Planning](https://events.infovaya.com/presentation?id=77200)
-- [Controlling Palm-Object Interactions Via Friction for Enhanced In-Hand Manipulation](https://events.infovaya.com/presentation?id=77203)
-# Human Robot Teams and Physical Collaboration
-- [Robust and Accurate Multi-Agent SLAM with Efficient Communication for Smart Mobiles](https://events.infovaya.com/presentation?id=77206)
-- [Synergistic Scheduling of Learning and Allocation of Tasks in Human-Robot Teams](https://events.infovaya.com/presentation?id=77209)
-- [Mixed Reality As Communication Medium for Human-Robot Collaboration](https://events.infovaya.com/presentation?id=77212)
-- [Adaptive Vision-Based Control of Redundant Robots with Null-Space Interaction for Human-Robot Collaboration](https://events.infovaya.com/presentation?id=77215)
-- [Uncertainty-Assisted Image-Processing for Human-Robot Close Collaboration](https://events.infovaya.com/presentation?id=77218)
-- [HATP/EHDA: A Robot Task Planner Anticipating and Eliciting Human Decisions and Actions](https://events.infovaya.com/presentation?id=77221)
-- [Dynamic Human-Robot Role Allocation Based on Human Ergonomics Risk Prediction and Robot Actions Adaptation](https://events.infovaya.com/presentation?id=77224)
-- [Assisting Operators of Articulated Machinery with Optimal Planning and Goal Inference](https://events.infovaya.com/presentation?id=77227)
-- [On-Line Feasible Wrench Polytope Evaluation Based on Human Musculoskeletal Models: An Iterative Convex Hull Method](https://events.infovaya.com/presentation?id=77230)
-- [R2poweR: The Proof-Of-Concept of a Backdrivable, High-Ratio Gearbox for Human-Robot Collaboration](https://events.infovaya.com/presentation?id=77233)
-- [Expectable Motion Unit: Avoiding Hazards from Human Involuntary Motions in Human-Robot Interaction](https://events.infovaya.com/presentation?id=77236)
-# Intelligent Transportation II
-- [All-In-One: A DRL-Based Control Switch Combining State-Of-The-Art Navigation Planners](https://events.infovaya.com/presentation?id=77239)
-- [Trajectory Prediction with Linguistic Representations](https://events.infovaya.com/presentation?id=77242)
-- [Game-Theoretic Planning for Autonomous Driving among Risk-Aware Human Drivers](https://events.infovaya.com/presentation?id=77245)
-- [Deploying Traffic Smoothing Cruise ControllersLearned from Trajectory Data](https://events.infovaya.com/presentation?id=77248)
-- [Personalized Car Following for Autonomous Driving with Inverse Reinforcement Learning](https://events.infovaya.com/presentation?id=77251)
-- [GamePlan: Game-Theoretic Multi-Agent Planning with Human Drivers at Intersections, Roundabouts, and Merging](https://events.infovaya.com/presentation?id=77254)
-- [HYPER: Learned Hybrid Trajectory Prediction Via Factored Inference and Adaptive Sampling](https://events.infovaya.com/presentation?id=77257)
-- [Important Object Identification with Semi-Supervised Learning for Autonomous Driving](https://events.infovaya.com/presentation?id=77260)
-- [BAANet: Learning Bi-Directional Adaptive Attention Gates for Multispectral Pedestrian Detection](https://events.infovaya.com/presentation?id=77263)
-- [Ensuring Safety of Learning-Based Motion Planners Using Control Barrier Functions](https://events.infovaya.com/presentation?id=77266)
-- [Globally Optimal Relative Pose Estimation for Multi-Camera Systems with Known Gravity Direction](https://events.infovaya.com/presentation?id=77269)
-- [Model Predictive Path-Planning Controller with Potential Function for Emergency Collision Avoidance on Highway Driving](https://events.infovaya.com/presentation?id=77272)
-# Manufacturing and Actuation
-- [Dynamic Evaluation of Deformable Object Grasping](https://events.infovaya.com/presentation?id=77275)
-- [Robotic Manipulators Performing Smart Sanding Operation: A Vibration Approach](https://events.infovaya.com/presentation?id=77278)
-- [Trajectory Planning and Optimization for Robotic Machining Based on Measured Point Cloud](https://events.infovaya.com/presentation?id=77281)
-- [Learning to Fill the Seam by Vision: Sub-Millimeter Peg-In-Hole on Unseen Shapes in Real World](https://events.infovaya.com/presentation?id=77284)
-- [An Experimental Study of Wind Resistance and Power Consumption in MAVs with a Low-Speed Multi-Fan Wind System](https://events.infovaya.com/presentation?id=77287)
-- [On the Design, Modeling and Experimental Verification of a Floating Satellite Platform](https://events.infovaya.com/presentation?id=77290)
-- [Mechanical Variable Magnetic Gear Transmission: Concept and Preliminary Research](https://events.infovaya.com/presentation?id=77293)
-- [dSEDA: A Differential Series Elastic Damped Actuator](https://events.infovaya.com/presentation?id=80533)
-- [Permanent-Magnetically Amplified Brake Mechanism Compensated and Stroke-Shortened by a Multistage Nonlinear Spring](https://events.infovaya.com/presentation?id=77296)
-- [Pneumatic Quasi-Passive Variable Stiffness Mechanism for Energy Storage Applications](https://events.infovaya.com/presentation?id=77299)
-# Marine Robotics / Localization
-- [Amplitude Control for Parallel Lattices of Docked Modboats](https://events.infovaya.com/presentation?id=77302)
-- [Sliding Mode Controller for Positioning of an Underwater Vehicle Subject to Disturbances and Time Delays](https://events.infovaya.com/presentation?id=77305)
-- [HoloOcean: An Underwater Robotics Simulator](https://events.infovaya.com/presentation?id=77308)
-- [Flow-Based Control of Marine Robots in Gyre-Like Environments](https://events.infovaya.com/presentation?id=77311)
-- [Spatial Acoustic Projection for 3D Imaging Sonar Reconstruction](https://events.infovaya.com/presentation?id=77314)
-- [Cross-View and Cross-Domain Underwater Localization Based on Optical Aerial and Acoustic Underwater Images](https://events.infovaya.com/presentation?id=77317)
-- [Adaptive Cubature Split Covariance Intersection Filter for Multi-Vehicle Cooperative Localization](https://events.infovaya.com/presentation?id=77320)
-- [Hypotheses Disambiguation in Retrospective](https://events.infovaya.com/presentation?id=77323)
-- [Mobile Robot Localization Considering Uncertainty of Depth Regression from Camera Images](https://events.infovaya.com/presentation?id=77326)
-- [Direct LiDAR Odometry: Fast Localization with Dense Point Clouds](https://events.infovaya.com/presentation?id=77329)
-# Mechanism Design II
-- [Obstacle-Overcoming and Stabilization Mechanism of a Rope-Riding Mobile Robot on a Facade](https://events.infovaya.com/presentation?id=77332)
-- [A Compact and Agile Angled-Spoke Wheel-Based Mobile Robot for Uneven and Granular Terrains](https://events.infovaya.com/presentation?id=77335)
-- [Construction and Excavation by Collaborative Double-Tailed SAW Robots](https://events.infovaya.com/presentation?id=77338)
-- [Design and Stiffness Analysis of a Novel 7-DOF Cable-Driven Manipulator](https://events.infovaya.com/presentation?id=77341)
-- [Prismatic Gravity Compensator for Variable Payloads](https://events.infovaya.com/presentation?id=77344)
-- [An Integrated Design Pipeline for Tactile Sensing Robotic Manipulators](https://events.infovaya.com/presentation?id=77347)
-- [Graph Grammar-Based Automatic Design for Heterogeneous Fleets of Underwater Robots](https://events.infovaya.com/presentation?id=77350)
-- [The Design of Stretch: A Compact, Lightweight Mobile Manipulator for Indoor Human Environments](https://events.infovaya.com/presentation?id=77353)
-- [A Novel Passive Shoulder Exoskeleton Designed with Variable Stiffness Mechanism](https://events.infovaya.com/presentation?id=77356)
-- [SIMJig ](https://events.infovaya.com/presentation?id=77359)
-- [Shake and Take: Fast Transformation of an Origami Gripper](https://events.infovaya.com/presentation?id=77362)
-- [An Agile Samara-Inspired Single-Actuator Aerial Robot Capable of Autorotation and Diving](https://events.infovaya.com/presentation?id=77365)
-# Modeling, Control, and Learning for Soft Robots
-- [Orientation to Pose: Continuum Robots Shape Reconstruction Based on the Multi-Attitude Solving Approach](https://events.infovaya.com/presentation?id=77368)
-- [A Novel Full State Feedback Decoupling Controller for Elastic Robot Arm](https://events.infovaya.com/presentation?id=77371)
-- [3D Printing of Concrete with a Continuum Robot Hose Using Variable Curvature Kinematics](https://events.infovaya.com/presentation?id=77374)
-- [Modeling the Dynamics of Soft Robots by Discs and Threads](https://events.infovaya.com/presentation?id=77377)
-- [A Recurrent Differentiable Engine for Modeling Tensegrity Robots Trainable with Low-Frequency Data](https://events.infovaya.com/presentation?id=77380)
-- [Forward Kinematics and Control of a Segmented Tunable-Stiffness 3-D Continuum Manipulator](https://events.infovaya.com/presentation?id=77383)
-- [Online Assistance Control of a Pneumatic Gait Assistive Suit Using Physical Reservoir Computing Exploiting Air Dynamics](https://events.infovaya.com/presentation?id=77386)
-- [Modeling of Viscoelastic Dielectric Elastomer Actuators Based on the Sparse Identification Method](https://events.infovaya.com/presentation?id=77389)
-- [Adaptive Dynamic Sliding Mode Control of Soft Continuum Manipulators](https://events.infovaya.com/presentation?id=77392)
-- [Closed-Loop Dynamic Control of a Soft Manipulator Using Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=77395)
-- [Soft Pneumatic Actuator Model Based on a Pressure-Dependent Spatial Nonlinear Rod Theory](https://events.infovaya.com/presentation?id=77398)
-- [Real-Time Dynamics of Concentric Tube Robots with Reduced-Order Kinematics Based on Shape Interpolation](https://events.infovaya.com/presentation?id=77401)
-# Motion Planning
-- [Regulations Aware Motion Planning for Autonomous Surface Vessels in Urban Canals](https://events.infovaya.com/presentation?id=77404)
-- [MPLP: Massively Parallelized Lazy Planning](https://events.infovaya.com/presentation?id=77407)
-- [Autonomous Teamed Exploration of Subterranean Environments Using Legged and Aerial Robots](https://events.infovaya.com/presentation?id=77410)
-- [ST-RRT*: Asymptotically-Optimal Bidirectional Motion Planning through Space-Time](https://events.infovaya.com/presentation?id=77413)
-- [Speed Planning in Dynamic Environments Over a Fixed Path for Autonomous Vehicles](https://events.infovaya.com/presentation?id=77416)
-- [Coverage Path Planning in Large-Scale Multi-Floor Urban Environments with Applications to Autonomous Road Sweeping](https://events.infovaya.com/presentation?id=77419)
-- [Convex Strategies for Trajectory Optimisation: Application to the Polytope Traversal Problem](https://events.infovaya.com/presentation?id=77422)
-- [UFOExplorer: Fast and Scalable Sampling-Based Exploration with a Graph-Based Planning Structure](https://events.infovaya.com/presentation?id=77425)
-- [Uniform Coverage Tool Path Generation for Robotic Surface Finishing of Curved Surfaces](https://events.infovaya.com/presentation?id=77428)
-- [Oriented Surface Reachability Maps for Robot Placement](https://events.infovaya.com/presentation?id=77431)
-- [COP: Control & Observability-Aware Planning](https://events.infovaya.com/presentation?id=77434)
-- [AMRA*: Anytime Multi-Resolution Multi-Heuristic A*](https://events.infovaya.com/presentation?id=77437)
-# Optimization and Optimal Control II
-- [An MPC Formulation on SO(3) for a Quadrotor with Bidirectional Thrust and Nonlinear Thrust Constraints](https://events.infovaya.com/presentation?id=77440)
-- [Riemannian Optimization for Distance-Geometric Inverse Kinematics](https://events.infovaya.com/presentation?id=77443)
-- [Position and Orientation Tunnel-Following NMPC of Robot Manipulators Based on Symbolic Linearization in Sequential Convex Quadratic Programming](https://events.infovaya.com/presentation?id=77446)
-- [Real-Time Multi-Contact Model Predictive Control Via ADMM](https://events.infovaya.com/presentation?id=77449)
-- [Maximum Entropy Differential Dynamic Programming](https://events.infovaya.com/presentation?id=77452)
-- [Optimal Control Via Combined Inference and Numerical Optimization](https://events.infovaya.com/presentation?id=77455)
-- [Multi-Modal Model Predictive Control through Batch Non-Holonomic Trajectory Optimization: Application to Highway Driving](https://events.infovaya.com/presentation?id=77458)
-- [Autonomous Racing with Multiple Vehicles Using a Parallelized Optimization with Safety Guarantee Using Control Barrier Functions](https://events.infovaya.com/presentation?id=77461)
-- [Trajectory Optimization with Optimization-Based Dynamics](https://events.infovaya.com/presentation?id=77464)
-- [Pose Estimation Based on a Dual Quaternion Feedback Particle Filter](https://events.infovaya.com/presentation?id=77467)
-- [Robust Control under Uncertainty Via Bounded Rationality and Differential Privacy](https://events.infovaya.com/presentation?id=77470)
-- [Tube-Certified Trajectory Tracking for Nonlinear Systems with Robust Control Contraction Metrics](https://events.infovaya.com/presentation?id=77473)
-# Perception for Grasping and Manipulation II
-- [Uncertainty-Based Exploring Strategy in Densely Cluttered Scenes for Vacuum Cup Grasping](https://events.infovaya.com/presentation?id=77476)
-- [REGRAD: A Large-Scale Relational Grasp Dataset for Safe and Object-SpeciÔ¨Åc Robotic Grasping in Clutter](https://events.infovaya.com/presentation?id=77479)
-- [Grounding Predicates through Actions](https://events.infovaya.com/presentation?id=77482)
-- [Probabilistic Spatio-Temporal Fusion of Affordances for Grasping and Manipulation](https://events.infovaya.com/presentation?id=77485)
-- [Soft Tracking Using Contacts for Cluttered Objects to Perform Blind Object Retrieval](https://events.infovaya.com/presentation?id=77488)
-- [A Sim-To-Real Object Recognition and Localization Framework for Industrial Robotic Bin Picking](https://events.infovaya.com/presentation?id=77491)
-- [Active Visuo-Haptic Object Shape Completion](https://events.infovaya.com/presentation?id=77494)
-- [Detection of Slip from Vision and Touch](https://events.infovaya.com/presentation?id=77497)
-- [Force-Based Simultaneous Mapping and Object Reconstruction for Robotic Manipulation](https://events.infovaya.com/presentation?id=77500)
-- [VisuoTactile 6D Pose Estimation of an In-Hand Object Using Vision and Tactile Sensor Data](https://events.infovaya.com/presentation?id=77503)
-- [Fast Object Inertial Parameter Identification for Collaborative Robots](https://events.infovaya.com/presentation?id=77506)
-- [Pose Estimation for Robot Manipulators Via Keypoint Optimization and Sim-To-Real Transfer](https://events.infovaya.com/presentation?id=77509)
-# Representation Learning
-- [Learning to Navigate Intersections with Unsupervised Driver Trait Inference](https://events.infovaya.com/presentation?id=77512)
-- [VIRDO: Visio-Tactile Implicit Representations of Deformable Objects](https://events.infovaya.com/presentation?id=77515)
-- [Seeking Visual Discomfort: Curiosity-Driven Representations for Reinforcement Learning](https://events.infovaya.com/presentation?id=77518)
-- [Topologically-Informed Atlas Learning](https://events.infovaya.com/presentation?id=77521)
-- [Intrinsically Motivated Self-Supervised Learning in Reinforcement Learning](https://events.infovaya.com/presentation?id=77524)
-- [Offline Learning of Counterfactual Perception As Prediction for Real-World Robotic Reinforcement Learning](https://events.infovaya.com/presentation?id=77527)
-- [Generalizing to New Domains by Mapping Natural Language to Lifted LTL](https://events.infovaya.com/presentation?id=77530)
-- [Exploiting Abstract Symmetries in Reinforcement Learning for Complex Environments](https://events.infovaya.com/presentation?id=77533)
-- [Probabilistic Inference of Simulation Parameters Via Parallel Differentiable Simulation](https://events.infovaya.com/presentation?id=77536)
-- [Sampling Over Riemannian Manifolds Using Kernel Herding](https://events.infovaya.com/presentation?id=77539)
-- [Reaching through Latent Space: From Joint Statistics to Path Planning in Manipulation](https://events.infovaya.com/presentation?id=77542)
-# SLAM and Exploration
-- [Collaborative Robot Mapping Using Spectral Graph Analysis](https://events.infovaya.com/presentation?id=77545)
-- [DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM with Two-Stage Global-Local Graph Optimization](https://events.infovaya.com/presentation?id=77548)
-- [Ensemble Kalman Filter Based LiDAR Odometry for Skewed Point Clouds Using Scan Slicing](https://events.infovaya.com/presentation?id=77551)
-- [Next-Best-View Prediction for Active Stereo Cameras and Highly Reflective Objects](https://events.infovaya.com/presentation?id=77554)
-- [Optimal Target Shape for LiDAR Pose Estimation](https://events.infovaya.com/presentation?id=77557)
-- [Learning to Listen and Move: An Implementation of Audio-Aware Mobile Robot Navigation in Complex Indoor Environment](https://events.infovaya.com/presentation?id=77560)
-- [Ada-Detector: Adaptive Frontier Detector for Rapid Exploration](https://events.infovaya.com/presentation?id=77563)
-- [H2GNN: Hierarchical-Hops Graph Neural Networks for Multi-Robot Exploration in Unknown Environments](https://events.infovaya.com/presentation?id=77566)
-- [SCVP: Learning One-Shot View Planning Via Set Covering for Unknown Object Reconstruction](https://events.infovaya.com/presentation?id=77569)
-- [Sparse Pose Graph Optimization in Cycle Space](https://events.infovaya.com/presentation?id=77572)
-- [MR-GMMapping: Communication Efficient Multi-Robot Mapping System Via Gaussian Mixture Model](https://events.infovaya.com/presentation?id=77575)
-- [GVINS: Tightly Coupled GNSS-Visual-Inertial Fusion for Smooth and Consistent State Estimation](https://events.infovaya.com/presentation?id=77578)
-# Medical Robots and Systems
-- [CATs: Task Planning for Shared Control of Assistive Robots with Variable Autonomy](https://events.infovaya.com/presentation?id=77581)
-- [Robotically-Aligned Optical Coherence Tomography with Gaze Tracking for Image Montaging of the Retina](https://events.infovaya.com/presentation?id=77584)
-- [Generalized 3D Rigid Point Set Registration with Anisotropic Positional Error Based on Bayesian Coherent Point Drift](https://events.infovaya.com/presentation?id=77587)
-- [3D Image-Guided Robotic System for Bone Fracture Reduction](https://events.infovaya.com/presentation?id=77590)
-- [A Surgeon Preference-Guided Autonomous Instrument Tracking Method with a Robotic Flexible Endoscope Based on dVRK Platform](https://events.infovaya.com/presentation?id=77593)
-- [Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal](https://events.infovaya.com/presentation?id=77596)
-- [Acoustic Shadowing Aware Robotic Ultrasound: Lighting up the Dark](https://events.infovaya.com/presentation?id=77599)
-- [RSV: Robotic Sonography for Thyroid Volumetry](https://events.infovaya.com/presentation?id=77602)
-- [3-D Electromagnetic Position Estimation System Using High-Magnetic-Permeability Metal for Continuum Medical Robots](https://events.infovaya.com/presentation?id=77605)
-- [Six-Degree-Of-Freedom Localization with a 3-Axis Accelerometer and a 2-Axis Magnetometer for Magnetic Capsule Endoscopy](https://events.infovaya.com/presentation?id=77608)
-- [Runtime Detection of Executional Errors in Robot-Assisted Surgery](https://events.infovaya.com/presentation?id=77611)
-- [Automated Heart and Lung Auscultation in Robotic Physical Examinations](https://events.infovaya.com/presentation?id=77614)
-# Task, Motion and Path Planning
-- [Large-Scale Network Traffic Prediction with LSTM and Temporal Convolutional Networks](https://events.infovaya.com/presentation?id=77617)
-- [Domain Concretization from Examples: Addressing Missing Domain Knowledge Via Robust Planning](https://events.infovaya.com/presentation?id=77620)
-- [PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks](https://events.infovaya.com/presentation?id=77623)
-- [High-Level Planning for Object Manipulation with Multi Heterogeneous Robots in Shared Environments](https://events.infovaya.com/presentation?id=77626)
-- [Dynamics-Aware Metric Embedding: Metric Learning in a Latent Space for Visual Planning](https://events.infovaya.com/presentation?id=77629)
-- [Geometric Task Networks: Learning Efficient and Explainable Skill Coordination for Object Manipulation](https://events.infovaya.com/presentation?id=77632)
-- [A Two-Stage Optimization-Based Motion Planner for Safe Urban Driving](https://events.infovaya.com/presentation?id=77635)
-- [Online Next-Best-View Planner for 3D-Exploration and Inspection with a Mobile Manipulator Robot](https://events.infovaya.com/presentation?id=77638)
-- [Configuration Space Decomposition for Scalable Proxy Collision Checking in Robot Planning and Control](https://events.infovaya.com/presentation?id=77641)
-- [Time-Optimization of Trajectories Using Zero-Clamped Cubic Splines and Their Analytical Gradients](https://events.infovaya.com/presentation?id=77644)
-- [Online State-Time Trajectory Planning Using Timed-ESDF in Highly Dynamic Environments](https://events.infovaya.com/presentation?id=77647)
-- [Contact-Implicit Direct Collocation with a Discontinuous Velocity State](https://events.infovaya.com/presentation?id=77650)
-# Aerial Robotics III
-- [Multi-Agent Active Search: A Reinforcement Learning Approach](https://events.infovaya.com/presentation?id=77653)
-- [Forceful Valve Manipulation with Arbitrary Direction by Articulated Aerial Robot Equipped with Thrust Vectoring Apparatus](https://events.infovaya.com/presentation?id=77656)
-- [Perception-Aware Perching on Powerlines with Multirotors](https://events.infovaya.com/presentation?id=77659)
-- [Tracker Meets Night: A Transformer Enhancer for UAV Tracking](https://events.infovaya.com/presentation?id=77662)
-- [GPA-Teleoperation: Gaze Enhanced Perception-Aware Safe Assistive Aerial Teleoperation](https://events.infovaya.com/presentation?id=77665)
-- [A Bimodal Rolling-Flying Robot for Micro Level Inspection of Flat and Inclined Surfaces](https://events.infovaya.com/presentation?id=77668)
-- [Clustering and Informative Path Planning for 3D Gas Distribution Mapping: Algorithms and Performance Evaluation](https://events.infovaya.com/presentation?id=77671)
-- [From Demonstration to Flight: Realization of Autonomous Aerobatic Maneuvers for Fast, Miniature Fixed-Wing UAVs](https://events.infovaya.com/presentation?id=77674)
-- [Autonomous Single-Image Drone Exploration with Deep Reinforcement Learning and Mixed Reality](https://events.infovaya.com/presentation?id=77677)
-- [Neither Fast nor Slow: How to Fly through Narrow Tunnels](https://events.infovaya.com/presentation?id=77680)
-- [Towards Time-Optimal Tunnel-Following for Quadrotors](https://events.infovaya.com/presentation?id=77683)
-# Art and Entertainment / Space Robotics
-- [Bang-Bang Control with Constant Thrust of a Spherical Blimp Propelled by Ultrasound Beam](https://events.infovaya.com/presentation?id=77686)
-- [CineMPC: Controlling Camera Intrinsics and Extrinsics for Autonomous Cinematography](https://events.infovaya.com/presentation?id=77689)
-- [GTGraffiti: Spray Painting Graffiti Art from Human Painting Motions with a Cable Driven Parallel Robot](https://events.infovaya.com/presentation?id=77692)
-- [Neural Style Transfer with Twin-Delayed DDPG for Shared Control of Robotic Manipulators](https://events.infovaya.com/presentation?id=77695)
-- [A Detumbling Strategy for an Orbital Manipulator in the Post-Grasp Phase](https://events.infovaya.com/presentation?id=77698)
-- [Autonomy and Perception for Space Mining](https://events.infovaya.com/presentation?id=77701)
-- [Cat-Like Jumping and Landing of Legged Robots in Low Gravity Using Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=77704)
-- [AstroLoc: An Efficient and Robust Localizer for a Free-Flying Robot](https://events.infovaya.com/presentation?id=77707)
-- [Collision-Free Trajectory Planning for a 6-DoF Free-Floating Space Robot Via Hierarchical Decoupling Optimization](https://events.infovaya.com/presentation?id=77710)
-- [Robust Semantic Mapping and Localization on a Free-Flying Robot in Microgravity](https://events.infovaya.com/presentation?id=77713)
-# Localization II
-- [DC-Loc: Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation](https://events.infovaya.com/presentation?id=77716)
-- [SemLoc: Accurate and Robust Visual Localization with Semantic and Structural Constraints from Prior Maps](https://events.infovaya.com/presentation?id=77719)
-- [FP-Loc: Lightweight and Drift-Free Floor Plan-Assisted LiDAR Localization](https://events.infovaya.com/presentation?id=77722)
-- [LLOL: Low-Latency Odometry for Spinning Lidars](https://events.infovaya.com/presentation?id=77725)
-- [PixSelect: Less but Reliable Pixels for Accurate and Efficient Localization](https://events.infovaya.com/presentation?id=77728)
-- [Robust Monocular Localization in Sparse HD Maps Leveraging Multi-Task Uncertainty Estimation](https://events.infovaya.com/presentation?id=77731)
-- [Flexible and Resource-Efficient Multi-Robot Collaborative Visual-Inertial-Range Localization](https://events.infovaya.com/presentation?id=77734)
-- [MinkLoc3D-SI: 3D LiDAR Place Recognition with Sparse Convolutions, Spherical Coordinates, and Intensity](https://events.infovaya.com/presentation?id=77737)
-- [Fast and Robust Registration of Partially Overlapping Point Clouds](https://events.infovaya.com/presentation?id=77740)
-- [Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization](https://events.infovaya.com/presentation?id=77743)
-- [Clock and Power-Induced Bias Correction for UWB Time-Of-Flight Measurements](https://events.infovaya.com/presentation?id=77746)
-- [OpenStreetMap-Based LiDAR Global Localization in Urban Environment without a Prior LiDAR Map](https://events.infovaya.com/presentation?id=77749)
-# Cellular, Modular, and Parallel Robots
-- [TrussBot: Modeling, Design and Control of a Compliant, Helical Truss of Tetrahedral Modules](https://events.infovaya.com/presentation?id=77752)
-- [Self-Reconfiguring Robotic Gantries Powered by Modular Magnetic Lead Screws](https://events.infovaya.com/presentation?id=77755)
-- [Energy Sharing Mechanism for a Freeform Robotic System ](https://events.infovaya.com/presentation?id=77758)
-- [FreeSN: A Freeform Strut-Node Structured Modular Self-Reconfigurable Robot ](https://events.infovaya.com/presentation?id=77761)
-- [Adaptive Flow Planning of Modular Spherical Robot Considering Static Gravity Stability](https://events.infovaya.com/presentation?id=77764)
-- [ElectroVoxel: Electromagnetically Actuated Pivoting for Scalable Modular Self-Reconfigurable Robots](https://events.infovaya.com/presentation?id=77767)
-- [SnailBot: A Continuously Dockable Modular Self-Reconfigurable Robot Using Rocker-Bogie Suspension](https://events.infovaya.com/presentation?id=77770)
-- [Configuration Control for Physical Coupling of Heterogeneous Robot Swarms](https://events.infovaya.com/presentation?id=77773)
-- [A Linking Invariant for Truss Robot Motion Planning](https://events.infovaya.com/presentation?id=77776)
-- [Modular Robot Design Optimization with Generative Adversarial Networks](https://events.infovaya.com/presentation?id=77779)
-- [A Force-Controlled Parallel Robot for Large-Range Stiffness Rendering in Three Dimensions](https://events.infovaya.com/presentation?id=77782)
-- [Workspace Computation of Planar Continuum Parallel Robots](https://events.infovaya.com/presentation?id=77785)
-# Formal Methods in Robotics and Automation
-- [Temporal Logic Guided Motion Primitives for Complex Manipulation Tasks with User Preferences](https://events.infovaya.com/presentation?id=77788)
-- [SaRA: A Tool for Safe Human-Robot Coexistence and Collaboration through Reachability Analysis](https://events.infovaya.com/presentation?id=77791)
-- [Computing Funnels Using Numerical Optimization Based Falsifiers](https://events.infovaya.com/presentation?id=77794)
-- [Fast Decomposition of Temporal Logic Specifications for Heterogeneous Teams](https://events.infovaya.com/presentation?id=77797)
-- [Equivariant Filter Design for Inertial Navigation Systems with Input Measurement Biases](https://events.infovaya.com/presentation?id=77800)
-- [Let's Collaborate: Regret-Based Reactive Synthesis for Robotic Manipulation](https://events.infovaya.com/presentation?id=77803)
-- [Planning Via Model Checking with Decision-Tree Controllers](https://events.infovaya.com/presentation?id=77806)
-- [STL2vec: Signal Temporal Logic Embeddings for Control Synthesis with Recurrent Neural Networks](https://events.infovaya.com/presentation?id=77809)
-- [Automated Task Updates of Temporal Logic Specifications for Heterogeneous Robots](https://events.infovaya.com/presentation?id=77812)
-- [Probabilistic Coordination of Heterogeneous Teams from Capability Temporal Logic Specifications](https://events.infovaya.com/presentation?id=77815)
-- [On Nondeterminism in Combinatorial Filters](https://events.infovaya.com/presentation?id=77818)
-- [An Abstraction-Free Method for Multirobot Temporal Logic Optimal Control Synthesis](https://events.infovaya.com/presentation?id=77821)
-# Integrated Planning and Learning
-- [Learning an Explainable Trajectory Generator Using the Automaton Generative Network (AGN)](https://events.infovaya.com/presentation?id=77824)
-- [Stronger Generalization Guarantees for Robot Learning by Combining Generative Models and Real-World Data](https://events.infovaya.com/presentation?id=77827)
-- [Speeding up Deep Neural Network-Based Planning of Local Car Maneuvers Via Efficient B-Spline Path Construction](https://events.infovaya.com/presentation?id=77830)
-- [Learning-Guided Exploration for Efficient Sampling-Based Motion Planning in High Dimensions](https://events.infovaya.com/presentation?id=77833)
-- [Control-Aware Prediction Objectives for Autonomous Driving](https://events.infovaya.com/presentation?id=77836)
-- [MLNav: Learning to Safely Navigate on Martian Terrains](https://events.infovaya.com/presentation?id=77839)
-- [Hybrid Imitative Planning with Geometric and Predictive Costs in Offroad Environments](https://events.infovaya.com/presentation?id=77842)
-- [ReDUCE: Reformulation of Mixed Integer Programs Using Data from Unsupervised Clusters for Learning Efficient Strategies](https://events.infovaya.com/presentation?id=77845)
-- [Where to Look Next: Learning Viewpoint Recommendations for Informative Trajectory Planning](https://events.infovaya.com/presentation?id=77848)
-- [Adaptive Informative Path Planning Using Deep Reinforcement Learning for UAV-Based Active Sensing](https://events.infovaya.com/presentation?id=77851)
-# Mobile Manipulation
-- [Robotic Autonomous Trolley Collection with Progressive Perception and Nonlinear Model Predictive Control](https://events.infovaya.com/presentation?id=77854)
-- [Learning to Rock-And-Walk: Dynamic, Non-Prehensile, and Underactuated Object Locomotion through Reinforcement Learning](https://events.infovaya.com/presentation?id=77857)
-- [Where Should I Look? Optimised Gaze Control for Whole-Body Collision Avoidance in Dynamic Environments](https://events.infovaya.com/presentation?id=77860)
-- [A Holistic Approach to Reactive Mobile Manipulation](https://events.infovaya.com/presentation?id=77863)
-- [Modular End-Effector System for Autonomous Robotic Maintenance & Repair](https://events.infovaya.com/presentation?id=77866)
-- [ReachBot: A Small Robot with Exceptional Reach for Rough Terrain](https://events.infovaya.com/presentation?id=77869)
-- [Predictive End-Effector Control of Manipulators on Moving Platforms under Disturbance](https://events.infovaya.com/presentation?id=77872)
-- [Kineverse: A Symbolic Articulation Model Framework for Model-Agnostic Mobile Manipulation](https://events.infovaya.com/presentation?id=77875)
-- [Multi-Trajectory Approach for a Generic Coordination Paradigm of Wheeled Mobile Manipulators](https://events.infovaya.com/presentation?id=77878)
-# Deep Learning for Visual Perception I
-- [Traffic Context Aware Data Augmentation for Rare Object Detection in Autonomous Driving](https://events.infovaya.com/presentation?id=77881)
-- [Self-Supervised Transparent Liquid Segmentation for Robotic Pouring](https://events.infovaya.com/presentation?id=77884)
-- [Semi-Supervised Learning with Mutual Distillation for Monocular Depth Estimation](https://events.infovaya.com/presentation?id=77887)
-- [DCL: Differential Contrastive Learning for Geometry-Aware Depth Synthesis](https://events.infovaya.com/presentation?id=77890)
-- [OpenSceneVLAD: Appearance Invariant, Open Set Scene Classification](https://events.infovaya.com/presentation?id=77893)
-- [Multi-Agent Variational Occlusion Inference Using People As Sensors](https://events.infovaya.com/presentation?id=77896)
-- [Semantic-Aware Texture-Structure Feature Collaboration for Underwater Image Enhancement](https://events.infovaya.com/presentation?id=77899)
-- [Conditioned Human Trajectory Prediction Using Iterative Attention Blocks](https://events.infovaya.com/presentation?id=77902)
-- [VMV-GCN: Volumetric Multi-View Based Graph CNN for Event Stream Classification](https://events.infovaya.com/presentation?id=77905)
-- [Bridging the Gap between Events and Frames through Unsupervised Domain Adaptation](https://events.infovaya.com/presentation?id=77908)
-- [Underwater Dock Detection through Convolutional Neural Networks Trained with Artificial Image Generation](https://events.infovaya.com/presentation?id=77911)
-- [HDMapNet: An Online HD Map Construction and Evaluation Framework](https://events.infovaya.com/presentation?id=77914)
-# Legged Robots I
-- [Mini Cheetah, the Falling Cat: A Case Study in Machine Learning and Trajectory Optimization for Robot Acrobatics](https://events.infovaya.com/presentation?id=77917)
-- [Unsupervised Learning of Terrain Representations for Haptic Monte Carlo Localization](https://events.infovaya.com/presentation?id=77920)
-- [Learning Efficient and Robust Multi-Modal Quadruped Locomotion: A Hierarchical Approach](https://events.infovaya.com/presentation?id=77923)
-- [A Linearization of Centroidal Dynamics for the Model-Predictive Control of Quadruped Robots](https://events.infovaya.com/presentation?id=77926)
-- [Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research](https://events.infovaya.com/presentation?id=77929)
-- [An Adaptable Approach to Learn Realistic Legged Locomotion without Examples](https://events.infovaya.com/presentation?id=77932)
-- [Foothold Evaluation Criterion for Dynamic Transition Feasibility for Quadruped Robots](https://events.infovaya.com/presentation?id=77935)
-- [A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation](https://events.infovaya.com/presentation?id=77938)
-- [QuadRunner: A Transformable Quasi-Wheel Quadruped](https://events.infovaya.com/presentation?id=77941)
-- [Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control](https://events.infovaya.com/presentation?id=77944)
-- [Vision-Aided Dynamic Quadrupedal Locomotion on Discrete Terrain Using Motion Libraries](https://events.infovaya.com/presentation?id=77947)
-- [Adaptive CLF-MPC with Application to Quadrupedal Robots](https://events.infovaya.com/presentation?id=77950)
-# Human-Aware Motion Planning
-- [Proactive and Smooth Maneuvering for Navigation Around Pedestrians](https://events.infovaya.com/presentation?id=77953)
-- [Learning Crowd-Aware Robot Navigation from Challenging Environments via Distributed Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=77956)
-- [An MPC Framework for Planning Safe & Trustworthy Robot Motions](https://events.infovaya.com/presentation?id=77959)
-- [Preemptive Motion Planning for Human-To-Robot Indirect Placement Handovers](https://events.infovaya.com/presentation?id=77962)
-- [Enhanced Spatial Attention Graph for Motion Planning in Crowded, Partially Observable Environments](https://events.infovaya.com/presentation?id=77965)
-- [Balancing Efficiency and Comfort in Robot-Assisted Bite Transfer](https://events.infovaya.com/presentation?id=77968)
-- [KHAOS: A Kinematic Human Aware Optimization-Based System for Reactive Planning of Flying-Coworker](https://events.infovaya.com/presentation?id=77971)
-- [Joint Communication and Motion Planning for Cobots](https://events.infovaya.com/presentation?id=77974)
-- [An Interpretable Monitoring Framework for Virtual Physics-Based Non-Interfering Robot Social Planning](https://events.infovaya.com/presentation?id=77977)
-- [SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction](https://events.infovaya.com/presentation?id=77980)
-- [Show Me What You Can Do: Capability Calibration on Reachable Workspace for Human-Robot Collaboration](https://events.infovaya.com/presentation?id=77983)
-- [Reactive, Proactive, and Inducible Proximal Crowd Robot Navigation Method Based on Inducible Social Force Model](https://events.infovaya.com/presentation?id=77986)
-# Sensing and Dynamics
-- [A Physics-Informed, Vision-Based Method to Reconstruct All Deformation Modes in Slender Bodies](https://events.infovaya.com/presentation?id=77989)
-- [Swing-Up of Underactuated Compliant Arms Via Iterative Learning Control](https://events.infovaya.com/presentation?id=77992)
-- [Leveraging Distributed Contact Force Measurements for Slip Detection: A Physics-Based Approach Enabled by a Data-Driven Tactile Sensor](https://events.infovaya.com/presentation?id=77995)
-- [Learning to Synthesize Volumetric Meshes from Vision-Based Tactile Imprints](https://events.infovaya.com/presentation?id=77998)
-- [Distributed Adaptive and Resilient Control of Multi-Robot Systems with Limited Field of View Interactions](https://events.infovaya.com/presentation?id=78001)
-- [Computation of Dynamic Joint Reaction Forces of PKM and Its Use for Load-Minimizing Trajectory Planning](https://events.infovaya.com/presentation?id=78004)
-- [Toward Physical Human-Robot Interaction Control with Aerial Manipulators: Compliance, Redundancy Resolution, and Input Limits](https://events.infovaya.com/presentation?id=78007)
-- [Dynamic Modeling and Digital Twin of a Harmonic Drive Based Collaborative Robot Joint](https://events.infovaya.com/presentation?id=78010)
-- [Efficient Analytical Derivatives of Rigid-Body Dynamics Using Spatial Vector Algebra](https://events.infovaya.com/presentation?id=78013)
-- [Geometric Fabrics: Generalizing Classical Mechanics to Capture the Physics of Behavior](https://events.infovaya.com/presentation?id=78016)
-- [Incorporating Compositions in Qualitative Approaches](https://events.infovaya.com/presentation?id=78019)
-- [A Rapid Water Sliding Robot Optimized by Bionic Motion Trajectory](https://events.infovaya.com/presentation?id=78022)
-# Multi-Robot and Swarm Robotics I
-- [Non-Contact Cooperative Manipulation of Magnetic Microparticles Using Two Robotic Electromagnetic Needles](https://events.infovaya.com/presentation?id=78025)
-- [Formation-Containment Tracking and Scaling for Multiple Quadcopters with an Application to Choke-Point Navigation](https://events.infovaya.com/presentation?id=78028)
-- [Decentralized Model Predictive Control for Equilibrium-Based Collaborative UAV Bar Transportation](https://events.infovaya.com/presentation?id=78031)
-- [Stackelberg Strategic Guidance for Heterogeneous Robots Collaboration](https://events.infovaya.com/presentation?id=78034)
-- [Providing Local Resilience to Vulnerable Areas in Robotic Networks](https://events.infovaya.com/presentation?id=78037)
-- [Coverage Control of Mobile Robots with Different Maximum Speeds for Time-Sensitive Applications](https://events.infovaya.com/presentation?id=78040)
-- [Learning Connectivity-Maximizing Network Configurations](https://events.infovaya.com/presentation?id=78043)
-- [Secure Multi-Robot Information Sampling with Periodic and Opportunistic Connectivity](https://events.infovaya.com/presentation?id=78046)
-- [Driving Swarm: A Swarm Robotics Framework for Intelligent Navigation in a Self-Organized World](https://events.infovaya.com/presentation?id=78049)
-- [Dynamic Robot Chain Networks for Swarm Foraging](https://events.infovaya.com/presentation?id=78052)
-- [On the Convergence of Multi-Robot Constrained Navigation: A Parametric Control Lyapunov Function Approach](https://events.infovaya.com/presentation?id=78055)
-- [Distributed Swarm Trajectory Optimization for Formation Flight in Dense Environments](https://events.infovaya.com/presentation?id=78058)
-# Industrial and Environmental Robotics and Monitoring
-- [Learning and Leveraging Features in Flow-Like Environments to Improve Situational Awareness](https://events.infovaya.com/presentation?id=78061)
-- [Probabilistic Methane Leak Rate Estimation Using Submodular Function Maximization with Routing Constraints](https://events.infovaya.com/presentation?id=78064)
-- [Optimizing Camera Placements for Overlapped Coverage with 3D Camera Projections](https://events.infovaya.com/presentation?id=78067)
-- [Predicting Energy Consumption of Ground Robots on Uneven Terrains](https://events.infovaya.com/presentation?id=78070)
-- [Star-Convolution for Image-Based 3D Object Detection](https://events.infovaya.com/presentation?id=78073)
-- [Efficient Industrial Solution for Robotic Task Sequencing Problem with Mutual Collision Avoidance & Cycle Time Optimization](https://events.infovaya.com/presentation?id=78076)
-- [Vacuum Suction Cup Modeling for Evaluation of Sealing and Real-Time Simulation](https://events.infovaya.com/presentation?id=78079)
-- [Digital Twin with Integrated Robot-Human/Environment Interaction Dynamics for an Industrial Mobile Manipulator](https://events.infovaya.com/presentation?id=78082)
-- [Autonomous Environment Disinfection Based on Dynamic UV-C Irradiation Map](https://events.infovaya.com/presentation?id=78085)
-- [Combined Grid and Feature-Based Mapping of Metal Structures with Ultrasonic Guided Waves](https://events.infovaya.com/presentation?id=78088)
-# Object Detection, Segmentation and Categorization I
-- [Striking the Right Balance: Recall Loss for Semantic Segmentation](https://events.infovaya.com/presentation?id=78091)
-- [Exploiting Playbacks in Unsupervised Domain Adaptation for 3D Object Detection in Self-Driving Cars](https://events.infovaya.com/presentation?id=78094)
-- [Dilated Continuous Random Field for Semantic Segmentation](https://events.infovaya.com/presentation?id=78097)
-- [Unseen Object Amodal Instance Segmentation Via Hierarchical Occlusion Modeling](https://events.infovaya.com/presentation?id=78100)
-- [Rethinking LiDAR Object Detection in Adverse Weather Conditions](https://events.infovaya.com/presentation?id=78103)
-- [OSSID: Online Self-Supervised Instance Detection by (and For) Pose Estimation](https://events.infovaya.com/presentation?id=78106)
-- [WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding](https://events.infovaya.com/presentation?id=78109)
-- [Realtime Global Attention Network for Semantic Segmentation](https://events.infovaya.com/presentation?id=78112)
-- [Multi-Class 3D Object Detection with Single-Class Supervision](https://events.infovaya.com/presentation?id=78115)
-- [Volumetric Instance-Level Semantic Mapping Via Multi-View 2D-To-3D Label Diffusion](https://events.infovaya.com/presentation?id=78118)
-- [Abstract Flow for Temporal Semantic Segmentation on the Permutohedral Lattice](https://events.infovaya.com/presentation?id=78121)
-- [Deformable One-Dimensional Object Detection for Routing and Manipulation](https://events.infovaya.com/presentation?id=78124)
-# Soft Robot Applications
-- [A Modular Approach to Design Multi-Channel Bistable Valves for Integrated Pneumatically-Driven Soft Robots Via 3D-Printing](https://events.infovaya.com/presentation?id=78127)
-- [A Switchable Rigid-Continuum Robot Arm: Design and Testing](https://events.infovaya.com/presentation?id=78130)
-- [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://events.infovaya.com/presentation?id=78133)
-- [Dynamic Control of Soft Robotic Arm: A Simulation Study](https://events.infovaya.com/presentation?id=78136)
-- [Compensating for Material Deformation in Foldable Robots Via Deep Learning -](https://events.infovaya.com/presentation?id=78139)
-- [SoMoGym: A Toolkit for Developing and Evaluating Controllers and Reinforcement Learning Algorithms for Soft Robots](https://events.infovaya.com/presentation?id=78142)
-- [Scalable Simulation and Demonstration of Jumping Piezoelectric 2-D Soft Robots](https://events.infovaya.com/presentation?id=78145)
-- [Simulation and Fabrication of Soft Robots with Embedded Skeletons](https://events.infovaya.com/presentation?id=78148)
-- [Reproduction of Human Demonstrations with a Soft-Robotic Arm Based on a Library of Learned Probabilistic Movement Primitives](https://events.infovaya.com/presentation?id=78151)
-- [Control-Oriented Modeling and Analysis of Tubular Dielectric Elastomer Actuators Dedicated to Cardiac Assist Devices](https://events.infovaya.com/presentation?id=78154)
-- [Tendon-Driven Soft Robotic Gripper for Blackberry Harvesting](https://events.infovaya.com/presentation?id=78157)
-- [Variable Stiffness Robotic Hand Driven by Twisted-Coiled Polymer Actuators](https://events.infovaya.com/presentation?id=78160)
-# Planning and Control
-- [Trajectory Scaling for Reactive Motion Planning](https://events.infovaya.com/presentation?id=78163)
-- [Optimizing Trajectories with Closed-Loop Dynamic SQP](https://events.infovaya.com/presentation?id=78166)
-- [GOMP-FIT: Grasp-Optimized Motion Planning for Fast Inertial Transport](https://events.infovaya.com/presentation?id=78169)
-- [A Simple Formulation for Fast Prioritized Optimal Control of Robots Using Weighted Exact Penalty Functions](https://events.infovaya.com/presentation?id=78172)
-- [Safety Embedded Differential Dynamic Programming Using Discrete Barrier States](https://events.infovaya.com/presentation?id=78175)
-- [DIRECT: A Differential Dynamic Programming Based Framework for Trajectory Generation](https://events.infovaya.com/presentation?id=78178)
-- [Model Predictive Control and Transfer Learning of Hybrid Systems Using Lifting Linearization Applied to Cable Suspension Systems](https://events.infovaya.com/presentation?id=78181)
-- [Optimal Task-Space Tracking with Minimum Manipulator Reconfiguration](https://events.infovaya.com/presentation?id=78184)
-- [A Reconfigurable Leg for Walking Robots](https://events.infovaya.com/presentation?id=78187)
-- [Informative Planning in the Presence of Outliers](https://events.infovaya.com/presentation?id=78190)
-- [Exploiting Redundancy to Facilitate Physical Interaction](https://events.infovaya.com/presentation?id=78193)
-- [PokeRRT: Poking As a Skill and Failure Recovery Tactic for Planar Non-Prehensile Manipulation](https://events.infovaya.com/presentation?id=78196)
-# Perceptions, Actions, and Bio-Inspired Robotics
-- [The Biasing of Action Selection Produces Emergent Human-Robot Interactions in Autonomous Driving](https://events.infovaya.com/presentation?id=78199)
-- [A Lightweight Beak-Like Sensing System for Grasping Tasks of Flapping Aerial Robots](https://events.infovaya.com/presentation?id=78202)
-- [Dynamics-Aware Quality-Diversity for Efficient Learning of Skill Repertoires](https://events.infovaya.com/presentation?id=78205)
-- [Few-Shot Quality-Diversity Optimization](https://events.infovaya.com/presentation?id=78208)
-- [Contact-Rich Manipulation of a Flexible Object Based on Deep Predictive Learning Using Vision and Tactility](https://events.infovaya.com/presentation?id=78211)
-- [Model-Based State Estimation of Two-Wheelers](https://events.infovaya.com/presentation?id=78214)
-- [Free Energy Principle for State and Input Estimation of a Quadcopter Flying in Wind](https://events.infovaya.com/presentation?id=78217)
-- [Spiking Neural Networks for Visual Place Recognition Via Weighted Neuronal Assignments](https://events.infovaya.com/presentation?id=78220)
-- [Integrated Learning of Robot Motion and Sentences: Real-Time Prediction of Grasping Motion and Attention Based on Language Instructions](https://events.infovaya.com/presentation?id=78223)
-- [Utilization of Image/Force/Tactile Sensor Data for Object-Shape-Oriented Manipulation: Wiping Objects with Turning Back Motions and Occlusion](https://events.infovaya.com/presentation?id=78226)
-# Rehabilitation Robotics
-- [Development and Evaluation of a Gait Assistance System Based on Haptic Cane and Active Knee Orthosis](https://events.infovaya.com/presentation?id=78229)
-- [Repeated Robot-Assisted Unilateral Stiffness Perturbations Result in Significant Aftereffects Relevant to Post-Stroke Gait Rehabilitation](https://events.infovaya.com/presentation?id=78232)
-- [Patient-Tailored Adaptive Control for Robot-Aided Orthopaedic Rehabilitation](https://events.infovaya.com/presentation?id=78235)
-- [Trajectory Optimization and Model Predictive Control for Functional Electrical Stimulation-Controlled Reaching](https://events.infovaya.com/presentation?id=78238)
-- [Toward Gait Symmetry Enhancement Via a Cable-Driven Exoskeleton Powered by Series Elastic Actuators](https://events.infovaya.com/presentation?id=78241)
-- [Human-in-the-Loop Weight Compensation in Upper Limb Wearable Robots towards Total Muscles' Effort Minimization](https://events.infovaya.com/presentation?id=78244)
-- [A Low-Profile Hip Exoskeleton for Pathological Gait Assistance: Design and Pilot Testing](https://events.infovaya.com/presentation?id=78247)
-- [An Over-Actuated Bionic Knee Prosthesis: Modeling, Design and Preliminary Experimental Characterization](https://events.infovaya.com/presentation?id=78250)
-- [Preliminary Investigation of Powered Knee Prosthesis with Small-Scale, Light-Weight, and Affordable Series-Elastic Actuator for Walking Rehabilitation of a Patient with Four-Limb Deficiency](https://events.infovaya.com/presentation?id=78253)
-- [A Novel Limbs-Free Variable Structure Wheelchair Based on Face-Computer Interface (FCI) with Shared Control](https://events.infovaya.com/presentation?id=78256)
-- [CRANE: A 10 Degree-Of-Freedom, Tele-Surgical System for Dexterous Manipulation within Imaging Bores](https://events.infovaya.com/presentation?id=78259)
-# Reinforcement Learning I
-- [Distributionally Robust Policy Learning Via Adversarial Environment Generation](https://events.infovaya.com/presentation?id=78262)
-- [ROMAX: Certifiably Robust Deep Multiagent Reinforcement Learning Via Convex Relaxation](https://events.infovaya.com/presentation?id=78265)
-- [Learning Emergent Discrete Message Communication for Cooperative Reinforcement Learning](https://events.infovaya.com/presentation?id=78268)
-- [Learning Observation-Based Certifiable Safe Policy for Decentralized Multi-Robot Navigation](https://events.infovaya.com/presentation?id=78271)
-- [Enhancing Deep Reinforcement Learning Approaches for Multi-Robot Navigation Via Single-Robot Evolutionary Policy Search](https://events.infovaya.com/presentation?id=78274)
-- [Barrier Function-Based Safe Reinforcement Learning for Formation Control of Mobile Robots](https://events.infovaya.com/presentation?id=78277)
-- [Bayesian Optimisation for Robust Model Predictive Control under Model Parameter Uncertainty](https://events.infovaya.com/presentation?id=78280)
-- [Asynchronous Reinforcement Learning for Real-Time Control of Physical Robots](https://events.infovaya.com/presentation?id=78283)
-- [From Scratch to Sketch: Deep Decoupled Hierarchical Reinforcement Learning for Robotic Sketching Agent](https://events.infovaya.com/presentation?id=78286)
-- [Robust Reinforcement Learning Via Genetic Curriculum](https://events.infovaya.com/presentation?id=78289)
-- [Improving Safety in Deep Reinforcement Learning Using Unsupervised Action Planning](https://events.infovaya.com/presentation?id=78292)
-- [TRC: Trust Region Conditional Value at Risk for Safe Reinforcement Learning](https://events.infovaya.com/presentation?id=78295)
-# SLAM I
-- [CT-ICP: Real-Time Elastic LiDAR Odometry with Loop Closure](https://events.infovaya.com/presentation?id=78298)
-- [SAGE: SLAM with Appearance and Geometry Prior for Endoscopy](https://events.infovaya.com/presentation?id=78301)
-- [360VO: Visual Odometry Using a Single 360 Camera](https://events.infovaya.com/presentation?id=78304)
-- [Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World](https://events.infovaya.com/presentation?id=78307)
-- [Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM](https://events.infovaya.com/presentation?id=78310)
-- [VIP-SLAM: An Efficient Tightly-Coupled RGB-D Visual Inertial Planar SLAM](https://events.infovaya.com/presentation?id=78313)
-- [Globally Consistent and Tightly Coupled 3D LiDAR Inertial Mapping](https://events.infovaya.com/presentation?id=78316)
-- [Deep Networks for Point Cloud Map Validation](https://events.infovaya.com/presentation?id=78319)
-- [Unified Representation of Geometric Primitives for Graph-SLAM Optimization Using Decomposed Quadrics](https://events.infovaya.com/presentation?id=78322)
-- [DKNAS: A Practical Deep Keypoint Extraction Framework Based on Neural Architecture Search](https://events.infovaya.com/presentation?id=78325)
-- [Continuous-Time vs. Discrete-Time Vision-Based SLAM: A Comparative Study](https://events.infovaya.com/presentation?id=78328)
-- [ART-SLAM: Accurate Real-Time 6DoF LiDAR SLAM](https://events.infovaya.com/presentation?id=78331)
-# Prosthetics and Exoskeletons
-- [Instinctive Real-Time sEMG-Based Control of Prosthetic Hand with Reduced Data Acquisition and Embedded Deep Learning Training](https://events.infovaya.com/presentation?id=78334)
-- [Stair Ascent Phase-Variable Control of a Powered Knee-Ankle Prosthesis](https://events.infovaya.com/presentation?id=78337)
-- [Tenodesis Grasp Emulator: Kinematic Assessment of Wrist-Driven Orthotic Control](https://events.infovaya.com/presentation?id=78340)
-- [Comprehensive Swing Leg Motion Predictor for Steady and Transient Walking Conditions](https://events.infovaya.com/presentation?id=78343)
-- [A Hybrid, Soft Robotic Exoskeleton Glove with Inflatable, Telescopic Structures and a Shared Control Operation Scheme](https://events.infovaya.com/presentation?id=78346)
-- [The MSC Prosthetic Hand: Rapid, Powerful, and Intuitive](https://events.infovaya.com/presentation?id=78349)
-- [Selective Assist Strategy by Using Lightweight Carbon Frame Exoskeleton Robot](https://events.infovaya.com/presentation?id=78352)
-- [Powered Prosthesis Locomotion on Varying Terrains: Model-Dependent Control with Real-Time Force Sensing](https://events.infovaya.com/presentation?id=78355)
-- [Designing a Highly Backdrivable and Kinematic Compatible Magneto-Rheological Knee Exoskeleton](https://events.infovaya.com/presentation?id=78358)
-- [Virtual Reality Pre-Prosthetic Hand Training with Physics Simulation and Robotic Force Interaction](https://events.infovaya.com/presentation?id=78361)
-- [A Data Driven Approach for Predicting Preferred Ankle Stiffness of a Quasi-Passive Prosthesis](https://events.infovaya.com/presentation?id=78364)
-- [MOVIE: A Velocity-Aided IMU Attitude Estimator for Observing and Controlling Multiple Deformations on Legged Robots](https://events.infovaya.com/presentation?id=78367)
-# Non-Holonomic Motion Planning and Theoretical Foundation
-- [A Novel Assistive Controller Based on Differential Geometry for Users of the Differential-Drive Wheeled Mobile Robots](https://events.infovaya.com/presentation?id=78370)
-- [Trajectory Optimization Formulation with Smooth Analytical Derivatives for Track-Leg and Wheel-Leg Ground Robots](https://events.infovaya.com/presentation?id=78373)
-- [Development of a Collaborative Wheeled Mobile Robot: Design Considerations, Drive Unit Torque Control and Preliminary Result](https://events.infovaya.com/presentation?id=78376)
-- [Optimization-Based Maneuver Planning for a Tractor-Trailer Vehicle in a Curvy Tunnel: A Weak Reliance on Sampling and Search](https://events.infovaya.com/presentation?id=78379)
-- [T*"epsilon"-Bounded Sub-Optimal Efficient Motion-Planning for Minimum-Time Curvature-Constrained Systems](https://events.infovaya.com/presentation?id=78382)
-- [Improved Soft Duplicate Detection in Search-Based Motion Planning](https://events.infovaya.com/presentation?id=78385)
-- [Enhancing Maneuverability Via Gait Design](https://events.infovaya.com/presentation?id=78388)
-- [Analyzing Multiagent Interactions in Traffic Scenes via Topological Braids](https://events.infovaya.com/presentation?id=78391)
-- [Jerk Constrained Velocity Planning for an Autonomous Vehicle: Linear Programming Approach](https://events.infovaya.com/presentation?id=78394)
-- [Improving Haptic Exploration of Object Shape by Discovering Symmetries](https://events.infovaya.com/presentation?id=78397)
-- [Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines](https://events.infovaya.com/presentation?id=78400)
-- [Anti-Collision Static Rotation Local Planner for Four Independent Steering Drive Self-Reconfigurable Robots](https://events.infovaya.com/presentation?id=78403)
-# Outstanding Deployed Systems / Automation / Interaction / Learning Award Finalists
-- [Autonomous Teamed Exploration of Subterranean Environments Using Legged and Aerial Robots](https://events.infovaya.com/presentation?id=77410)
-- [Learning Model Predictive Control for Quadrotors](https://events.infovaya.com/presentation?id=78418)
-- [Optimizing Terrain Mapping and Landing Site Detection for Autonomous UAVs](https://events.infovaya.com/presentation?id=79903)
-- [SPIN Road Mapper: Extracting Roads from Aerial Images Via Spatial and Interaction Space Graph Reasoning for Autonomous Driving](https://events.infovaya.com/presentation?id=76240)
-- [ARChemist: Autonomous Robotic Chemistry System Architecture](https://events.infovaya.com/presentation?id=78472)
-- [Precise 3D Reconstruction of Plants from UAV Imagery Combining Bundle Adjustment and Template Matching](https://events.infovaya.com/presentation?id=76996)
-- [Effects of Interfaces on Human-Robot Trust: Specifying and Visualizing Physical Zones](https://events.infovaya.com/presentation?id=80482)
-- [Synergistic Scheduling of Learning and Allocation of Tasks in Human-Robot Teams](https://events.infovaya.com/presentation?id=77209)
-- [Human-Robot Shared Control for Surgical Robot Based on Context-Aware Sim-To-Real Adaptation](https://events.infovaya.com/presentation?id=79126)
-- [Symphony: Learning Realistic and Diverse Agents for Autonomous Driving Simulation](https://events.infovaya.com/presentation?id=77068)
-- [TartanDrive: A Large-Scale Dataset for Learning Off-Road Dynamics Models](https://events.infovaya.com/presentation?id=77110)
-- [Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks](https://events.infovaya.com/presentation?id=79039)
-# Outstanding Dynamics and Control / Manipulation / Planning Award Finalists
-- [Cooperative Modular Single Actuator Monocopters Capable of Controlled Passive Separation](https://events.infovaya.com/presentation?id=76888)
-- [Online Optimal Landing Control of the MIT Mini Cheetah](https://events.infovaya.com/presentation?id=76177)
-- [Real-Time Multi-Contact Model Predictive Control Via ADMM](https://events.infovaya.com/presentation?id=77449)
-- [Online Object Model Reconstruction and Reuse for Lifelong Improvement of Robot Manipulation](https://events.infovaya.com/presentation?id=76723)
-- [Multi-View Object Pose Distribution Tracking for Pre-Grasp Planning on Mobile Robots](https://events.infovaya.com/presentation?id=76729)
-- [Manipulation of Unknown Objects Via Contact Configuration Regulation](https://events.infovaya.com/presentation?id=77170)
-- [Optimizing Trajectories with Closed-Loop Dynamic SQP](https://events.infovaya.com/presentation?id=78166)
-- [Trajectory Distribution Control for Model Predictive Path Integral Control Using Covariance Steering](https://events.infovaya.com/presentation?id=76696)
-- [Non-Gaussian Risk Bounded Trajectory Optimization for Stochastic Nonlinear Systems in Uncertain Environments](https://events.infovaya.com/presentation?id=80392)
-# Aerial Robotics IV
-- [Hovering Locomotion for UAVs with Thrust-Vectoring Control Surfaces](https://events.infovaya.com/presentation?id=78406)
-- [Performance, Precision, and Payloads: Adaptive Nonlinear MPC for Quadrotors](https://events.infovaya.com/presentation?id=78409)
-- [1D-LRF Aided Visual-Inertial Odometry for High-Altitude MAV Flight](https://events.infovaya.com/presentation?id=78412)
-- [Insulator Aiming Using Multi-Feature Fusion-Based Visual Servo Control for Washing Drone](https://events.infovaya.com/presentation?id=78415)
-- [Learning Model Predictive Control for Quadrotors](https://events.infovaya.com/presentation?id=78418)
-- [Nonlinear Model Identification and Observer Design for Thrust Estimation of Small-Scale Turbojet Engines](https://events.infovaya.com/presentation?id=78421)
-- [LADC: Learning-Based Anti-Disturbance Control for Washing Drone](https://events.infovaya.com/presentation?id=78424)
-- [Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking](https://events.infovaya.com/presentation?id=78427)
-- [Aerobatic Tic-Toc Control of Planar Quadcopters Via Reinforcement Learning](https://events.infovaya.com/presentation?id=78430)
-- [Active Autorotation of Micro Aerial Vehicle with Foldable Winged Shell for Impact Mitigation under Free Fall](https://events.infovaya.com/presentation?id=78433)
-- [Range, Endurance, and Optimal Speed Estimates for Multicopters](https://events.infovaya.com/presentation?id=78436)
-# Automation and Calibration Methods
-- [Spatiotemporal Multisensor Calibration Via Gaussian Processes Moving Target Tracking](https://events.infovaya.com/presentation?id=78439)
-- [Infrastructure-Enabled Autonomy: An Attention Mechanism for Occlusion Handling](https://events.infovaya.com/presentation?id=78442)
-- [Gaussian Process Self-Triggered Policy Search in Weakly Observable Environments](https://events.infovaya.com/presentation?id=78445)
-- [Online Payload Identification for Tactile Robots Using the Momentum Observer](https://events.infovaya.com/presentation?id=78448)
-- [Real-Time Inertial Parameter Identification of Floating-Base Robots through Iterative Primitive Shape Division](https://events.infovaya.com/presentation?id=78451)
-- [ACD-EDMD: Analytical Construction for Dictionaries of Lifting Functions in Koopman Operator-Based Nonlinear Robotic Systems](https://events.infovaya.com/presentation?id=78454)
-- [Smooth Parameterization of Rigid-Body Inertia](https://events.infovaya.com/presentation?id=78457)
-- [Extrinsic Calibration of Multiple Inertial Sensors from In-Flight Data](https://events.infovaya.com/presentation?id=78460)
-- [UnDAF: A General Unsupervised Domain Adaptation Framework for Disparity or Optical Flow Estimation](https://events.infovaya.com/presentation?id=78463)
-- [Localization of a Smart Infrastructure Fisheye Camera in a Prior Map for Autonomous Vehicles](https://events.infovaya.com/presentation?id=78466)
-- [Camera-IMU Extrinsic Calibration Quality Monitoring for Autonomous Ground Vehicles](https://events.infovaya.com/presentation?id=78469)
-- [ARChemist: Autonomous Robotic Chemistry System Architecture](https://events.infovaya.com/presentation?id=78472)
-# Localization III
-- [MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry](https://events.infovaya.com/presentation?id=78475)
-- [MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery](https://events.infovaya.com/presentation?id=78478)
-- [LaneMatch: A Practical Real-Time Localization Method Via Lane-Matching](https://events.infovaya.com/presentation?id=78481)
-- [Binary Graph Descriptor for Robust Relocalization on Heterogeneous Data](https://events.infovaya.com/presentation?id=78484)
-- [A Model for Multi-View Residual Covariances Based on Perspective Deformation](https://events.infovaya.com/presentation?id=78487)
-- [Tightly-Coupled Magneto-Visual-Inertial Fusion for Long Term Localization in Indoor Environment](https://events.infovaya.com/presentation?id=78490)
-- [Koopman Linearization for Data-Driven Batch State Estimation of Control-Affine Systems](https://events.infovaya.com/presentation?id=78493)
-- [Electric Sense Based Pose Estimation and Localization for Small Underwater Robots](https://events.infovaya.com/presentation?id=78496)
-- [Improved State Propagation through AI-Based Pre-Processing and Down-Sampling of High-Speed Inertial Data](https://events.infovaya.com/presentation?id=78499)
-- [Joint Localization Based on Split Covariance Intersection on the Lie Group](https://events.infovaya.com/presentation?id=78502)
-- [Adaptive Aerial Localization Using Lissajous Search Patterns](https://events.infovaya.com/presentation?id=78505)
-- [RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network](https://events.infovaya.com/presentation?id=78508)
-# Contact Modeling, Grippers, and Other End-Effectors
-- [Bundled Gradients through Contact Via Randomized Smoothing](https://events.infovaya.com/presentation?id=78511)
-- [Hydraulically Actuated Soft Tubular Gripper](https://events.infovaya.com/presentation?id=78514)
-- [TaTa: A Universal Jamming Gripper with High-Quality Tactile Perception and Its Application to Underwater Manipulation](https://events.infovaya.com/presentation?id=78517)
-- [Mechanical Search on Shelves Using a Novel ``Bluction'' Tool](https://events.infovaya.com/presentation?id=78520)
-- [Double-Nozzle Capillary Force Gripper for Cubical, Triangular Prismatic, and Helical 1mm-Sized-Objects](https://events.infovaya.com/presentation?id=78523)
-- [The WaveJoints: A Novel Methodology to Design Soft-Rigid Grippers Made by Monolithic 3D Printed Fingers with Adjustable Joint Stiffness](https://events.infovaya.com/presentation?id=78526)
-- [IPC-GraspSim: Reducing the Sim2Real Gap for Parallel-Jaw Grasping with the Incremental Potential Contact Model](https://events.infovaya.com/presentation?id=78529)
-- [DenseTact: Optical Tactile Sensor for Dense Shape Reconstruction](https://events.infovaya.com/presentation?id=78532)
-- [Contact Transfer: A Direct, User-Driven Method for Human to Robot Transfer of Grasps and Manipulations](https://events.infovaya.com/presentation?id=78535)
-- [On Inverse Inertia Matrix and Contact-Force Model for Robotic Manipulators at Normal Impacts](https://events.infovaya.com/presentation?id=78538)
-- [Parameterized Particle Filtering for Tactile-Based Simultaneous Pose and Shape Estimation](https://events.infovaya.com/presentation?id=78541)
-- [Microgripper Using Flexible Wire Hinge for Robotic Intraocular Snake](https://events.infovaya.com/presentation?id=78544)
-# Software Tools and Benchmarks
-- [Explore-Bench: Data Sets, Metrics and Evaluations for Frontier-Based and Deep-Reinforcement-Learning-Based Autonomous Exploration](https://events.infovaya.com/presentation?id=78547)
-- [A Deep Reinforcement Learning Environment for Particle Robot Navigation and Object Manipulation](https://events.infovaya.com/presentation?id=78550)
-- [Generalized Affordance Templates for Mobile Manipulation](https://events.infovaya.com/presentation?id=78553)
-- [Understanding XACRO Misunderstandings](https://events.infovaya.com/presentation?id=78556)
-- [GRiD: GPU-Accelerated Rigid Body Dynamics with Analytical Gradients](https://events.infovaya.com/presentation?id=78559)
-- [Brick Yourself within 3 Minutes](https://events.infovaya.com/presentation?id=78562)
-- [FishGym: A High-Performance Physics-Based Simulation Framework for Underwater Robot Learning](https://events.infovaya.com/presentation?id=78565)
-- [Put the Bear on the Chair! Intelligent Robot Interaction with Previously Unseen Chairs Via Robot Imagination](https://events.infovaya.com/presentation?id=78568)
-- [TraEDITS: Diversity and Irregularity-Aware Traffic Trajectory Editing](https://events.infovaya.com/presentation?id=78571)
-- [Performance Models in Robotics with a Use Case on SLAM](https://events.infovaya.com/presentation?id=78574)
-- [The Franka Emika Robot: A Reference Platform for Robotics Research and Education](https://events.infovaya.com/presentation?id=78577)
-- [A Benchmarking Platform and a Control Allocation Method for Improving the Efficiency of Coaxial Rotor Systems](https://events.infovaya.com/presentation?id=78580)
-# Deep Learning in Grasping and Manipulation I
-- [StructFormer: Learning Spatial Structure for Language-Guided Semantic Rearrangement of Novel Objects](https://events.infovaya.com/presentation?id=78583)
-- [InsertionNet 2.0 : Minimal Contact Multi-Step Insertion Using Multimodal Multiview Sensory Input](https://events.infovaya.com/presentation?id=78586)
-- [Data-Efficient Learning of Object-Centric Grasp Preferences](https://events.infovaya.com/presentation?id=78589)
-- [Provably Safe Deep Reinforcement Learning for Robotic Manipulation in Human Environments](https://events.infovaya.com/presentation?id=78592)
-- [Search-Based Task Planning with Learned Skill Effect Models for Lifelong Robotic Manipulation](https://events.infovaya.com/presentation?id=78595)
-- [Reinforcement Learning for Picking Cluttered General Objects with Dense Object Descriptors](https://events.infovaya.com/presentation?id=78598)
-- [A Hybrid Approach for Learning to Shift and Grasp with ElaborateMotion Primitives](https://events.infovaya.com/presentation?id=78601)
-- [Affordance Learning from Play for Sample-Efficient Policy Learning](https://events.infovaya.com/presentation?id=78604)
-- [Stable Object Reorientation Using Contact Plane Registration](https://events.infovaya.com/presentation?id=78607)
-- [Offline Meta-Reinforcement Learning for Industrial Insertion](https://events.infovaya.com/presentation?id=78610)
-- [Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation](https://events.infovaya.com/presentation?id=78613)
-- [CaTGrasp: Learning Category-Level Task-Relevant Grasping in Clutter from Simulation](https://events.infovaya.com/presentation?id=78616)
-# Intent and Gesture Recognition
-- [HMD-Former: A Transformer-Based Human Mesh Deformer with Inter-Layer Semantic Consistency](https://events.infovaya.com/presentation?id=78619)
-- [Augmented Pointing Gesture Estimation for Human-Robot Interaction](https://events.infovaya.com/presentation?id=78622)
-- [Dual Regression for Efficient Hand Pose Estimation](https://events.infovaya.com/presentation?id=78625)
-- [Path-Aware Graph Attention for HD Maps in Motion Prediction](https://events.infovaya.com/presentation?id=78628)
-- [Exact-Likelihood User Intention Estimation for Scene-Compliant Shared-Control Navigation](https://events.infovaya.com/presentation?id=78631)
-- [Using Arm Swing Movements to Maintain the Walking State in a Self-Balanced Lower-Limb Exoskeleton](https://events.infovaya.com/presentation?id=78634)
-- [Cost-Effective Sensing for Goal Inference: A Model Predictive Approach](https://events.infovaya.com/presentation?id=78637)
-- [A Data-Driven Multiple Model Framework for Intention Estimation](https://events.infovaya.com/presentation?id=78640)
-- [Monitoring the Mental State of Cooperativeness for Guiding an Elderly Person in Sit-To-Stand Assistance](https://events.infovaya.com/presentation?id=78643)
-- [Can Cars Gesture? a Case for Expressive Behavior within Autonomous Vehicle and Pedestrian Interactions](https://events.infovaya.com/presentation?id=78646)
-- [Learn to Predict How Humans Manipulate Large-Sized Objects from Interactive Motions](https://events.infovaya.com/presentation?id=78649)
-- [Language-Driven Robot Manipulation with Perspective Disambiguation and Placement Optimization](https://events.infovaya.com/presentation?id=78652)
-# Deep Learning for Visual Perception II
-- [NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields](https://events.infovaya.com/presentation?id=78655)
-- [Fusion-FlowNet: Energy-Efficient Optical Flow Estimation Using Sensor Fusion and Deep Fused Spiking-Analog Network Architectures](https://events.infovaya.com/presentation?id=78658)
-- [SelfTune: Metrically Scaled Monocular Depth Estimation throughSelf-Supervised Learning](https://events.infovaya.com/presentation?id=78661)
-- [Deep Bayesian ICP Covariance Estimation](https://events.infovaya.com/presentation?id=78664)
-- [UFODepth: Unsupervised Learning with Flow-Based Odometry Optimization for Metric Depth Estimation](https://events.infovaya.com/presentation?id=78667)
-- [F-Cal: Aleatoric Uncertainty Quantification for Robot Perception Via Calibrated Neural Regression](https://events.infovaya.com/presentation?id=78670)
-- [CertainNet: Sampling-Free Uncertainty Estimation for Object Detection](https://events.infovaya.com/presentation?id=78673)
-- [Monocular Depth Distribution Alignment with Low Computation](https://events.infovaya.com/presentation?id=78676)
-- [Improving Depth Estimation Using Map-Based Depth Priors](https://events.infovaya.com/presentation?id=78679)
-- [Vision-Based Ascending Staircase Detection with Interpretable Classification Model for Stair Climbing Robots](https://events.infovaya.com/presentation?id=78682)
-- [Temporally-Aggregating Multiple-Discontinuous-Image Saliency Prediction with Transformer-Based Attention](https://events.infovaya.com/presentation?id=78685)
-- [A Planted Clique Perspective on Hypothesis Pruning](https://events.infovaya.com/presentation?id=78688)
-# Legged Robots II
-- [Convex Model Predictive Control of Single Rigid Body Model on SO(3) for Versatile Dynamic Legged Motions](https://events.infovaya.com/presentation?id=78691)
-- [Planning Natural Locomotion for Articulated Soft Quadrupeds](https://events.infovaya.com/presentation?id=78694)
-- [Hybrid Event Shaping to Stabilize Periodic Hybrid Orbits](https://events.infovaya.com/presentation?id=78697)
-- [Humanoid Arm Motion Planning for Improved Disturbance Recovery Using Model Hierarchy Predictive Control](https://events.infovaya.com/presentation?id=78700)
-- [Design of KAIST HOUND, a Quadruped Robot Platform for Fast and Efficient Locomotion with Mixed-Integer Nonlinear Optimization of a Gear Train](https://events.infovaya.com/presentation?id=78703)
-- [Rapid and Reliable Quadruped Motion Planning with Omnidirectional Jumping](https://events.infovaya.com/presentation?id=78706)
-- [Nonprehensile Object Transportation with a Legged Manipulator](https://events.infovaya.com/presentation?id=78709)
-- [A Novel Model of Interaction Dynamics between Legged Robots and Deformable Terrain](https://events.infovaya.com/presentation?id=78712)
-- [STEP: State Estimator for Legged Robots Using a Preintegrated Foot Velocity Factor](https://events.infovaya.com/presentation?id=78715)
-- [Computation of Regions of Attraction for Hybrid Limit Cycles Using Reachability: An Application to Walking Robots](https://events.infovaya.com/presentation?id=78718)
-- [Linear Policies Are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains](https://events.infovaya.com/presentation?id=78721)
-- [GRAB: GRAdient-Based Shape-Adaptive Compliant Locomotion Control](https://events.infovaya.com/presentation?id=78724)
-# Machine Learning and Human Factors for Robotics
-- [DURableVS: Data-Efficient Unsupervised Recalibrating Visual Servoing Via Online Learning in a Structured Generative Model](https://events.infovaya.com/presentation?id=78727)
-- [Learning Safe, Generalizable Perception-Based Hybrid Control with Certificates](https://events.infovaya.com/presentation?id=78730)
-- [Manipulation Planning from Demonstration Via Goal-Conditioned Prior Action Primitive Decomposition and Alignment](https://events.infovaya.com/presentation?id=78733)
-- [Inferring Human-Robot Performance Objectives During Locomotion Using Inverse Reinforcement Learning and Inverse Optimal Control](https://events.infovaya.com/presentation?id=78736)
-- [Unified and Fast Human Trajectory Prediction Via Conditionally Parameterized Normalizing Flow](https://events.infovaya.com/presentation?id=78739)
-- [Learning Contraction Policies from Offline Data](https://events.infovaya.com/presentation?id=78742)
-- [Achieving Radar-To-Lidar Translation While Preserving Long-Range Sensing and Penetrating Capabilities](https://events.infovaya.com/presentation?id=78745)
-- [Recognizing User Proficiency in Piloting Small Unmanned Aerial Vehicles (sUAV)](https://events.infovaya.com/presentation?id=78748)
-- [Visual Perception of Robot Appearance Attributes in the Peripheral Field of View Depends on Human Observer Eye-Movement Behaviors](https://events.infovaya.com/presentation?id=78751)
-- [Admittance Control Based Human-In-The-Loop Optimization for Hip Exoskeleton: A New Approach](https://events.infovaya.com/presentation?id=78754)
-- [Metrics for 3D Object Pointing and Manipulation in Virtual Reality](https://events.infovaya.com/presentation?id=78757)
-# Redundant Robots / Robot Safety
-- [Go with the Flow: Energy Minimising Periodic Trajectories for UVMS](https://events.infovaya.com/presentation?id=78760)
-- [A Reinforcement Learning Approach in Assignment of Task Priorities in Kinematic Control of Redundant Robots](https://events.infovaya.com/presentation?id=78763)
-- [A Generalized Index for Fault-Tolerant Control in Operational Space under Free-Swinging Actuation Failure](https://events.infovaya.com/presentation?id=78766)
-- [ROZZ: Property-Based Fuzzing for Robotic Programs in ROS](https://events.infovaya.com/presentation?id=78769)
-- [Enhancing Data-Driven Reachability Analysis Using Temporal Logic Side Information](https://events.infovaya.com/presentation?id=78772)
-- [Formal Verification of Stochastic Systems with ReLU Neural Network Controllers](https://events.infovaya.com/presentation?id=78775)
-- [Recursive Feasibility Guided Optimal Parameter Adaptation of Differential Convex Optimization Policies for Safety-Critical Systems](https://events.infovaya.com/presentation?id=78778)
-- [Automated Testing with Temporal Logic Specifications for Robotic Controllers Using Adaptive Experiment Design](https://events.infovaya.com/presentation?id=78781)
-- [Model-Free Safety-Critical Control for Robotic Systems](https://events.infovaya.com/presentation?id=78784)
-- [Back to the Future: Efficient, Time-Consistent Solutions in Reach-Avoid Games](https://events.infovaya.com/presentation?id=78787)
-- [Onboard Safety Guarantees for Racing Drones: High-Speed Geofencing with Control Barrier Functions](https://events.infovaya.com/presentation?id=78790)
-- [SABLAS: Learning Safe Control for Black-Box Dynamical Systems](https://events.infovaya.com/presentation?id=78793)
-# Multi-Robot and Swarm Robotics II
-- [Multi-Robot Persistent Environmental Monitoring Based on Constraint-Driven Execution of Learned Robot Tasks](https://events.infovaya.com/presentation?id=78796)
-- [Free-Space Ellipsoid Graphs for Multi-Agent Target Monitoring](https://events.infovaya.com/presentation?id=78799)
-- [A Distributed Service-Matching Coverage Via Heterogeneous Agents](https://events.infovaya.com/presentation?id=78802)
-- [ROS2swarm ](https://events.infovaya.com/presentation?id=78805)
-- [MOSAIX: A Swarm of Robot Tiles for Social Human-Swarm Interaction](https://events.infovaya.com/presentation?id=78808)
-- [Multi-Operator Control of Connectivity-Preserving Robot Swarms Using Supervisory Control Theory](https://events.infovaya.com/presentation?id=78811)
-- [Viscoelastic Fluid-Inspired Swarm Behavior to Reduce Susceptibility to Local Minima: The Chain Siphon Algorithm](https://events.infovaya.com/presentation?id=78814)
-- [Distributed Three Dimensional Flocking of Autonomous Drones](https://events.infovaya.com/presentation?id=78817)
-- [Learning to Swarm with Knowledge-Based Neural Ordinary Differential Equations](https://events.infovaya.com/presentation?id=78820)
-- [DORA: Distributed Online Risk-Aware Explorer](https://events.infovaya.com/presentation?id=78823)
-- [Adaptive Strategies for Team Formation in Minimalist Robot Swarms](https://events.infovaya.com/presentation?id=78826)
-- [A Test Platform for UWB-Based Localization of Dynamic Multi-Agent Systems](https://events.infovaya.com/presentation?id=78829)
-# Physical HRI
-- [HandoverSim: A Simulation Framework and Benchmark for Human-To-Robot Object Handovers](https://events.infovaya.com/presentation?id=78832)
-- [Model Predictive Control with Gaussian Processes for Flexible Multi-Modal Physical Human Robot Interaction](https://events.infovaya.com/presentation?id=78835)
-- [Model Predictive Control for Fluid Human-To-Robot Handovers](https://events.infovaya.com/presentation?id=78838)
-- [Control Scheme for Sideways Walking on a User-Driven Treadmill](https://events.infovaya.com/presentation?id=78841)
-- [Power-Shaping Model-Based Control with Feedback Deactivation for Flexible-Joint Robot Interaction](https://events.infovaya.com/presentation?id=78844)
-- [EMG-Based Variable Impedance Control with Passivity Guarantees for Collaborative Robotics](https://events.infovaya.com/presentation?id=78847)
-- [Human-State-Aware Controller for a Tethered Aerial Robot Guiding a Human by Physical Interaction](https://events.infovaya.com/presentation?id=78850)
-- [Dynamic Primitives Limit Human Force Regulation During Motion](https://events.infovaya.com/presentation?id=78853)
-- [A Quantitative Analysis of Activities of Daily Living: Insights into Improving Functional Independence with Assistive Robotics](https://events.infovaya.com/presentation?id=78856)
-- [Opto-Electrotactile Feedback Enabled Text-Line Tracking Control for a Finger-Wearable Reading Aid for the Blind](https://events.infovaya.com/presentation?id=78859)
-- [Admittance Model Optimization for Gait Balance Assistance of a Robotic Walker: Passive Model-Based Mechanical Assessment](https://events.infovaya.com/presentation?id=78862)
-- [Bodies Uncovered: Learning to Manipulate Real Blankets Around People Via Physics Simulations](https://events.infovaya.com/presentation?id=78865)
-# Object Detection, Segmentation and Categorization II
-- [A Divide-And-Merge Point Cloud Clustering Algorithm for LiDAR Panoptic Segmentation](https://events.infovaya.com/presentation?id=78868)
-- [Comparing Single Touch to Dynamic Exploratory Procedures for Robotic Tactile Object Recognition](https://events.infovaya.com/presentation?id=78871)
-- [Segmentation and Shape Estimation of Multiple Deformed Cloths Using a CNN-Based Landmark Detector and Clustering](https://events.infovaya.com/presentation?id=78874)
-- [Anytime 3D Object Reconstruction Using Multi-Modal Variational Autoencoder](https://events.infovaya.com/presentation?id=78877)
-- [Enhanced Prototypical Learning for Unsupervised Domain Adaptation in LiDAR Semantic Segmentation](https://events.infovaya.com/presentation?id=78880)
-- [Multi-Class Road User Detection with 3+1D Radar in the View-Of-Delft Dataset](https://events.infovaya.com/presentation?id=78883)
-- [ShapeMap 3-D: Efficient Shape Mapping through Dense Touch and Vision](https://events.infovaya.com/presentation?id=78886)
-- [Learning Open-World Object Proposals without Learning to Classify](https://events.infovaya.com/presentation?id=78889)
-- [Automatic Biopsy Tool Presence and Episode Recognition in Robotic Bronchoscopy Using a Multi-Task Vision Transformer Network](https://events.infovaya.com/presentation?id=78991)
-- [Design and Evaluation of Object Classifiers for Probabilistic Decision-Making in Autonomous Systems](https://events.infovaya.com/presentation?id=78892)
-- [EfficientLPS: Efficient LiDAR Panoptic Segmentation](https://events.infovaya.com/presentation?id=78895)
-# Soft Robot Materials and Design
-- [Dynamic Underactuated Manipulator Using a Flexible Body with a Structural Anisotropy](https://events.infovaya.com/presentation?id=78898)
-- [A Novel Hydrogel-Based Connection Mechanism for Soft Modular Robots](https://events.infovaya.com/presentation?id=78901)
-- [Printable Origami Bistable Structures for Foldable Jumpers](https://events.infovaya.com/presentation?id=78904)
-- [Towards a Microfluidic Microcontroller Circuit Library for Soft Robots](https://events.infovaya.com/presentation?id=78907)
-- [Task-Specific Design Optimization and Fabrication for Inflated-Beam Soft Robots with Growable Discrete Joints](https://events.infovaya.com/presentation?id=78910)
-- [Modulation of Magnetorheological Fluid Flow in Soft Robots Using Electropermanent Magnets](https://events.infovaya.com/presentation?id=78913)
-- [Giraffe Neck Robot: First Step Toward a Powerful and Flexible Robot Prototyping Based on Giraffe Anatomy](https://events.infovaya.com/presentation?id=78916)
-- [Liquid-Metal Magnetic Soft Robot with Reprogrammable Magnetization and Stiffness](https://events.infovaya.com/presentation?id=78919)
-- [Programmable Digital Weaves](https://events.infovaya.com/presentation?id=78922)
-- [Vertebraic Soft Robotic Joint Design with Twisting and Antagonism](https://events.infovaya.com/presentation?id=78925)
-- [Repeated Jumping with the REBOund: Self-Righting Jumping Robot Leveraging Bistable Origami-Inspired Design](https://events.infovaya.com/presentation?id=78928)
-- [Enhancing the Universality of a Pneumatic Gripper Via Continuously Adjustable Initial Grasp Postures](https://events.infovaya.com/presentation?id=78931)
-# Planning and Learning
-- [Kinematic Transfer Learning of Sampling Distributions for Manipulator Motion Planning](https://events.infovaya.com/presentation?id=78934)
-- [Adversarial Sampling-Based Motion Planning](https://events.infovaya.com/presentation?id=78937)
-- [Human-Guided Motion Planning in Partially Observable Environments](https://events.infovaya.com/presentation?id=78940)
-- [Learning to Retrieve Relevant Experiences for Motion Planning](https://events.infovaya.com/presentation?id=78943)
-- [Fast Footstep Planning on Uneven Terrain Using Deep Sequential Models](https://events.infovaya.com/presentation?id=78946)
-- [Realtime Trajectory Smoothing with Neural Nets](https://events.infovaya.com/presentation?id=78949)
-- [MotionBenchMaker: A Tool to Generate and Benchmark Motion Planning Datasets](https://events.infovaya.com/presentation?id=78952)
-- [HR-Planner: A Hierarchical Highway Tactical Planner Based on Residual Reinforcement Learning](https://events.infovaya.com/presentation?id=78955)
-- [Safe Multi-Agent Motion Planning Via Filtered Reinforcement Learning](https://events.infovaya.com/presentation?id=78958)
-- [Efficient Object Manipulation to an Arbitrary Goal Pose: Learning-Based Anytime Prioritized Planning](https://events.infovaya.com/presentation?id=78961)
-- [Learning Cooperative Multi-Agent Policies with Partial Reward Decoupling](https://events.infovaya.com/presentation?id=78964)
-- [Interactive Human-In-The-Loop Coordination of Manipulation Skills Learned from Demonstration](https://events.infovaya.com/presentation?id=78967)
-# Reactive and Sensor-Based Planning
-- [APF-RL: Safe Mapless Navigation in Unknown Environments](https://events.infovaya.com/presentation?id=78970)
-- [A Double Branch Next-Best-View Network and Novel Robot System for Active Object Reconstruction](https://events.infovaya.com/presentation?id=78973)
-- [Towards Optimal Correlational Object Search](https://events.infovaya.com/presentation?id=78976)
-- [Reactive Informative Planning for Mobile Manipulation Tasks under Sensing and Environmental Uncertainty](https://events.infovaya.com/presentation?id=78979)
-- [Receding Horizon Tracking of an Unknown Number of Mobile Targets Using a Bearings-Only Sensor](https://events.infovaya.com/presentation?id=78982)
-- [On the Role of Hyperdimensional Computing for Behavioral Prioritization in Reactive Robot Navigation Tasks](https://events.infovaya.com/presentation?id=78985)
-- [A Hierarchical Deliberative-Reactive System Architecture for Task and Motion Planning in Partially Known Environments](https://events.infovaya.com/presentation?id=78988)
-- [Information-Aware Lyapunov-Based MPC in a Feedback-Feedforward Control Strategy for Autonomous Robots](https://events.infovaya.com/presentation?id=78994)
-- [A Robust Reference Path Selection Method for Path Planning Algorithm](https://events.infovaya.com/presentation?id=78997)
-# Social Robotics and Collaboration
-- [NeuroErgo: A Deep Neural Network Method to Improve Postural Optimization for Ergonomic Human-Robot Collaboration](https://events.infovaya.com/presentation?id=79000)
-- [A Dynamic Task Allocation Strategy to Mitigate the Human Physical Fatigue in Collaborative Robotics](https://events.infovaya.com/presentation?id=79003)
-- [Learning Submodular Objectives for Team Environmental Monitoring](https://events.infovaya.com/presentation?id=79006)
-- [Incorporating Rich Social Interactions into MDPs](https://events.infovaya.com/presentation?id=79009)
-- [Developing the Bottom-Up Attentional System of a Social Robot](https://events.infovaya.com/presentation?id=79012)
-- [Hybrid Hierarchical Learning for Adaptive Persuasion in Human-Robot Interaction](https://events.infovaya.com/presentation?id=79015)
-- [Let Them Have Bubbles! Filling Gaps in Toy-Like Behaviors for Child-Robot Interaction](https://events.infovaya.com/presentation?id=79018)
-- [Communicating Robot Conventions through Shared Autonomy](https://events.infovaya.com/presentation?id=79021)
-- [Bidirectional Communication Control for Human-Robot Collaboration](https://events.infovaya.com/presentation?id=79024)
-- [Learning Latent Actions without Human Demonstrations](https://events.infovaya.com/presentation?id=79027)
-- [Design by Robot: A Human-Robot Collaborative Framework for Improving Productivity of a Floor Cleaning Robot](https://events.infovaya.com/presentation?id=79030)
-- [Quori: A Community-Informed Design of a Socially Interactive Humanoid Robot](https://events.infovaya.com/presentation?id=79033)
-# Reinforcement Learning II
-- [Learning Design and Construction with Varying-Sized Materials Via Prioritized Memory Resets](https://events.infovaya.com/presentation?id=79036)
-- [Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks](https://events.infovaya.com/presentation?id=79039)
-- [Off Environment Evaluation Using Convex Risk Minimization](https://events.infovaya.com/presentation?id=79042)
-- [RAPID-RL: A Reconfigurable Architecture with Preemptive-Exits for Efficient Deep-Reinforcement Learning](https://events.infovaya.com/presentation?id=79045)
-- [Concurrent Policy Blending and System Identification for Generalized Assistive Control](https://events.infovaya.com/presentation?id=79048)
-- [ASHA: Assistive Teleoperation Via Human-In-The-Loop Reinforcement Learning](https://events.infovaya.com/presentation?id=79051)
-- [Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing](https://events.infovaya.com/presentation?id=79054)
-- [Graph-Based Cluttered Scene Generation and Interactive Exploration Using Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=79057)
-- [Validate on Sim, Detect on Real ](https://events.infovaya.com/presentation?id=79060)
-- [Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation](https://events.infovaya.com/presentation?id=79063)
-- [Promoting Quality and Diversity in Population-Based Reinforcement Learning Via Hierarchical Trajectory Space Exploration](https://events.infovaya.com/presentation?id=79066)
-- [End-to-End Optimization of LiDAR Beam Configuration for 3D Object Detection and Localization](https://events.infovaya.com/presentation?id=79069)
-# SLAM II
-- [EDPLVO: Efficient Direct Point-Line Visual Odometry](https://events.infovaya.com/presentation?id=79072)
-- [Incremental Abstraction in Distributed Probabilistic SLAM Graphs](https://events.infovaya.com/presentation?id=79075)
-- [Information-Theoretic Online Multi-Camera Extrinsic Calibration](https://events.infovaya.com/presentation?id=79078)
-- [UV-SLAM: Unconstrained Line-Based SLAM Using Vanishing Points for Structural Mapping](https://events.infovaya.com/presentation?id=79081)
-- [Interval-Based Visual-Inertial LiDAR SLAM with Anchoring Poses](https://events.infovaya.com/presentation?id=79084)
-- [Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs](https://events.infovaya.com/presentation?id=79087)
-- [Self-Supervised Ego-Motion Estimation Based on Multi-Layer Fusion of RGB and Inferred Depth](https://events.infovaya.com/presentation?id=79090)
-- [HiPE: Hierarchical Initialization for Pose Graphs](https://events.infovaya.com/presentation?id=79093)
-- [A Right Invariant Extended Kalman Filter for Object Based SLAM](https://events.infovaya.com/presentation?id=79096)
-- [HD Ground ](https://events.infovaya.com/presentation?id=79099)
-- [The Visual-Inertial-Dynamical Multirotor Dataset](https://events.infovaya.com/presentation?id=79102)
-- [M2DGR: A Multi-Sensor and Multi-Scenario SLAM Dataset for Ground Robots](https://events.infovaya.com/presentation?id=79105)
-# Surgical Robotics
-- [Design and Analysis of a Long-Range Magnetic Actuated and Guided Endoscope for Uniport VATS](https://events.infovaya.com/presentation?id=79108)
-- [On a New 10-Millimeter Surgical Robot Wrist](https://events.infovaya.com/presentation?id=79111)
-- [3D Perception Based Imitation Learning under Limited Demonstration for Laparoscope Control in Robotic Surgery](https://events.infovaya.com/presentation?id=79114)
-- [Safe Endoscope Holding in Minimally Invasive Surgery: Zero Stiffness and Adaptive Weight Compensation](https://events.infovaya.com/presentation?id=79117)
-- [Utilising Incipient Slip for Grasping Automation in Robot Assisted Surgery](https://events.infovaya.com/presentation?id=79120)
-- [SUPR-GAN: SUrgical PRediction GAN for Event Anticipation in Laparoscopic and Robotic Surgery](https://events.infovaya.com/presentation?id=79123)
-- [Human-Robot Shared Control for Surgical Robot Based on Context-Aware Sim-To-Real Adaptation](https://events.infovaya.com/presentation?id=79126)
-- [3D Vision Based Robot Assisted Electrical Impedance Scanning for Soft Tissue Conductivity Sensing](https://events.infovaya.com/presentation?id=79129)
-- [Global-Reasoned Multi-Task Learning Model for Surgical Scene Understanding](https://events.infovaya.com/presentation?id=79132)
-- [ColibriDoc: An Eye-In-Hand Autonomous Trocar Docking System](https://events.infovaya.com/presentation?id=79135)
-- [Deep Curiosity Driven Multicamera 3D Viewpoint Adjustment for Robot-Assisted Minimally Invasive Surgery](https://events.infovaya.com/presentation?id=79138)
-- [Automated Linear and Non-Linear Path Planning for Neurosurgical Interventions](https://events.infovaya.com/presentation?id=79141)
-# Autonomous Driving
-- [ComOpT: Combination and Optimization for Testing Autonomous Driving Systems](https://events.infovaya.com/presentation?id=79144)
-- [Learning Interactive Driving Policies Via Data-Driven Simulation](https://events.infovaya.com/presentation?id=79147)
-- [Deep Drifting: Autonomous Drifting of Arbitrary Trajectories Using Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=79150)
-- [Perception-Friendly Video Enhancement for Autonomous Driving under Adverse Weather Conditions](https://events.infovaya.com/presentation?id=79153)
-- [Efficient Patching of DNNs for Autonomous Vehicles](https://events.infovaya.com/presentation?id=79156)
-- [Fast Point Clouds Upsampling with Uncertainty Quantification for Autonomous Vehicles](https://events.infovaya.com/presentation?id=79159)
-- [Deep Reinforcement Learning Based Game-Theoretic Decision-Making for Autonomous Vehicles](https://events.infovaya.com/presentation?id=79162)
-- [Visual Localization and Mapping Leveraging the Constraints of Local Ground Manifolds](https://events.infovaya.com/presentation?id=79165)
-- [CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention](https://events.infovaya.com/presentation?id=79168)
-- [Causal-Based Time Series Domain Generalization for Vehicle Intention Prediction](https://events.infovaya.com/presentation?id=79171)
-- [MultiPath++: Efficient Information Fusion and Trajectory Aggregation for Behavior Prediction](https://events.infovaya.com/presentation?id=79174)
-- [GAMMA: A General Agent Motion Model for Autonomous Driving](https://events.infovaya.com/presentation?id=79177)
-# Aerial Robotics V / Human-Robot Collaboration
-- [Minimum-Time Quadrotor Waypoint Flight in Cluttered Environments](https://events.infovaya.com/presentation?id=79180)
-- [Adaptive Center-Of-Mass Relocation for Aerial Manipulator Fault Tolerance](https://events.infovaya.com/presentation?id=79183)
-- [An Adaptive PID Autotuner for Multicopters with Experimental Results](https://events.infovaya.com/presentation?id=79186)
-- [When Being Soft Makes You Tough: A Collision-Resilient Quadcopter Inspired by Arthropods' Exoskeletons](https://events.infovaya.com/presentation?id=79189)
-- [Star-Convex Constrained Optimization for Visibility Planning with Application to Aerial Inspection](https://events.infovaya.com/presentation?id=79192)
-- [Robot Grasping through a Joint-Initiative Supervised Autonomy Framework](https://events.infovaya.com/presentation?id=79195)
-- [Improved Task Planning through Failure Anticipation in Human-Robot Collaboration](https://events.infovaya.com/presentation?id=79198)
-- [Adaptive Impedance Controller for Human-Robot Arbitration Based on Cooperative Differential Game Theory](https://events.infovaya.com/presentation?id=79201)
-- [User-Adaptive Variable Damping Control Using Bayesian Optimization to Enhance Physical Human-Robot Interaction](https://events.infovaya.com/presentation?id=79204)
-# Automation at Micro/Nano Scales
-- [Control and Transport of Passive Particles Using Self-Organized Spinning Micro-Disks](https://events.infovaya.com/presentation?id=79207)
-- [Design and Implementation of an Automatic Batch Microinjection System for Zebrafish Larvae](https://events.infovaya.com/presentation?id=79210)
-- [AcousNet: A Deep Learning Based Approach to Dynamic 3D Holographic Acoustic Field Generation from Phased Transducer Array](https://events.infovaya.com/presentation?id=79213)
-- [On-Chip Continuous Pairing, Separation and Electrofusion of Cells Using a Microdroplet](https://events.infovaya.com/presentation?id=79216)
-- [Robotic Cell Manipulation for Blastocyst Biopsy](https://events.infovaya.com/presentation?id=79219)
-- [Automated Microhand System for Measuring Cell Stiffness by Using Two Plate End-Effectors](https://events.infovaya.com/presentation?id=79222)
-- [Acoustic and Magnetic Hybrid Actuated Immune Cell Robot for Target and Kill Cancer Cells](https://events.infovaya.com/presentation?id=79225)
-- [Optimizing Multi-Robot Placements for Wire Arc Additive Manufacturing](https://events.infovaya.com/presentation?id=79228)
-- [3D Navigation Control of Untethered Magnetic Microrobot in Centimeter-Scale Workspace Based on Field-Of-View Tracking Scheme](https://events.infovaya.com/presentation?id=79231)
-- [High-Throughput Data Acquisition Platform for Multi-Larvae Touch-Response Behavior Screening of Zebrafish](https://events.infovaya.com/presentation?id=79234)
-# Mapping
-- [Map-Based Visual-Inertial Localization: A Numerical Study](https://events.infovaya.com/presentation?id=79237)
-- [Crossview Mapping with Graph-Based Geolocalization on City-Scale Street Maps](https://events.infovaya.com/presentation?id=79240)
-- [DynamicFilter: An Online Dynamic Objects Removal Framework for Highly Dynamic Environments](https://events.infovaya.com/presentation?id=79243)
-- [LT-Mapper: A Modular Framework for LiDAR-Based Lifelong Mapping](https://events.infovaya.com/presentation?id=79246)
-- [Memory-Efficient Gaussian Fitting for Depth Images in Real Time](https://events.infovaya.com/presentation?id=79249)
-- [A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments](https://events.infovaya.com/presentation?id=79252)
-- [Panoptic Multi-TSDFs: A Flexible Representation for Online Multi-Resolution Volumetric Mapping and Long-Term Dynamic Scene Consistency](https://events.infovaya.com/presentation?id=79255)
-- [Reconstructing Occluded Elevation Information in Terrain Maps with Self-Supervised Learning](https://events.infovaya.com/presentation?id=79258)
-- [K-Closest Points and Maximum Clique Pruning for Efficient and Effective 3-D Laser Scan Matching](https://events.infovaya.com/presentation?id=79261)
-- [FD-SLAM: 3-D Reconstruction Using Features and Dense Matching](https://events.infovaya.com/presentation?id=79264)
-- [AirDOS: Dynamic SLAM Benefits from Articulated Objects](https://events.infovaya.com/presentation?id=79267)
-- [DRG: A Dynamic Relation Graph for Unified Prior-Online Environment Modeling in Urban Autonomous Driving](https://events.infovaya.com/presentation?id=79270)
-# Wearable Robots and Interfaces
-- [Enhancing Flexibility and Adaptability in Conjoined Human-Robot Industrial Tasks with a Minimalist Physical Interface](https://events.infovaya.com/presentation?id=79273)
-- [Is Bilateral or Paretic-Limb-Only Ankle Exoskeleton Assistance Better for Improving Walking in Hemiparetic Gait? a Case Series](https://events.infovaya.com/presentation?id=79276)
-- [A Novel Multimodal Human-Exoskeleton Interface Based on EEG and sEMG Activity for Rehabilitation Training](https://events.infovaya.com/presentation?id=79279)
-- [Predicting the Effects of Oscillator-Based Assistance on Stride-To-Stride Variability of Parkinsonian Walkers](https://events.infovaya.com/presentation?id=79282)
-- [On Wearable, Lightweight, Low-Cost Human Machine Interfaces for the Intuitive Collection of Robot Grasping and Manipulation Data](https://events.infovaya.com/presentation?id=79285)
-- [Adaptive Semi-Supervised Intent Inferral to Control a Powered Hand Orthosis for Stroke](https://events.infovaya.com/presentation?id=79288)
-- [MyoSim: Fast and Physiologically Realistic MuJoCo Models for Musculoskeletal and Exoskeletal Studies](https://events.infovaya.com/presentation?id=79291)
-- [Multimodal Hydrostatic Actuators for Wearable Robots: A Preliminary Assessment of Mass-Saving and Energy-Efficiency Opportunities](https://events.infovaya.com/presentation?id=79294)
-- [Deep Learning Enables Exoboot Control to Augment Variable-Speed Walking](https://events.infovaya.com/presentation?id=79297)
-- [Underactuated Soft Hip Exosuit Based on Adaptive Oscillators to Assist Human Locomotion](https://events.infovaya.com/presentation?id=79300)
-- [Rigid, Soft, Passive, and Active: A Hybrid Occupational Exoskeleton for Bimanual Multijoint Assistance](https://events.infovaya.com/presentation?id=79303)
-- [Characterization of Open-Loop Impedance Control and Efficiency in Wearable Robots](https://events.infovaya.com/presentation?id=79306)
-# Field Robotics I
-- [Depth Distribution Split Labeling for Rubble Recognition of Crushing Machine](https://events.infovaya.com/presentation?id=79309)
-- [Inside LineRanger: Mechanism Design to Optimize Operation and Performances of Powerline Inspection Robot](https://events.infovaya.com/presentation?id=79312)
-- [Crawling Locomotion Enabled by a Novel Actuated Rover Chassis](https://events.infovaya.com/presentation?id=79315)
-- [Trajectory Planning for Sensors and Payloads Moving through Mixed and Uncertain Media](https://events.infovaya.com/presentation?id=79318)
-- [GPS-Denied Global Visual-Inertial Ground Vehicle State Estimation Via Image Registration](https://events.infovaya.com/presentation?id=79321)
-- [Experiments in Adaptive Replanning for Fast Autonomous Flight in Forests](https://events.infovaya.com/presentation?id=79324)
-- [Drone Detection Using Sparse Lidar Measurements](https://events.infovaya.com/presentation?id=79327)
-- [Proactive Anomaly Detection for Robot Navigation with Multi-Sensor Fusion](https://events.infovaya.com/presentation?id=79330)
-- [CsBoundary: City-Scale Road-Boundary Detection in Aerial Images for High-Definition Maps](https://events.infovaya.com/presentation?id=79333)
-- [Active Learning for Testing and Evaluation in Field Robotics: A Case Study in Autonomous, Off-Road Navigation](https://events.infovaya.com/presentation?id=79336)
-- [Modelling and Control of a Variable-Length Flexible Beam on Inspection Ground Robot](https://events.infovaya.com/presentation?id=79339)
-- [Confidence-Based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=79342)
-# Deep Learning in Grasping and Manipulation II
-- [Hybrid Physical Metric for 6-DoF Grasp Pose Detection](https://events.infovaya.com/presentation?id=79345)
-- [Learning Multi-Step Robotic Manipulation Policies from Visual Observation of Scene and Q-Value Predictions of Previous Action](https://events.infovaya.com/presentation?id=79348)
-- [ReorientBot: Learning Object Reorientation for Specific-Posed Placement](https://events.infovaya.com/presentation?id=79351)
-- [LEGS: Learning Efficient Grasp Sets for Exploratory Grasping](https://events.infovaya.com/presentation?id=79354)
-- [Learning Latent Graph Dynamics for Visual Manipulation of Deformable Objects](https://events.infovaya.com/presentation?id=79357)
-- [Learning Visual Shape Control of Novel 3D Deformable Objects from Partial-View Point Clouds](https://events.infovaya.com/presentation?id=79360)
-- [Real2Sim2Real: Self-Supervised Learning of Physical Single-Step Dynamic Actions for Planar Robot Casting](https://events.infovaya.com/presentation?id=79363)
-- [Cluttered Food Grasping with Adaptive Fingers and Synthetic-Data Trained Object Detection](https://events.infovaya.com/presentation?id=79366)
-- [Visuotactile-RL: Learning Multimodal Manipulation Policies with Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=79369)
-- [Reducing Tactile Sim2Real Domain Gap Via Deep Texture Generation Networks](https://events.infovaya.com/presentation?id=79372)
-- [Grasp Pose Selection under Region Constraints for Dirty Dish Grasps Based on Inference of Grasp Success Probability through Self-Supervised Learning](https://events.infovaya.com/presentation?id=79375)
-# Force and Impedance Control
-- [Constrained Variable Impedance Control Using Quadratic Programming](https://events.infovaya.com/presentation?id=79378)
-- [Variable Stiffness Control Via External Torque Estimation Using LSTM](https://events.infovaya.com/presentation?id=79381)
-- [Mixed Control for Whole-Body Compliance of a Humanoid Robot](https://events.infovaya.com/presentation?id=79384)
-- [A Memory-Based SO(3) Parameterization: Theory and Application to 6D Impedance Control with Radially Unbounded Potential Function](https://events.infovaya.com/presentation?id=79387)
-- [RRT* and Goal-Driven Variable Admittance Control for Obstacle Avoidance in Manual Guidance Applications](https://events.infovaya.com/presentation?id=79390)
-- [Passivity-Based Adaptive Force-Impedance Control for Modular Multi-Manual Object Manipulation](https://events.infovaya.com/presentation?id=79393)
-- [A Model Free Robot Control Method for Dragging an Object on a Planar Surface by Applying Top Contact Forces](https://events.infovaya.com/presentation?id=79396)
-- [Unfreezing Social Navigation: Dynamical Systems Based Compliance for Contact Control in Robot Navigation](https://events.infovaya.com/presentation?id=79399)
-- [Easing Reliance on Collision-Free Planning with Contact-Aware Control](https://events.infovaya.com/presentation?id=79402)
-- [Unified Method for Task-Space Motion/Force/Impedance Control of Manipulator with Unknown Contact Reaction Strategy](https://events.infovaya.com/presentation?id=79405)
-- [Design, Modeling and Validation of a Tendon-Driven Soft Continuum Robot for Planar Motion Based on Variable Stiffness Structures](https://events.infovaya.com/presentation?id=79408)
-- [Autonomous Ultrasound Scanning Using Bayesian Optimization and Hybrid Force Control](https://events.infovaya.com/presentation?id=79411)
-# Deep Learning for Visual Perception III
-- [Trajectory Prediction for Autonomous Driving with Topometric Map](https://events.infovaya.com/presentation?id=79414)
-- [See Yourself in Others: Attending Multiple Tasks for Own Failure Detection](https://events.infovaya.com/presentation?id=79417)
-- [I Know What You Draw: Learning Grasp Detection Conditioned on a Few Freehand Sketches](https://events.infovaya.com/presentation?id=79420)
-- [Implicit LiDAR Network: LiDAR Super-Resolution Via Interpolation Weight Prediction](https://events.infovaya.com/presentation?id=79423)
-- [AirCode: A Robust Object Encoding Method](https://events.infovaya.com/presentation?id=79426)
-- [Learning Optical Flow, Depth, and Scene Flow without Real-World Labels](https://events.infovaya.com/presentation?id=79429)
-- [Incremental Few-Shot Object Detection for Robotics](https://events.infovaya.com/presentation?id=79432)
-- [CLA-NeRF: Category-Level Articulated Neural Radiance Field](https://events.infovaya.com/presentation?id=79435)
-- [Learning to Infer Kinematic Hierarchies for Novel Object Instances](https://events.infovaya.com/presentation?id=79438)
-- [Self-Supervised Camera Self-Calibration from Video](https://events.infovaya.com/presentation?id=79441)
-- [Learning 6-DoF Object Poses to Grasp Category-Level Objects by Language Instructions](https://events.infovaya.com/presentation?id=79444)
-- [Multiple Consistency Supervision Based Semi-Supervised OCT Segmentation Using Very Limited Annotations](https://events.infovaya.com/presentation?id=79447)
-# Humanoid Systems
-- [Decoupling of Inertia Effect in Angular Momentum of a Humanoid and Its Application to Resolved Viscoelasticity Control](https://events.infovaya.com/presentation?id=79450)
-- [Using Eye Gaze to Forecast Human Pose in Everyday Pick and Place Actions](https://events.infovaya.com/presentation?id=79453)
-- [On the Reliability of Inverse Optimal Control](https://events.infovaya.com/presentation?id=79456)
-- [DanceHAT: Generate Stable Dances for Humanoid Robots with Adversarial Training](https://events.infovaya.com/presentation?id=79459)
-- [Dynamic Locomotion Teleoperation of a Reduced Model of a Wheeled Humanoid Robot Using a Whole-Body Human-Machine Interface](https://events.infovaya.com/presentation?id=79462)
-- [Design and Development for Humanoid-Vehicle Transformer Platform with Plastic Resin Structure and Distributed Redundant Sensors](https://events.infovaya.com/presentation?id=79465)
-- [A Robotic Lower Limb with Eight DoFs and Whole-Foot Tactile Perception for Anthropomorphic Behavior Performance](https://events.infovaya.com/presentation?id=79468)
-- [Introducing RH5 Manus: A Powerful Humanoid Upper Body Design for Dynamic Movements](https://events.infovaya.com/presentation?id=79471)
-- [Design and Control of a Miniature Bipedal Robot with Proprioceptive Actuation for Dynamic Behaviors](https://events.infovaya.com/presentation?id=79474)
-- [Jet-HR2: A Flying Bipedal Robot Based on Thrust Vector Control](https://events.infovaya.com/presentation?id=79477)
-- [Human Navigational Intent Inference with Probabilistic and Optimal Approaches](https://events.infovaya.com/presentation?id=79480)
-- [Adaptive Body Schema Learning System Considering Additional Muscles for Musculoskeletal Humanoids](https://events.infovaya.com/presentation?id=79483)
-# Learning from Demonstration
-- [Watch and Learn: Learning to Control Feedback Linearizable Systems from Expert Demonstrations](https://events.infovaya.com/presentation?id=79486)
-- [Attentive One-Shot Meta-Imitation Learning from Visual Demonstration](https://events.infovaya.com/presentation?id=79489)
-- [Learning Sensorimotor Primitives of Sequential Manipulation Tasks from Visual Demonstrations](https://events.infovaya.com/presentation?id=79492)
-- [Maximum Likelihood Constraint Inference on Continuous State Spaces](https://events.infovaya.com/presentation?id=79495)
-- [Learning from Humans and Robots with Dual Demonstration Domains: Random Domain-Adaptive Meta-Learning](https://events.infovaya.com/presentation?id=79498)
-- [Q-attention: Enabling Efficient Learning for Vision-Based Robotic Manipulation](https://events.infovaya.com/presentation?id=79501)
-- [Kinematic Motion Retargeting Via Neural Latent Optimization for Learning Sign Language](https://events.infovaya.com/presentation?id=79504)
-- [From Key Positions to Optimal Basis Functions for Probabilistic Adaptive Control](https://events.infovaya.com/presentation?id=79507)
-- [Learning Stable Dynamical Systems for Visual Servoing](https://events.infovaya.com/presentation?id=79510)
-- [Gaussian Process Constraint Learning for Scalable Chance-Constrained Motion Planning from Demonstrations](https://events.infovaya.com/presentation?id=79513)
-- [Robot Skill Adaptation Via Soft Actor-Critic Gaussian Mixture Models](https://events.infovaya.com/presentation?id=79516)
-- [Efficient and Interpretable Robot Manipulation with Graph Neural Networks](https://events.infovaya.com/presentation?id=77080)
-# RGB-D Perception I
-- [Abnormal Occupancy Grid Map Recognition Using Attention Network](https://events.infovaya.com/presentation?id=79522)
-- [Uncertainty from Motion for DNN Monocular Depth Estimation](https://events.infovaya.com/presentation?id=79525)
-- [Depth Completion Using Geometry-Aware Embedding](https://events.infovaya.com/presentation?id=79528)
-- [Competence-Aware Path Planning Via Introspective Perception](https://events.infovaya.com/presentation?id=79531)
-- [Self-Supervised Depth Completion for Active Stereo](https://events.infovaya.com/presentation?id=79534)
-- [A Real-Time Online Learning Framework for Joint 3D Reconstruction and Semantic Segmentation of Indoor Scenes](https://events.infovaya.com/presentation?id=79537)
-- [Prediction of Depth Camera Missing Measurements Using Deep Learning for Next Best View Planning](https://events.infovaya.com/presentation?id=79540)
-- [ICaps: Iterative Category-Level Object Pose and Shape Estimation](https://events.infovaya.com/presentation?id=79543)
-- [Message Passing Framework for Vision Prediction Stability in Human Robot Interaction](https://events.infovaya.com/presentation?id=79546)
-- [Unsupervised Depth Completion and Denoising for RGB-D Sensors](https://events.infovaya.com/presentation?id=79549)
-- [PA-AWCNN: Two-Stream Parallel Attention Adaptive Weight Network for RGB-D Action Recognition](https://events.infovaya.com/presentation?id=79552)
-- [Variable Rate Compression for Raw 3D Point Clouds](https://events.infovaya.com/presentation?id=79555)
-# Multi-Robot Learning
-- [ForMIC: Foraging Via Multiagent RL with Implicit Communication](https://events.infovaya.com/presentation?id=79558)
-- [Stable and Efficient Shapley Value-Based Reward Reallocation for Multi-Agent Reinforcement Learning of Autonomous Vehicles](https://events.infovaya.com/presentation?id=79561)
-- [A Framework for Real-World Multi-Robot Systems Running Decentralized GNN-Based Policies](https://events.infovaya.com/presentation?id=79564)
-- [DiNNO: Distributed Neural Network Optimization for Multi-Robot Collaborative Learning](https://events.infovaya.com/presentation?id=79567)
-- [Coverage Control in Multi-Robot Systems Via Graph Neural Networks](https://events.infovaya.com/presentation?id=79570)
-- [Multi-Target Encirclement with Collision Avoidance Via Deep Reinforcement Learning Using Relational Graphs](https://events.infovaya.com/presentation?id=79573)
-- [Decentralized Global Connectivity Maintenance for Multi-Robot Navigation: A Reinforcement Learning Approach](https://events.infovaya.com/presentation?id=79576)
-- [Multi-Robot Cooperative Pursuit Via Potential Field-Enhanced Reinforcement Learning](https://events.infovaya.com/presentation?id=79579)
-- [Learning Scalable Policies Over Graphs for Multi-Robot Task Allocation Using Capsule Attention Networks](https://events.infovaya.com/presentation?id=79582)
-- [Task Allocation with Load Management in Multi-Agent Teams](https://events.infovaya.com/presentation?id=79585)
-- [Learning Selective Communication for Multi-Agent Path Finding](https://events.infovaya.com/presentation?id=79588)
-- [Hierarchical Planning for Heterogeneous Multi-Robot Routing Problems Via Learned Subteam Performance](https://events.infovaya.com/presentation?id=79591)
-# Haptic Interfaces
-- [The ThreeDWorld Transport Challenge: A Visually Guided Task-And-Motion Planning Benchmark towards Physically Realistic Embodied AI](https://events.infovaya.com/presentation?id=79594)
-- [Online Adaptive Identification and Switching of Soft Contact Model Based on ART-‚Ö° Method](https://events.infovaya.com/presentation?id=79597)
-- [A Proprioceptive Haptic Device Design for Teaching Bimanual Manipulation](https://events.infovaya.com/presentation?id=79600)
-- [A Wearable Fingertip Cutaneous Haptic Device with Continuous Omnidirectional Motion Feedback](https://events.infovaya.com/presentation?id=79603)
-- [Rendering Virtual Inertia in Haptic Interfaces: Analysis and Limitations](https://events.infovaya.com/presentation?id=79606)
-- [Perceived Intensities of Normal and Shear Skin Stimuli Using a Wearable Haptic Bracelet](https://events.infovaya.com/presentation?id=79609)
-- [Virtual Inertia As an Energy Dissipation Element for Haptic Interfaces](https://events.infovaya.com/presentation?id=79612)
-- [Evoked Tactile Feedback and Control Scheme on Functional Utility of Prosthetic Hand](https://events.infovaya.com/presentation?id=79615)
-- [Deep Heterogeneous Dilation of LSTM for Transient-Phase Gesture Prediction through High-Density Electromyography: Towards Application in Neurorobotics](https://events.infovaya.com/presentation?id=79618)
-- [Interactive Robotic Grasping with Attribute-Guided Disambiguation](https://events.infovaya.com/presentation?id=79621)
-# Autonomous Vehicle Navigation I
-- [Autonomous Exploration Development Environment and the Planning Algorithms](https://events.infovaya.com/presentation?id=79624)
-- [Event-Triggered Tracking Control Scheme for Quadrotors with External Disturbances: Theory and Validations](https://events.infovaya.com/presentation?id=79627)
-- [PredictionNet: Real-Time Joint Probabilistic Traffic Prediction for Planning, Control, and Simulation](https://events.infovaya.com/presentation?id=79630)
-- [Graph Neural Network Based Relation Learning for Abnormal Perception Information Detection in Self-Driving Scenarios](https://events.infovaya.com/presentation?id=79633)
-- [Domain Generalization for Vision-Based Driving Trajectory Generation](https://events.infovaya.com/presentation?id=79636)
-- [StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving](https://events.infovaya.com/presentation?id=79639)
-- [FusionNet: Coarse-To-Fine Extrinsic Calibration Network of LiDAR and Camera with Hierarchical Point-Pixel Fusion](https://events.infovaya.com/presentation?id=79642)
-- [Cyclops: Open Platform for Scale Truck Platooning](https://events.infovaya.com/presentation?id=79645)
-- [Runtime Safety Assurance for Learning-Enabled Control of Autonomous Driving Vehicles](https://events.infovaya.com/presentation?id=79648)
-- [Looking for Trouble: Informative Planning for Safe Trajectories with Occlusions](https://events.infovaya.com/presentation?id=79651)
-- [A Deep Concept Graph Network for Interaction-Aware Trajectory Prediction](https://events.infovaya.com/presentation?id=79654)
-- [Real-Time Trajectory Planning for Autonomous Driving with Gaussian Process and Incremental Refinement](https://events.infovaya.com/presentation?id=79657)
-# Soft Robot Materials, Models, and Design
-- [The Role of Stiffness in Versatile Robotic Grasping](https://events.infovaya.com/presentation?id=79660)
-- [Turning a Functional Cloth into an Actuator by Combining Thread-Like Thin Artificial Muscles and Embroidery Techniques](https://events.infovaya.com/presentation?id=79663)
-- [Singularity Conditions for Continuum Parallel Robots](https://events.infovaya.com/presentation?id=79666)
-- [A Contact-Triggered Adaptive Soft Suction Cup](https://events.infovaya.com/presentation?id=79669)
-- [Feedback Regulation of Elastically Decoupled Underactuated Soft Robots](https://events.infovaya.com/presentation?id=79672)
-- [Probabilistic Modeling and Bayesian Filtering for Improved State Estimation for Soft Robots](https://events.infovaya.com/presentation?id=79675)
-- [Sim-To-Real for Soft Robots Using Differentiable FEM: Recipes for Meshing, Damping, and Actuation](https://events.infovaya.com/presentation?id=79678)
-- [A 3D Printed Soft Robotic Gripper with a Variable Stiffness Enabled by a Novel Positive Pressure Layer Jamming Technology](https://events.infovaya.com/presentation?id=79681)
-# Planning under Uncertainty I
-- [Scalable Gradient Ascent for Controllers in Constrained POMDPs](https://events.infovaya.com/presentation?id=79684)
-- [A Model Predictive-Based Motion Planning Method for Safe and Agile Traversal of Unknown and Occluding Environments](https://events.infovaya.com/presentation?id=79687)
-- [Learning Risk-Aware Costmaps for Traversability in Challenging Environments](https://events.infovaya.com/presentation?id=79690)
-- [GOHOME: Graph-Oriented Heatmap Output for Future Motion Estimation](https://events.infovaya.com/presentation?id=79693)
-- [Trajectory Planning in Unknown 2D Workspaces: A Smooth, Reactive, Harmonics-Based Approach](https://events.infovaya.com/presentation?id=79696)
-- [AUV Motion Planning in Uncertain Flow Fields Using Bayes Adaptive MDPs](https://events.infovaya.com/presentation?id=79699)
-- [Mobile Robot Navigation Functions Tuned by Sensor Readings in Partially Known Environments](https://events.infovaya.com/presentation?id=79702)
-- [Stochastic Dynamic Games in Belief Space](https://events.infovaya.com/presentation?id=79705)
-- [A Hierarchical Coordination Framework for Joint Perception-Action Tasks in Composite Robot Teams](https://events.infovaya.com/presentation?id=79708)
-- [Trajectory Optimization Using Learned Robot-Terrain Interaction Model in Exploration of Large Subterranean Environments](https://events.infovaya.com/presentation?id=79711)
-- [Nonmyopic Informative Path Planning Based on Global Kriging Variance Minimization](https://events.infovaya.com/presentation?id=79714)
-- [Reasoning with Scene Graphs for Robot Planning under Partial Observability](https://events.infovaya.com/presentation?id=79717)
-# Semantic Scene Understanding I
-- [Translating Images into Maps](https://events.infovaya.com/presentation?id=79720)
-- [SMAC-Seg: LiDAR Panoptic Segmentation Via Sparse Multi-Directional Attention Clustering](https://events.infovaya.com/presentation?id=79723)
-- [Superpoint-Guided Semi-Supervised Semantic Segmentation of 3D Point Clouds](https://events.infovaya.com/presentation?id=79726)
-- [Efficient and Robust Semantic Mapping for Indoor Environments](https://events.infovaya.com/presentation?id=79729)
-- [Towards Broad Learning Networks on Unmanned Mobile Robot for Semantic Segmentation](https://events.infovaya.com/presentation?id=79732)
-- [Vision-Based Large-Scale 3D Semantic Mapping for Autonomous Driving Applications](https://events.infovaya.com/presentation?id=79735)
-- [Prototype-Voxel Contrastive Learning for LiDAR Point Cloud Panoptic Segmentation](https://events.infovaya.com/presentation?id=79738)
-- [Perception Engine Using a Multi-Sensor Head to Enable High-Level Humanoid Robot Behaviors](https://events.infovaya.com/presentation?id=79741)
-- [Audio-Visual Grounding Referring Expression for Robotic Manipulation](https://events.infovaya.com/presentation?id=79744)
-- [TridentNetV2: Lightweight Graphical Global Plan Representations for Dynamic Trajectory Generation](https://events.infovaya.com/presentation?id=79747)
-- [Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs Using Graph Neural Networks](https://events.infovaya.com/presentation?id=79750)
-- [Contrastive Instance Association for 4D Panoptic Segmentation for Sequences of 3D LiDAR Scans](https://events.infovaya.com/presentation?id=79753)
-# Telerobotics
-- [Tactile Classification of Object Materials for Virtual Reality Based Robot Teleoperation](https://events.infovaya.com/presentation?id=79756)
-- [Semi-Autonomous Teleoperation Via Learning Non-Prehensile Manipulation Skills](https://events.infovaya.com/presentation?id=79759)
-- [Towards 6DoF Bilateral Teleoperation of an Omnidirectional Aerial Vehicle for Aerial Physical Interaction](https://events.infovaya.com/presentation?id=79762)
-- [Comparison of Haptic and Augmented Reality Visual Cues for Assisting Tele-Manipulation](https://events.infovaya.com/presentation?id=79765)
-- [Deflection-Domain Passivity Control of Variable Stiffnesses Based on Potential Energy Reference](https://events.infovaya.com/presentation?id=79768)
-- [Immersive Virtual Walking System Using an Avatar Robot](https://events.infovaya.com/presentation?id=79771)
-- [Blending Primitive Policies in Shared Control for Assisted Teleoperation](https://events.infovaya.com/presentation?id=79774)
-- [Maximal Manipulation Framework Using Quadratic Programmingfor a Teleoperated Robotic System with Articulated Bodies](https://events.infovaya.com/presentation?id=79777)
-- [TelePhysicalOperation: Remote Robot Control Based on a Virtual "Marionette" Type Interaction Interface](https://events.infovaya.com/presentation?id=79780)
-- [Structured Action Prediction for Teleoperation in Open Worlds](https://events.infovaya.com/presentation?id=79783)
-- [A Shared-Control Teleoperation Architecture for Nonprehensile Object Transportation](https://events.infovaya.com/presentation?id=79786)
-- [Robotic Embodiment of Human-Like Motor Skills Via Reinforcement Learning](https://events.infovaya.com/presentation?id=79789)
-# Vision-Based Navigation I
-- [Augmenting Imitation Experience Via Equivariant Representations](https://events.infovaya.com/presentation?id=79792)
-- [Depth-Aware Vision-And-Language Navigation Using Scene Query Attention Network](https://events.infovaya.com/presentation?id=79795)
-- [Visual Navigation Using Sparse Optical Flow and Time-To-Transit](https://events.infovaya.com/presentation?id=79798)
-- [Indoor Localization for Quadrotors Using Invisible Projected Tags](https://events.infovaya.com/presentation?id=79801)
-- [Complex Terrain Navigation Via Model Error Prediction](https://events.infovaya.com/presentation?id=79804)
-- [An Observer Cascade for Velocity and Multiple Line Estimation](https://events.infovaya.com/presentation?id=79807)
-- [An In-Depth Experimental Study of Sensor Usage and Visual Reasoning of Robots Navigating in Real Environments](https://events.infovaya.com/presentation?id=79810)
-- [Asynchronous Optimisation for Event-Based Visual Odometry](https://events.infovaya.com/presentation?id=79813)
-- [Deep Visual Navigation under Partial Observability](https://events.infovaya.com/presentation?id=79816)
-- [TERP: Reliable Planning in Uneven Outdoor Environments Using Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=79819)
-- [EchoVPR: Echo State Networks for Visual Place Recognition](https://events.infovaya.com/presentation?id=79822)
-- [REVE-CE: Remote Embodied Visual Referring Expression in Continuous Environment](https://events.infovaya.com/presentation?id=79825)
-# Visual-Inertial SLAM
-- [Integrating Point and Line Features for Visual-Inertial Initialization](https://events.infovaya.com/presentation?id=79828)
-- [Periodic SLAM: Using Cyclic Constraints to Improve the Performance of Visual-Inertial SLAM on Legged Robots](https://events.infovaya.com/presentation?id=79831)
-- [Tightly-Coupled GNSS-Aided Visual-Inertial Localization](https://events.infovaya.com/presentation?id=79834)
-- [Continuous-Time Spline Visual-Inertial Odometry](https://events.infovaya.com/presentation?id=79837)
-- [Object-Based Visual-Inertial Navigation System on Matrix Lie Group](https://events.infovaya.com/presentation?id=79840)
-- [FEJ2: A Consistent Visual-Inertial State Estimator Design](https://events.infovaya.com/presentation?id=79843)
-- [Constrained Visual-Inertial Localization with Application and Benchmark in Laparoscopic Surgery](https://events.infovaya.com/presentation?id=79846)
-- [DM-VIO: Delayed Marginalization Visual-Inertial Odometry](https://events.infovaya.com/presentation?id=79849)
-- [Balancing the Budget: Feature Selection and Tracking for Multi-Camera Visual-Inertial Odometry](https://events.infovaya.com/presentation?id=79852)
-- [Leveraging Structural Information to Improve Point Line Visual-Inertial Odometry](https://events.infovaya.com/presentation?id=79855)
-- [Decoupled Right Invariant Error States for Consistent Visual-Inertial Navigation](https://events.infovaya.com/presentation?id=79858)
-- [Multirobot Collaborative Monocular SLAM Utilizing Rendezvous](https://events.infovaya.com/presentation?id=79861)
-# Surgical Robotics: Steerable Catheters and Needles
-- [Design and Kinematic Modeling of In-Situ Torsionally-Steerable Flexible Surgical Robots](https://events.infovaya.com/presentation?id=79864)
-- [Bidirectional Soft Robotic Catheter for Arrhythmia Treatment](https://events.infovaya.com/presentation?id=79867)
-- [Magnetically Steerable Asymmetric Magnetized Soft Continuum Robot (AMSCR) for Minimally Invasive Surgery](https://events.infovaya.com/presentation?id=79870)
-- [Fixed and Sliding FBG Sensors-Based Triaxial Tip Force Sensing for Cable-Driven Continuum Robots](https://events.infovaya.com/presentation?id=79873)
-- [Telerobotically Controlled Magnetic Soft Continuum Robots for Neurovascular Interventions](https://events.infovaya.com/presentation?id=79876)
-- [Design and Quasistatic Modelling of Hybrid Continuum Multi-Arm Robots](https://events.infovaya.com/presentation?id=79879)
-- [Capacitive Proximity Sensor for Non-Contact Endoscope Localization](https://events.infovaya.com/presentation?id=79882)
-- [Shape Sensing for Continuum Robots by Capturing Passive Tendon Displacements with Image Sensors](https://events.infovaya.com/presentation?id=79885)
-- [Flexural Anisotropy Stabilizes Concentric Tube Robots](https://events.infovaya.com/presentation?id=79888)
-- [Learning to Localize, Grasp, and Hand Over Unmodified Surgical Needles](https://events.infovaya.com/presentation?id=79891)
-- [Data-Driven Modelling and Control for Robot Needle Insertion in Deep Anterior Lamellar Keratoplasty](https://events.infovaya.com/presentation?id=79894)
-- [Resolution-Optimal Motion Planning for Steerable Needles](https://events.infovaya.com/presentation?id=79897)
-# Aerial Systems: Perception and Autonomy
-- [Motion Primitives-Based Navigation Planning Using Deep Collision Prediction](https://events.infovaya.com/presentation?id=79900)
-- [Optimizing Terrain Mapping and Landing Site Detection for Autonomous UAVs](https://events.infovaya.com/presentation?id=79903)
-- [Towards Sensor Autonomy in Sub-Gram Flying Insect Robots: A Lightweight and Power-Efficient Avionics System](https://events.infovaya.com/presentation?id=79906)
-- [Exploration with Global Consistency Using Real-Time Re-Integration and Active Loop Closure](https://events.infovaya.com/presentation?id=79909)
-- [Self-Supervised Monocular Multi-Robot Relative Localization with Efficient Deep Neural Networks](https://events.infovaya.com/presentation?id=79912)
-- [Post-Stall Navigation with Fixed-Wing UAVs Using Onboard Vision](https://events.infovaya.com/presentation?id=79915)
-- [Evaluation of Runtime Monitoring for UAV Emergency Landing](https://events.infovaya.com/presentation?id=79918)
-- [Large-Scale Autonomous Flight with Real-Time Semantic SLAM under Dense Forest Canopy](https://events.infovaya.com/presentation?id=79921)
-- [AirPose: Multi-View Fusion Network for Aerial 3D Human Pose and Shape Estimation](https://events.infovaya.com/presentation?id=79924)
-- [Free As a Bird: Event-Based Dynamic Sense-And-Avoid for Ornithopter Robot Flight](https://events.infovaya.com/presentation?id=79927)
-- [Motor-Level N-MPC for Cooperative Active Perception with Multiple Heterogeneous UAVs](https://events.infovaya.com/presentation?id=79930)
-- [A Shadowcasting-Based Next-Best-View Planner for Autonomous 3D Exploration](https://events.infovaya.com/presentation?id=79933)
-# Micro/Nano Robots
-- [Collision Resilient Insect-Scale Soft-Actuated Aerial Robots with High Agility](https://events.infovaya.com/presentation?id=79936)
-- [Fully Automatic and Real-Time Microrobot Detection and Tracking Based on Ultrasound Imaging Using Deep Learning](https://events.infovaya.com/presentation?id=79939)
-- [The Feedback Trajectory Control of a SMA-Driven Miniature Jumping Robot](https://events.infovaya.com/presentation?id=79942)
-- [An Indeterministic Vision-Based State Observer for Growing Magnetic Microrobot Motion Status Estimation](https://events.infovaya.com/presentation?id=79945)
-- [A Beetle-Claw Inspired Miniature Mesh Climbing Robot](https://events.infovaya.com/presentation?id=79948)
-- [Fabrication of PEDOT: PSS Based Soft Sensor for Feedback Control of Modular Bio-Actuator](https://events.infovaya.com/presentation?id=79951)
-- [Multi-Mode Motion Control of Reconfigurable Vortex-Shaped Microrobot Swarms for Targeted Tumor Therapy](https://events.infovaya.com/presentation?id=79954)
-- [Magnetically Controlled Modular Cubes with Reconfigurable Self-Assembly and Disassembly](https://events.infovaya.com/presentation?id=79957)
-- [Steering Rotating Magnetic Swimmers in 2.5 Dimensions Using Only 2D Ultrasonography for Position Sensing](https://events.infovaya.com/presentation?id=79960)
-- [Data-Driven Control for a Milli-Scale Spiral-Type Magnetic Swimmer Using MPC](https://events.infovaya.com/presentation?id=79963)
-- [Crabbot: A Pole-Climbing Robot Driven by Piezoelectric Stack](https://events.infovaya.com/presentation?id=79966)
-# Actuation, Assembly, and Kinematics
-- [Characterizing Error in Noncommutative Geometric Gait Analysis](https://events.infovaya.com/presentation?id=79969)
-- [Convex Iteration for Distance-Geometric Inverse Kinematics](https://events.infovaya.com/presentation?id=79972)
-- [Adaptive Tracking Control for Industrial Robot Manipulators with Unknown Inner Loop Architecture](https://events.infovaya.com/presentation?id=79975)
-- [Model-Driven Reinforcement Learning and Action Dimension Extension Method for Efficient Assembly](https://events.infovaya.com/presentation?id=79978)
-- [Automatic Classification and Disassembly of Fasteners in Industrial 3D CAD-Scenarios](https://events.infovaya.com/presentation?id=79981)
-- [Learning Insertion Primitives with Discrete-Continuous Hybrid Action Space for Robotic Assembly Tasks](https://events.infovaya.com/presentation?id=79984)
-- [Contact State Estimation for Peg-In-Hole Assembly Using Gaussian Mixture Model](https://events.infovaya.com/presentation?id=79987)
-- [An Assembly Sequence Planning Framework for Complex Data Using General Voronoi Diagram](https://events.infovaya.com/presentation?id=79990)
-- [Harnessing Cascading Dominoes for Peristaltic Wave Motion](https://events.infovaya.com/presentation?id=79993)
-- [Offline Reference Trajectory Shaping for a Cable-Driven Earthquake Simulator Based on a Viscoelastic Cable Model](https://events.infovaya.com/presentation?id=79996)
-# Wearable Robotics and Human Augmentation
-- [Control Strategy for Shoulder-sideWINDER with Kinematics, Load Estimation, and Friction Compensation: Preliminary Validation](https://events.infovaya.com/presentation?id=79999)
-- [EMG-Driven Machine Learning Control of a Soft Glove for Grasping Assistance and Rehabilitation](https://events.infovaya.com/presentation?id=80002)
-- [Human-In-The-Loop Optimisation of Exoskeleton Assistance Via Online Simulation of Metabolic Cost](https://events.infovaya.com/presentation?id=80005)
-- [Design and Validation of a Cable-Driven Asymmetric Back Exosuit](https://events.infovaya.com/presentation?id=80008)
-- [Adaptive Control Method for Dynamic Synchronization of Wearable Robotic Assistance to Discrete Movements: Validation for Use Case of Lifting Tasks](https://events.infovaya.com/presentation?id=80011)
-- [A Novel Wavelet-Based Gait Segmentation Method for a Portable Hip Exoskeleton](https://events.infovaya.com/presentation?id=80014)
-- [Enhancing Voluntary Motion with Modular, Backdrivable, Powered Hip and Knee Orthoses](https://events.infovaya.com/presentation?id=80017)
-- [Toward Sustainable and Accessible Mobility: A Robotic FES Bike with a Fatigue Compensation Algorithm and Mechanism for Cybathlon 2020](https://events.infovaya.com/presentation?id=80020)
-- [Improving Standing Balance Performance through the Assistance of a Mobile Collaborative Robot](https://events.infovaya.com/presentation?id=80023)
-# Field Robotics II / Multi Robot
-- [Vision-Based Self-Adaptive Gripping in a Trimodal Robotic Sorting End-Effector](https://events.infovaya.com/presentation?id=80026)
-- [Autonomous Source Term Estimation in Unknown Environments: From a Dual Control Concept to UAV Deployment](https://events.infovaya.com/presentation?id=80029)
-- [Aerial-Ground Robots Collaborative 3D Mapping in GNSS-Denied Environments](https://events.infovaya.com/presentation?id=80032)
-- [Graph-Based Multi-Sensor Fusion for Consistent Localization of Autonomous Construction Robots](https://events.infovaya.com/presentation?id=80035)
-- [R-PCC: A Baseline for Range Image-Based Point Cloud Compression](https://events.infovaya.com/presentation?id=80038)
-- [Online Coverage Planning for an Autonomous Weed Mowing Robot with Curvature Constraints](https://events.infovaya.com/presentation?id=80041)
-- [Crowd Vetting: Rejecting Adversaries Via Collaboration with Application to Multirobot Flocking](https://events.infovaya.com/presentation?id=80044)
-- [Resilient Supervisory Multiagent Systems](https://events.infovaya.com/presentation?id=80047)
-- [Search for Smart Evaders with Swarms of Sweeping Agents](https://events.infovaya.com/presentation?id=80050)
-- [MADER: Trajectory Planner in Multiagent and Dynamic Environments](https://events.infovaya.com/presentation?id=80053)
-- [Adaptive and Risk-Aware Target Tracking for Robot Teams with Heterogeneous Sensors](https://events.infovaya.com/presentation?id=80056)
-- [Consensus in Operational Space for Robotic Manipulators with Task and Input Constraints](https://events.infovaya.com/presentation?id=80059)
-# Deep Learning in Grasping and Manipulation III
-- [Target-Mass Grasping of Entangled Food Using Pre-Grasping & Post-Grasping](https://events.infovaya.com/presentation?id=80062)
-- [Learning with Few Examples the Semantic Description of Novel Human-Inspired Grasp Strategies from RGB Data](https://events.infovaya.com/presentation?id=80065)
-- [Deformation-Aware Data-Driven Grasp Synthesis](https://events.infovaya.com/presentation?id=80068)
-- [Improving Object Pose Estimation by Fusion with a Multimodal Prior -](https://events.infovaya.com/presentation?id=80071)
-- [Multi-Fingered In-Hand Manipulation with Various Object Properties Using Graph Convolutional Networks and Distributed Tactile Sensors](https://events.infovaya.com/presentation?id=80074)
-- [Real-Time Collision-Free Grasp Pose Detection with Geometry-Aware Refinement Using High-Resolution Volume](https://events.infovaya.com/presentation?id=80077)
-- [SafePicking: Learning Safe Object Extraction Via Object-Level Mapping](https://events.infovaya.com/presentation?id=80080)
-- [DVGG: Deep Variational Grasp Generation for Dextrous Manipulation](https://events.infovaya.com/presentation?id=80083)
-- [Bottom-Up Skill Discovery from Unsegmented Demonstrations for Long-Horizon Robot Manipulation](https://events.infovaya.com/presentation?id=80086)
-- [UMPNet: Universal Manipulation Policy Network for Articulated Objects](https://events.infovaya.com/presentation?id=80089)
-- [Hierarchical Policies for Cluttered-Scene Grasping with Latent Plans](https://events.infovaya.com/presentation?id=80092)
+
+# Award Session I
+- SpeedFolding: Learning Efficient Bimanual Folding of Garments
+- FAR Planner: Fast, Attemptable Route Planner Using Dynamic Visibility Update
+- Learning-Based Localizability Estimation for Robust LiDAR Localization
+- Adversarial Motion Priors Make Good Substitutes for Complex Reward Functions
+- RCareWorld: A Human-Centric Simulation World for Caregiving Robots
+- Design and Modeling of a Spring-Like Continuum Joint with Variable Pitch for Endoluminal Surgery
+# Learning 1
+- CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks
+- Bio-Inspired Reflex System for Learning Visual Information for Resilient Robotic Manipulation
+- RECALL: Rehearsal-Free Continual Learning for Object Classification
+- PoseIt: A Visual-Tactile Dataset of Holding Poses for Grasp Stability Analysis
+- LaneSNNs: Spiking Neural Networks for Lane Detection on the Loihi Neuromorphic Processor
+- Striving for Less: Minimally-Supervised Pseudo-Label Generation for Monocular Road Segmentation
+- Learning Sequential Descriptors for Sequence-Based Visual Place Recognition
+- DCPCR: Deep Compressed Point Cloud Registration in Large-Scale Outdoor Environments
+- Deep Koopman Operator with Control for Nonlinear Systems
+- Service Robotics
+- An Autonomous Descending-Stair Cleaning Robot with RGB-D Based Detection, Approaching, and Area Coverage Process
+- Non-Parametric Modeling of Spatio-Temporal Human Activity Based on Mobile Robot Observations
+- Service Robots in a Bakery Shop: A Field Study
+- Shared Autonomy for Safety between a Self-Reconfigurable Robot and a Teleoperator Using Multi-Layer Fuzzy Logic
+- Pedestrian-Robot Interactions on Autonomous Crowd Navigation: Reactive Control Methods and Evaluation Metrics
+- Design of a Reconfigurable Robot with Size-Adaptive Path Planner
+- Testing Service Robots in the Field: An Experience Report
+- Approximate Task Tree Retrieval in a Knowledge Network for Robotic Cooking
+- Robotic Depowdering for Additive Manufacturing Via Pose Tracking
+# Manipulation Systems 1
+- A Hierarchical Framework for Long Horizon Planning of Object-Contact Trajectories
+- Constraint-Based Task Specification and Trajectory Optimization for Sequential Manipulation
+- Quasistatic Contact-Rich Manipulation Via Linear Complementarity Quadratic Programming
+- Efficient Spatial Representation and Routing of Deformable One-Dimensional Objects for Manipulation
+- Learning and Generalizing Cooperative Manipulation Skills Using Parametric Dynamic Movement Primitives (I)
+- A Solution to Slosh-Free Robot Trajectory Optimization
+- Uncertainty-Aware Manipulation Planning Using Gravity and Environment Geometry
+- Goal-Driven Robotic Pushing Using Tactile and Proprioceptive Feedback (I)
+- Learning to Fold Real Garments with One Arm: A Case Study in Cloud-Based Robotics Research
+- Computer Vision for Transportation
+- Multi-Sensor Data Annotation Using Sequence-Based Active Learning
+- 3D Single-Object Tracking with Spatial-Temporal Data Association
+- Instance-Aware Multi-Object Self-Supervision for Monocular Depth Prediction
+- TransDARC: Transformer-Based Driver Activity Recognition with Latent Space Feature Calibration
+- Attention-Based Deep Driving Model for Autonomous Vehicles with Surround-View Cameras
+- Towards Safety-Aware Pedestrian Detection in Autonomous Systems
+- Self-Supervised Moving Vehicle Detection from Audio-Visual Cues
+- Multi-Source Domain Alignment for Robust Segmentation in Unknown Targets
+- Depth360: Self-Supervised Learning for Monocular Depth Estimation Using Learnable Camera Distortion Model
+# Aerial Systems 1
+- Real-Time Hybrid Mapping of Populated Indoor Scenes Using a Low-Cost Monocular UAV
+- GaSLAM: An Algorithm for Simultaneous Gas Source Localization and Gas Distribution Mapping in 3D
+- An Aerial Parallel Manipulator with Shared Compliance
+- RAPTOR: Rapid Aerial Pickup and Transport of Objects by Robots
+- Side-Pull Maneuver: A Novel Control Strategy for Dragging a Cable-Tethered Load of Unknown Weight Using a UAV
+- On-Board Physical Battery Replacement System and Procedure for Drones During Flight
+- Frequency-Based Wind Gust Estimation for Quadrotors Using a Nonlinear Disturbance Observer
+- Vision-Based Relative Detection and Tracking for Teams of Micro Aerial Vehicles
+- Efficient Concurrent Design of the Morphology of Unmanned Aerial Systems and Their Collective-Search Behavior
+# Medical Robots and Systems 1
+- Automatic Laser Steering for Middle Ear Surgery
+- Virtual Reality Simulator for Fetoscopic Spina Bifida Repair Surgery
+- A Pneumatic MR-Conditional Guidewire Delivery Mechanism with Decoupled Rotary Linear Actuation for Endovascular Intervention
+- Design and Evaluation of the Infant Cardiac Robotic Surgical System (iCROSS)
+- A Robotic System for Solo Surgery in Flexible Ureterorenoscopy
+- Light in the Larynx: A Miniaturized Robotic Optical Fiber for In-Office Laser Surgery of the Vocal Folds
+- A 5-DOFs Robot for Posterior Segment Eye Microsurgery
+# Mechanism Design 1
+- DRPD, Compact Dual Reduction Ratio Planetary Drive for Actuators of Articulated Robots
+- Single-Rod Brachiation Robot
+- A Compact, Lightweight and Singularity-Free Wrist Joint Mechanism for Humanoid Robots
+- Wirelessly Magnetically Actuated Robotic Implant for Tissue Regeneration
+- Multiple Curvatures in a Tendon-Driven Continuum Robot Using a Novel Magnetic Locking Mechanism
+- Toroidal Origami Monotrack: Mechanism to Realize Smooth Driving and Bending for Closed-Skin-Drive Robots
+- A Modified Rocker-Bogie Mechanism with Fewer Actuators and High Mobility
+- Planar Multi-Closed-Loop Hyper-Redundant Manipulator Using Extendable Tape Springs: Design, Modeling, and Experiments
+- Autonomous State-Based Flipper Control for Articulated Tracked Robots in Urban Environments
+# Object Detection, Segmentation and Categorization 1
+- Ensemble Based Anomaly Detection for Legged Robots to Explore Unknown Environments
+- FocusTR: Focusing on Valuable Feature by Multiple Transformers for Fusing Feature Pyramid on Object Detection
+- DeepShapeKit: Accurate 4D Shape Reconstruction of Swimming Fish
+- E2Pose: Fully Convolutional Networks for End-To-End Multi-Person Pose Estimation
+- Fast Detection of Moving Traffic Participants in LiDAR Point Clouds by Using Particles Augmented with Free Space Information
+- RPG: Learning Recursive Point Cloud Generation
+- Fully Convolutional Transformer with Local–Global Attention
+- DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars
+- CVFNet: Real-Time 3D Object Detection by Learning Cross View Features
+# Haptics
+- Reduced Interface Models for Haptic Interfacing with Virtual Environments
+- A Soft Robotic Haptic Feedback Glove for Colonoscopy Procedures
+- A Large-Area Wearable Soft Haptic Device Using Stacked Pneumatic Pouch Actuation
+- EMG-Based Feedback Modulation for Increased Transparency in Teleoperation
+- Cutaneous Feedback Interface for Teleoperated In-Hand Manipulation
+- Sensorimotor Control Sharing with Vibrotactile Feedback for Body Integration through Avatar Robot
+- Perception of Mechanical Properties Via Wrist Haptics: Effects of Feedback Congruence
+- Haptic Feedback Relocation from the Fingertips to the Wrist for Two-Finger Manipulation in Virtual Reality
+- Feeling the Pressure: The Influence of Vibrotactile Patterns on Feedback Perception
+- Human Factors and Human-In-The-Loop
+- SPARCS: Structuring Physically Assistive Robotics for Caregiving with Stakeholders-In-The-Loop
+- To Ask for Help or Not to Ask: A Predictive Approach to Human-In-The-Loop Motion Planning for Robot Manipulation Tasks
+- You Are in My Way: Non-Verbal Social Cues for Legible Robot Navigation Behaviors
+- Robot Trajectory Adaptation to Optimise the Trade-Off between Human Cognitive Ergonomics and Workplace Productivity in Collaborative Tasks
+- EMG-Based Hybrid Impedance-Force Control for Human-Robot Collaboration on Ultrasound Imaging
+- Modeling Human Response to Robot Errors for Timely Error Detection
+- Effects of Multiple Avatar Images Presented Consecutively with Temporal Delays on Self-Body Recognition
+- Interactive Reinforcement Learning with Bayesian Fusion of Multimodal Advice
+- A Camera-Based Deep-Learning Solution for Visual Attention Zone Recognition in Maritime Navigational Operations
+# Visual Learning
+- Spatiotemporally Enhanced Photometric Loss for Self-Supervised Monocular Depth Estimation
+- J-RR: Joint Monocular Depth Estimation and Semantic Edge Detection Exploiting Reciprocal Relations
+- Towards Two-View 6D Object Pose Estimation: A Comparative Study on Fusion Strategy
+- Maximizing Self-Supervision from Thermal Image for Effective Self-Supervised Learning of Depth and Ego-Motion
+- Domain Invariant Siamese Attention Mask for Small Object Change Detection Via Everyday Indoor Robot Navigation
+- Investigation of Factorized Optical Flows As Mid-Level Representations
+- Augment-Connect-Explore: A Paradigm for Visual Action Planning with Data Scarcity
+- Learning 6-DoF Task-Oriented Grasp Detection Via Implicit Estimation and Visual Affordance
+- NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering
+# Mapping 1
+- Multi-Agent Relative Pose Estimation with UWB and Constrained Communications
+- Ranging-Aided Ground Robot Navigation Using UWB Nodes at Unknown Locations
+- Efficient and Probabilistic Adaptive Voxel Mapping for Accurate Online LiDAR Odometry
+- 360ST-Mapping: An Online Semantics-Guided Topological Mapping Module for Omnidirectional Visual SLAM
+- Online Distance Field Priors for Gaussian Process Implicit Surfaces
+- An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions
+- PlaneSDF-Based Change Detection for Long-Term Dense Mapping
+- Efficient 2D LIDAR Based Map Updating for Long Term Operations in Dynamic Environments
+- Monocular UAV Localisation with Deep Learning and Uncertainty Propagation
+# Human-Centered Robotics 1
+- Task Decoupling in Preference-Based Reinforcement Learning for Personalized Human-Robot Interaction
+- Holo-SpoK: Affordance-Aware Augmented Reality Control of Legged Manipulators
+- Keeping Humans in the Loop: Teaching Via Feedback in Continuous Action Space Environments
+- An Adaptive, Affordable, Humanlike Arm Hand System for Deaf and Deaf Blind Communication with the American Sign Language
+- Examining Distance in UAV Gesture Perception
+- GA-STT: Human Trajectory Prediction with Group Aware Spatial-Temporal Transformer
+- Evaluating Human-Like Explanations for Robot Actions in Reinforcement Learning Scenarios
+- A Modular and Portable Black Box Recorder for Increased Transparency of Autonomous Service Robots
+# Localization 1
+- LiDAR-Aided Visual-Inertial Localization with Semantic Maps
+- Robust Onboard Localization in Changing Environments Exploiting Text Spotting
+- Fast Scan Context Matching for Omnidirectional 3D Scan
+- Probabilistic Object Maps for Long-Term Robot Localization
+- Level Set-Based Camera Pose Estimation from Multiple 2D/3D Ellipse-Ellipsoid Correspondences
+- Optimal Localizability Criterion for Positioning with Distance-Deteriorated Relative Measurements
+- Improving Worst Case Visual Localization Coverage Via Place-Specific Sub-Selection in Multi-Camera Systems
+- Hybrid Interval-Probabilistic Localization in Building Maps
+- Online Target Localization Using Adaptive Belief Propagation in the HMM Framework
+- Representation Learning
+- Reshaping Robot Trajectories Using Natural Language Commands: A Study of Multi-Modal Data Alignment Using Transformers
+- DreamingV2: Reinforcement Learning with Discrete World Models without Reconstruction
+- Playful Interactions for Representation Learning
+- COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems
+- Explainable Knowledge Graph Embedding: Inference Reconciliation for Knowledge Inferences Supporting Robot Actions
+- Neural Scene Representation for Locomotion on Structured Terrain
+- MO-Transformer: A Transformer-Based Multi-Object Point Cloud Reconstruction Network
+- Self-Supervised Feature Learning from Partial Point Clouds Via Pose Disentanglement
+- Efficiently Learning Manipulations by Selecting Structured Skill Representations
+- Automation and Robotics at Micro-Nano Scales
+- Hierarchical Learning and Control for In-Hand Micromanipulation Using Multiple Laser-Driven Micro-Tools
+- A Micro-Robotic Approach for the Correction of Angular Deviations in AFM Samples from Generic Topographic Data
+- Modeling and Characterization of Artificial Bacteria Flagella with Micro-Structured Soft-Magnetic Teeth
+- Deep Learning-Based 3D Magnetic Microrobot Tracking Using 2D MR Images
+- A PZT-Driven 6-DOF High-Speed Micromanipulator for Circular Vibration Simulation and Whirling Flow Generation
+- Real-Time Acoustic Holography with Physics-Based Deep Learning for Acoustic Robotic Manipulation
+- On-Chip Fabrication of Micro-Chain Robot with Selective Magnetization Using Magnetically Guided Arraying Microfluidic Devices
+- On-Chip Automatic Trapping and Rotating for Zebrafish Embryo Injection
+- Independent Control Strategy of Multiple Magnetic Flexible Millirobots for Position Control and Path Following (I)
+# Motion and Path Planning 1
+- Learning Goal-Oriented Non-Prehensile Pushing in Cluttered Scenes
+- Transfer Learning for Machine Learning-Based Detection and Separation of Entanglements in Bin-Picking Applications
+- Deep Reinforcement Learning Based on Local GNN for Goal-Conditioned Deformable Object Rearranging
+- Controlling the Cascade: Kinematic Planning for N-Ball Toss Juggling
+- Rearrangement-Based Manipulation Via Kinodynamic Planning and Dynamic Planning Horizons
+- Parallel Monte Carlo Tree Search with Batched Rigid-Body Simulations for Speeding up Long-Horizon Episodic Robot Planning
+- Adapting Rapid Motor Adaptation for Bipedal Robots
+- Three-Dimensional Dynamic Running with a Point-Foot Biped Based on Differentially Flat SLIP
+- A Passive Control Framework for a Bilateral Leader-Follower Robotic Surgical Setup Imposing RCM and Active Constraints
+# Biologically-Inspired Robots 1
+- The Flatworm-Like Mesh Robot WORMESH-II: Steering Control of Pedal Wave Locomotion
+- In-Hand Manipulation Exploiting Bending and Compression Deformations of Caterpillar-Locomotion-Inspired Fingers
+- Embodying Rather Than Encoding: Undulation with Binary Input
+- A Creeping Snake-Like Robot with Partial Actuation
+- Design and Experiments of Snake Robots with Docking Function
+- Modeling and Control of a Lizard Inspired Single Actuated Robot
+- Optimal Path Following Control with Efficient Computation for Snake Robots Subject to Multiple Constraints and Unknown Frictions
+- A Distributed Coach-Based Reinforcement Learning Controller for Snake Robot Locomotion
+- Bio-Inspired 2D Vertical Climbing with a Novel Tripedal Robot
+- Formal Methods in Robotics and Automation
+- Event-Based Signal Temporal Logic Tasks: Execution and Feedback in Complex Environments
+- Optimizing Demonstrated Robot Manipulation Skills for Temporal Logic Constraints
+- Classification of Time-Series Data Using Boosted Decision Trees
+- Robustness-Based Synthesis for Stochastic Systems under Signal Temporal Logic Tasks
+- Sensor Observability Index: Evaluating Sensor Alignment for Task-Space Observability in Robotic Manipulators
+- Fair Planning for Mobility-On-Demand with Temporal Logic Requests
+- Incremental Path Planning Algorithm Via Topological Mapping with Metric Gluing
+- UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation
+- Inference of Multi-Class STL Specifications for Multi-Label Human-Robot Encounters
+# SLAM 1
+- Making Parameterization and Constrains of Object Landmark Globally Consistent Via SPD(3) Manifold and Improved Cost Functions
+- ULSM: Underground Localization and Semantic Mapping with Salient Region Loop Closure under Perceptually-Degraded Environment
+- NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection
+- FEJ-VIRO: A Consistent First-Estimate Jacobian Visual-Inertial-Ranging Odometry
+- RGB-D SLAM in Indoor Planar Environments with Multiple Large Dynamic Objects
+- DRG-SLAM: A Semantic RGB-D SLAM Using Geometric Features for Indoor Dynamic Scene
+- Scale-Aware Direct Monocular Odometry
+- IMU Preintegration for 2D SLAM Problems Using Lie Groups
+- Scale Estimation with Dual Quadrics for Monocular Object SLAM
+# Grasping 1
+- Learn from Interaction: Learning to Pick Via Reinforcement Learning in Challenging Clutter
+- GE-Grasp: Efficient Target-Oriented Grasping in Dense Clutters
+- Simultaneous Object Reconstruction and Grasp Prediction Using a Camera-Centric Object Shell Representation
+- Visual Manipulation Relationship Detection Based on Gated Graph Neural Network for Robotic Grasping
+- Closed-Loop Next-Best-View Planning for Target-Driven Grasping
+- The DressGripper: A Collaborative Gripper with Electromagnetic Fingertips for Dressing Assistance
+- A New Gripper That Acts As an Active and Passive Joint to Facilitate Prehensile Grasping and Locomotion
+- Design and Control of a Quasi-Direct Drive Robotic Gripper for Collision Tolerant Picking at High Speed
+# Award Session II
+- Going in Blind: Object Motion Classification Using Distributed Tactile Sensing for Safe Reaching in Clutter
+- PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations
+- Learning Visual Feedback Control for Dynamic Cloth Folding
+- PCBot: A Minimalist Robot Designed for Swarm Applications
+- Characterization of Real-Time Haptic Feedback from Multimodal Neural Network-Based Force Estimates During Teleoperation
+- Hierarchical Reinforcement Learning for Precise Soccer Shooting Skills Using a Quadrupedal Robot
+# Learning 2
+- Multi-Modal Legged Locomotion Framework with Automated Residual Reinforcement Learning
+- Learning to Climb: Constrained Contextual Bayesian Optimisation on a Multi-Modal Legged Robot
+- Class-Incremental Gesture Recognition Learning with Out-Of-Distribution Detection
+- PIMNet: Physics-Infused Neural Network for Human Motion Prediction
+- What Matters in Language Conditioned Robotic Imitation Learning Over Unstructured Data
+- Learning Solution Manifolds for Control Problems Via Energy Minimization
+- First Do Not Fall: Learning to Exploit a Wall with a Damaged Humanoid Robot
+- Learning Suction Cup Dynamics from Motion Capture: Accurate Prediction of an Object's Vertical Motion During Release
+- Embodied Active Domain Adaptation for Semantic Segmentation Via Informative Path Planning
+# Grasping 2
+- ICK-Track: A Category-Level 6-DoF Pose Tracker Using Inter-Frame Consistent Keypoints for Aerial Manipulation
+- Multi-Finger Grasping Like Humans
+- Computation and Selection of Secure Gravity Based Caging Grasps of Planar Objects
+- F1 Hand: A Versatile Fixed-Finger Gripper for Delicate Teleoperation and Autonomous Grasping
+- EfficientGrasp: A Unified Data-Efficient Learning to Grasp Method for Multi-Fingered Robot Hands
+- BRL/Pisa/IIT SoftHand: A Low-Cost, 3D-Printed, Underactuated, Tendon-Driven Hand with Soft and Adaptive Synergies
+- On Robotic Manipulation of Flexible Flat Cables: Employing a Multi-Modal Gripper with Dexterous Tips, Active Nails, and a Reconfigurable Suction Cup Module
+- Automated Design of Embedded Constraints for Soft Hands Enabling New Grasp Strategies
+- Scalable Learned Geometric Feasibility for Cooperative Grasp and Motion Planning
+# Manipulation Systems 2
+- A Solution to Adaptive Mobile Manipulator Throwing
+- A Novel Design and Evaluation of a Dactylus-Equipped Quadruped Robot for Mobile Manipulation
+- Task-Oriented Contact Optimization for Pushing Manipulation with Mobile Robots
+- Articulated Object Interaction in Unknown Scenes with Whole-Body Mobile Manipulation
+- A Versatile Affordance Modeling Framework Using Screw Primitives to Increase Autonomy During Manipulation Contact Tasks
+- Combining Navigation and Manipulation Costs for Time-Efficient Robot Placement in Mobile Manipulation Tasks
+- An Open-Source Motion Planning Framework for Mobile Manipulators Using Constraint-Based Task Space Control with Linear MPC
+- View Planning for Object Pose Estimation Using Point Clouds: An Active Robot Perception Approach
+- Planning to Build Block Structures with Unstable Intermediate States Using Two Manipulators (I)
+# Navigation Systems 1
+- RARA: Zero-Shot Sim2Real Visual Navigation with Following Foreground Cues
+- Navigation among Movable Obstacles with Object Localization Using Photorealistic Simulation
+- Navigating Underground Environments Using Simple Topological Representations
+- Teaching Agents How to Map: Spatial Reasoning for Multi-Object Navigation
+- NAUTS: Negotiation for Adaptation to Unstructured Terrain Surfaces
+- Resilient Detection and Recovery of Autonomous Systems Operating under On-Board Controller Cyber Attacks
+- Benchmarking Augmentation Methods for Learning Robust Navigation Agents: The Winning Entry of the 2021 iGibson Challenge
+- Robotic Interestingness Via Human-Informed Few-Shot Object Detection
+- Map-Free Lidar Odometry (MFLO) Using a Range Flow Constraint and Point Patch Covariances
+# Aerial Systems 2
+- Rotor Array Synergies for Aerial Modular Reconfigurable Robots
+- Precise Position Control of a Multi-Rotor UAV with a Cable-Suspended Mechanism During Water Sampling
+- Multirotor Long-Reach Aerial Pruning with Wire-Suspended Saber Saw
+- Unmanned Aircraft System-Based Radiological Mapping of Buildings
+- Towards Edible Drones for Rescue Missions: Design and Flight of Nutritional Wings
+- Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry
+- Enforcing Vision-Based Localization Using Perception Constrained N-MPC for Multi-Rotor Aerial Vehicles
+- Visual Loop Closure Detection for a Future Mars Science Helicopter
+- PencilNet: Zero-Shot Sim-To-Real Transfer Learning for Robust Gate Perception in Autonomous Drone Racing
+# Medical Robots and Systems 2
+- Force-Guided Alignment and File Feedrate Control for Robot-Assisted Endodontic Treatment
+- A Training-Evaluation Method for Nursing Telerobot Operator with Unsupervised Trajectory Segmentation
+- Visual Servo Control of COVID-19 Nasopharyngeal Swab Sampling Robot
+- Development of a Cable-Driven Growing Sling to Assist Patient Transfer
+- Development of an Inherently Safe Nasopharyngeal Swab Sampling Robot Using a Force Restriction Mechanism
+- On the Design of Integrated Tele-Monitoring/Operation System for Therapeutic Devices in Isolation Intensive Care Unit
+- Tactile Robotic Telemedicine for Safe Remote Diagnostics in Times ofCorona: System Design, Feasibility and Usability Study
+- Novel Supernumerary Robotic Limb Based on Variable Stiffness Actuators for Hemiplegic Patients Assistance
+# Mechanism Design 2
+- Plate Harmonic Reducer with a Profiled Groove Wave Generator
+- Experimental Study of the Mechanical Properties of a Spherical Parallel Link Mechanism with Arc Prismatic Pairs
+- Manipulator Equipped with Differential Wrist Mechanism to Combine the Torque of Two Motors to Increase Fingertip Force and Wrist Torque
+- Design of a Modular Continuum Robot with Alterable Compliance Using Tubular-Actuation
+- 3D-Printable Low-Reduction Cycloidal Gearing for Robotics
+- Fold-Based Complex Joints for a 3 DoF 3R Parallel Robot Design
+- A 4-DoF Parallel Robot with a Built-In Gripper for Waste Sorting
+- Adjustable Lever Mechanism with Double Parallel Link Platforms for Robotic Limbs
+- Design and Characterization of 3D Printed, Open-Source Actuators for Legged Locomotion
+# Object Detection, Segmentation and Categorization 2
+- Real-Time IMU-Based Learning: A Classification of Contact Materials
+- New Objects on the Road? No Problem, We’ll Learn Them Too
+- Conditional Patch-Based Domain Randomization: Improving Texture Domain Randomization Using Natural Image Patches
+- CloudAttention: Efficient Multi-Scale Attention Scheme for 3D Point Cloud Learning
+- Fast Hierarchical Learning for Few-Shot Object Detection
+- Improving Single-View Mesh Reconstruction for Unseen Categories Via Primitive-Based Representation and Mesh Augmentation
+- Instance Segmentation with Cross-Modal Consistency
+- Early Recall, Late Precision: Multi-Robot Semantic Object Mapping under Operational Constraints in Perceptually-Degraded Environments
+- Sparse PointPillars: Maintaining and Exploiting Input Sparsity to Improve Runtime on Embedded Systems
 # Force and Tactile Sensing
-- [Active Extrinsic Contact Sensing: Application to General Peg-In-Hole Insertion](https://events.infovaya.com/presentation?id=80095)
-- [Pouring by Feel: An Analysis of Tactile and Proprioceptive Sensing for Accurate Pouring](https://events.infovaya.com/presentation?id=80098)
-- [Development of a Three-Axis Monolithic Flexure-Based Ground Reaction Force Sensor for Various Gait Analysis](https://events.infovaya.com/presentation?id=80101)
-- [A Gradiometric Magnetic Force Sensor Immune to Stray Magnetic Fields for Robotic Hands and Grippers](https://events.infovaya.com/presentation?id=80104)
-- [High Dynamic Range Force Sensing of a Robot Hand Combining Signals on Tip and Wrist](https://events.infovaya.com/presentation?id=80107)
-- [Stabilization of Robot-Environment Interaction through Generalized Scattering Techniques](https://events.infovaya.com/presentation?id=80110)
-- [Force Control of Grinding Process Based on Frequency Analysis](https://events.infovaya.com/presentation?id=80113)
-# Machine Learning for Robotics
-- [Semi-Supervised Learning: Structure, Reflectance and Lighting Estimation from a Night Image Pair](https://events.infovaya.com/presentation?id=80116)
-- [Reinforcement Learning Based, Staircase Negotiation Learning: Simulation and Transfer to Reality for Articulated Tracked Robots](https://events.infovaya.com/presentation?id=80119)
-- [Learning for Attitude Holding of a Robotic Fish: An End-To-End Approach with Sim-To-Real Transfer](https://events.infovaya.com/presentation?id=80122)
-- [On the Online Tuning of Control Parameters for Off-Road Mobile Robots: Novel Deterministic & Neural Network Based Approaches](https://events.infovaya.com/presentation?id=80125)
-- [Image-To-Image Translation-Based Data Augmentation for Robust EV Charging Inlet Detection](https://events.infovaya.com/presentation?id=80128)
-- [Temporal Point Cloud Completion with Pose Disturbance](https://events.infovaya.com/presentation?id=80131)
-- [Learning Task-Parameterized Skills from Few Demonstrations](https://events.infovaya.com/presentation?id=80134)
-- [Residual Learning from Demonstration: Adapting DMPs for Contact-Rich Manipulation](https://events.infovaya.com/presentation?id=80137)
-- [Robot Learning Physical Object Properties from Human Visual Cues: A Novel Approach to Infer the Fullness Level in Containers](https://events.infovaya.com/presentation?id=80140)
-- [Ex-DoF: Expansion of Action Degree-Of-Freedom with Virtual Camera Rotation for Omnidirectional Image](https://events.infovaya.com/presentation?id=80143)
-- [A Self-Supervised Sampler for Efficient Action Recognition: Real-World Applications in Surveillance Systems](https://events.infovaya.com/presentation?id=80146)
-# Humanoids and Legged Locomotion
-- [Development and Analysis of a Biped Robot with Prismatic Compliance](https://events.infovaya.com/presentation?id=80149)
-- [Learning Controller Gains on Bipedal Walking Robots Via User Preferences](https://events.infovaya.com/presentation?id=80152)
-- [Online Non-Linear Centroidal MPC for Humanoid Robot Locomotion with Step Adjustment](https://events.infovaya.com/presentation?id=80155)
-- [A Universal Footstep Planning Methodology for Continuous Walking in Challenging Terrain Applicable to Different Types of Legged Robots](https://events.infovaya.com/presentation?id=80158)
-- [Sim-To-Real Learning of Footstep-Constrained Bipedal Dynamic Walking](https://events.infovaya.com/presentation?id=80161)
-- [Bipedal Walking on Constrained Footholds: Momentum Regulation Via Vertical COM Control](https://events.infovaya.com/presentation?id=80164)
-- [Online Learning of Centroidal Angular Momentum towards Enhancing DCM-Based Locomotion](https://events.infovaya.com/presentation?id=80167)
-- [Sim-To-Real Learning for Bipedal Locomotion under Unsensed Dynamic Loads](https://events.infovaya.com/presentation?id=80170)
-- [Bayesian Optimization Meets Hybrid Zero Dynamics: Safe Parameter Learning for Bipedal Locomotion Control](https://events.infovaya.com/presentation?id=80173)
-- [Natural Multicontact Walking for Robotic Assistive Devices Via Musculoskeletal Models and Hybrid Zero Dynamics](https://events.infovaya.com/presentation?id=80176)
-- [From Adaptive Locomotion to Predictive Action Selection ‚Äì Cognitive Control for a Six-Legged Walker](https://events.infovaya.com/presentation?id=80179)
-- [Legged Robot Running Using a Physics-Data Hybrid Motion Template](https://events.infovaya.com/presentation?id=80182)
-# Learning for Control
-- [A Benchmark Comparison of Learned Control Policies for Agile Quadrotor Flight](https://events.infovaya.com/presentation?id=80185)
-- [AutoTune: Controller Tuning for High-Speed Flight](https://events.infovaya.com/presentation?id=80188)
-- [OSCAR: Data-Driven Operational Space Control for Adaptive and Robust Robot Manipulation](https://events.infovaya.com/presentation?id=80191)
-- [Bridging the Model-Reality Gap with Lipschitz Network Adaptation](https://events.infovaya.com/presentation?id=80194)
-- [Kinematics Learning of Massive Heterogeneous Serial Robots](https://events.infovaya.com/presentation?id=80197)
-- [Integrating Deep Reinforcement and Supervised Learning to Expedite Indoor Mapping](https://events.infovaya.com/presentation?id=80200)
-- [Learning to Optimize in Model Predictive Control](https://events.infovaya.com/presentation?id=80203)
-- [GPU-Accelerated Policy Optimization Via Batch Automatic Differentiation of Gaussian Processes for Real-World Control](https://events.infovaya.com/presentation?id=80206)
-- [Next Steps: Learning a Disentangled Gait Representation for Versatile Quadruped Locomotion](https://events.infovaya.com/presentation?id=80209)
-- [Targeted Attack on Deep RL-Based Autonomous Driving with Learned Visual Patterns](https://events.infovaya.com/presentation?id=80212)
-- [Forward Models That Integrate High-Dimensional and Localized Sensing of Peripheral Muscle Behavior Enable Task-Independent Prediction of Lower-Limb Joint Torque and Position Future States](https://events.infovaya.com/presentation?id=80215)
-- [ADHERENT: Learning Human-Like Trajectory Generators for Whole-Body Control of Humanoid Robots](https://events.infovaya.com/presentation?id=80218)
-# RGB-D Perception II
-- [A Learned Stereo Depth System for Robotic Manipulation in Homes](https://events.infovaya.com/presentation?id=80221)
-- [Hierarchical Point Cloud Encoding and Decoding with Lightweight Self-Attention Based Model](https://events.infovaya.com/presentation?id=80224)
-- [Multi-Dimensional Cooperative Network for Stereo Matching](https://events.infovaya.com/presentation?id=80227)
-- [TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders](https://events.infovaya.com/presentation?id=80230)
-- [Meta-Confidence Estimation for Stereo Matching](https://events.infovaya.com/presentation?id=80233)
-- [CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation](https://events.infovaya.com/presentation?id=80236)
-- [Flow Supervised Neural Radiance Fields for Static-Dynamic Decomposition](https://events.infovaya.com/presentation?id=80239)
-- [SAFIT: Segmentation-Aware Scene Flow with Improved Transformer](https://events.infovaya.com/presentation?id=80242)
-- [From Scene Flow to Visual Odometry through Local and Global Regularisation in Markov Random Fields](https://events.infovaya.com/presentation?id=80245)
-- [AirLoop: Lifelong Loop Closure Detection](https://events.infovaya.com/presentation?id=80248)
-- [R3LIVE: A Robust, Real-Time, RGB-Colored, LiDAR-Inertial-Visual Tightly-Coupled State Estimation and Mapping Package](https://events.infovaya.com/presentation?id=80251)
-# Path Planning for Multi Robots
-- [Area Coverage with Multiple Capacity-Constrained Robots](https://events.infovaya.com/presentation?id=80254)
-- [Online Distributed Trajectory Planning for Quadrotor Swarm with Feasibility Guarantee Using Linear Safe Corridor](https://events.infovaya.com/presentation?id=80257)
-- [Multi-Agent Path Finding with Prioritized Communication Learning](https://events.infovaya.com/presentation?id=80260)
-- [Distributed Timed Elastic Band (DTEB) Planner: Trajectory Sharing and Collision Prediction for Multi-Robot Systems](https://events.infovaya.com/presentation?id=80263)
-- [Optimizing Space Utilization for More Effective Multi-Robot Path Planning](https://events.infovaya.com/presentation?id=80266)
-- [Robust-By-Design Plans for Multi-Robot Pursuit-Evasion](https://events.infovaya.com/presentation?id=80269)
-- [Leveraging Smooth Attention Prior for Multi-Agent Trajectory Prediction](https://events.infovaya.com/presentation?id=80272)
-- [Optimal and Bounded-Suboptimal Multi-Goal Task Assignment and Path Finding](https://events.infovaya.com/presentation?id=80275)
-- [Robust Planning for Persistent Surveillance with Energy-Constrained UAVs and Mobile Charging Stations](https://events.infovaya.com/presentation?id=80278)
-- [Fast and Optimal Trajectory Planning for Multiple Vehicles in a Nonconvex and Cluttered Environment: Benchmarks, Methodology, and Experiments](https://events.infovaya.com/presentation?id=80281)
-- [Prioritized Planning for Cooperative Range-Only Localization in Multi-Robot Networks](https://events.infovaya.com/presentation?id=80284)
-- [Multi-UAV Disaster Environment Coverage Planning with Limited-Endurance](https://events.infovaya.com/presentation?id=80287)
-# Tactile Sensors
-- [Load-Sensitive Data Acquisition System of Tactile Sensor for Multi-Fingered Robotic Hands](https://events.infovaya.com/presentation?id=80290)
-- [Design of a Biomimetic Tactile Sensor for Material Classification](https://events.infovaya.com/presentation?id=80293)
-- [GelSlim 3.0: High-Resolution Measurement of Shape, Force and Slip in a Compact Tactile-Sensing Finger](https://events.infovaya.com/presentation?id=80296)
-- [Capacitive Tactile Sensor Using Mutual Capacitance Sensing Method forIncreased Resolution](https://events.infovaya.com/presentation?id=80299)
-- [Polymer-Based Optical Waveguide Triaxial Tactile Sensing for 3-Dimensional Curved Shell](https://events.infovaya.com/presentation?id=80302)
-- [Taxim: An Example-Based Simulation Model for GelSight Tactile Sensors](https://events.infovaya.com/presentation?id=80305)
-- [TACTO: A Fast, Flexible, and Open-Source Simulator for High-Resolution Vision-Based Tactile Sensors](https://events.infovaya.com/presentation?id=80308)
-- [Enabling Low-Cost Full Surface Tactile Skin for Human Robot Interaction](https://events.infovaya.com/presentation?id=80311)
-- [Active Visuo-Tactile Interactive Robotic Perception for Accurate Object Pose Estimation in Dense Clutter](https://events.infovaya.com/presentation?id=80314)
-- [Tactile Super-Resolution Model for Soft Magnetic Skin](https://events.infovaya.com/presentation?id=80317)
-- [SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination](https://events.infovaya.com/presentation?id=80320)
-# Autonomous Vehicle Navigation II/ Localization and Mapping
-- [Safety-Critical Control with Nonaffine Control Inputs Via a Relaxed Control Barrier Function for an Autonomous Vehicle](https://events.infovaya.com/presentation?id=80323)
-- [Occupancy Flow Fields for Motion Forecasting in Autonomous Driving](https://events.infovaya.com/presentation?id=80326)
-- [SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints](https://events.infovaya.com/presentation?id=80329)
-- [Spatiotemporal Costmap Inference for MPC Via Deep Inverse Reinforcement Learning](https://events.infovaya.com/presentation?id=80332)
-- [Parametric Path Optimization for Wheeled Robots Navigation](https://events.infovaya.com/presentation?id=80335)
-- [Autonomous Vehicle Parking in Dynamic Environments: An Integrated System with Prediction and Motion Planning](https://events.infovaya.com/presentation?id=80338)
-- [Smoothing Away from the Edge for Mesh Estimation in Urban Outdoor Environments](https://events.infovaya.com/presentation?id=80341)
-- [FuzzyPSReg: Strategies of Fuzzy Cluster-Based Point Set Registration](https://events.infovaya.com/presentation?id=80344)
-- [Retriever: Point Cloud Retrieval in Compressed 3D Maps](https://events.infovaya.com/presentation?id=80347)
-# Soft Sensors and Actuators
-- [Design and Tests of a Novel Adjustable-Stiffness Force Sensor](https://events.infovaya.com/presentation?id=80350)
-- [A Low-Cost, Easy-To-Manufacture, Flexible, Multi-Taxel Tactile Sensor and Its Application to In-Hand Object Recognition](https://events.infovaya.com/presentation?id=80353)
-- [Soft-Jig: A Flexible Sensing Jig for Simultaneously Fixing and Estimating Orientation of Assembly Parts](https://events.infovaya.com/presentation?id=80356)
-- [Expanding the Design Space for Electrically-Driven Soft Robots through Handed Shearing Auxetics](https://events.infovaya.com/presentation?id=80359)
-- [Design and Characterisation of a Muscle-Mimetic Dielectrophoretic Ratcheting Actuator](https://events.infovaya.com/presentation?id=80362)
-- [Hybrid Antagonistic System with Coiled Shape Memory Alloy and Twisted and Coiled Polymer Actuator for Lightweight Robotic Arm](https://events.infovaya.com/presentation?id=80365)
-- [Multi-Dimensional Proprioception and Stiffness Tuning for Soft Robotic Joints](https://events.infovaya.com/presentation?id=80368)
-- [Design and Modeling of a Compound Twisted and Coiled Actuator Based on Spandex Fibers and an SMA Skeleton](https://events.infovaya.com/presentation?id=80371)
-- [MRI-Compatible Soft Robotic Sensing Pad for Head Motion Detection](https://events.infovaya.com/presentation?id=80374)
-- [Design of a 3D-Printed Soft Robotic Hand with Integrated Distributed Tactile Sensing](https://events.infovaya.com/presentation?id=80377)
-- [The Chain-Link Actuator: Exploiting the Bending Stiffness of McKibben Artificial Muscles to Achieve Larger Contraction Ratios](https://events.infovaya.com/presentation?id=80380)
-- [Physics-Based Modeling of Twisted-And-Coiled Actuators Using Cosserat Rod Theory](https://events.infovaya.com/presentation?id=80383)
-# Planning under Uncertainty II
-- [Gaussian Belief Trees for Chance Constrained Asymptotically Optimal Motion Planning](https://events.infovaya.com/presentation?id=80386)
-- [KinoJGM: A Framework for Efficient and Accurate Quadrotor Trajectory Generation and Tracking in Dynamic Environments](https://events.infovaya.com/presentation?id=80389)
-- [Non-Gaussian Risk Bounded Trajectory Optimization for Stochastic Nonlinear Systems in Uncertain Environments](https://events.infovaya.com/presentation?id=80392)
-- [Belief Space Planning: A Covariance Steering Approach](https://events.infovaya.com/presentation?id=80395)
-- [D2A-BSP: Distilled Data Association Belief Space Planning with Performance Guarantees under Budget Constraints](https://events.infovaya.com/presentation?id=80398)
-- [Informative Planning for Worst-Case Error Minimisation in Sparse Gaussian Process Regression](https://events.infovaya.com/presentation?id=80401)
-- [Metareasoning for Safe Decision Making in Autonomous Systems](https://events.infovaya.com/presentation?id=80404)
-- [Deliberation in Autonomous Robotic Surgery: A Framework for Handling Anatomical Uncertainty](https://events.infovaya.com/presentation?id=80407)
-- [CCO-VOXEL: Chance Constrained Optimization Over Uncertain Voxel-Grid Representation for Safe Trajectory Planning](https://events.infovaya.com/presentation?id=80410)
-- [Stein Variational Probabilistic Roadmaps](https://events.infovaya.com/presentation?id=80413)
-- [Is It Worth to Reason about Uncertainty in Occupancy Grid Maps During Path Planning?](https://events.infovaya.com/presentation?id=80416)
-- [Multi-Objective Path-Based D* Lite](https://events.infovaya.com/presentation?id=80419)
-# Semantic Scene Understanding II
-- [CPGNet: Cascade Point-Grid Fusion Network for Real-Time LiDAR Semantic Segmentation](https://events.infovaya.com/presentation?id=80422)
-- [Fast Road Segmentation Via Uncertainty-Aware Symmetric Network](https://events.infovaya.com/presentation?id=80425)
-- [RangeBird: Multi View Panoptic Segmentation of 3D Point Clouds with Neighborhood Attention](https://events.infovaya.com/presentation?id=80428)
-- [Semantically Grounded Object Matching for Robust Robotic Scene Rearrangement](https://events.infovaya.com/presentation?id=80431)
-- [Improving Road Segmentation in Challenging Domains Using Similar Place Priors](https://events.infovaya.com/presentation?id=80434)
-- [Understanding Bird‚Äôs-Eye View of Road Semantics Using an Onboard Camera](https://events.infovaya.com/presentation?id=80437)
-- [Unsupervised Domain Adaptation for LiDAR Panoptic Segmentation](https://events.infovaya.com/presentation?id=80440)
-- [SIRNet: Fine-Grained Surgical Interaction Recognition](https://events.infovaya.com/presentation?id=80443)
-- [Bird's-Eye-View Panoptic Segmentation Using Monocular Frontal View Images](https://events.infovaya.com/presentation?id=80446)
-- [TraSeTR: Track-To-Segment Transformer with Contrastive Query for Instance-Level Instrument Segmentation in Robotic Surgery](https://events.infovaya.com/presentation?id=80449)
-- [SegContrast: 3D Point Cloud Feature Representation Learning through Self-Supervised Segment Discrimination](https://events.infovaya.com/presentation?id=80452)
-# Safety in HRI / Virtual and Augmented Reality
-- [I Know You Cannot See Me: Dynamic Occlusion-Aware Safety Validation of Strategic Planners for Autonomous Vehicles Using Hypergames](https://events.infovaya.com/presentation?id=80455)
-- [Mean Reflected Mass: A Physically Interpretable Metric for Safety Assessment and Posture Optimization in Human-Robot Interaction](https://events.infovaya.com/presentation?id=80458)
-- [Intrusion Distance and Reaction Time Estimation for Safe and Efficient Industrial Robots](https://events.infovaya.com/presentation?id=80461)
-- [A Continuous Learning Approach for Probabilistic Human Motion Prediction](https://events.infovaya.com/presentation?id=80464)
-- [Safety Assurances for Human-Robot Interaction Via Confidence-Aware Game-Theoretic Human Models](https://events.infovaya.com/presentation?id=80467)
-- [Human-Feedback Shield Synthesis for Perceived Safety in Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=80470)
-- [Roboethics As a Design Challenge: Lessons Learned from theRoboethics to Design and Development Competition](https://events.infovaya.com/presentation?id=80473)
-- [Multi-Arm Payload Manipulation Via Mixed Reality](https://events.infovaya.com/presentation?id=80476)
-- [Effectiveness of Augmented Reality for Human Swarm Interactions](https://events.infovaya.com/presentation?id=80479)
-- [Effects of Interfaces on Human-Robot Trust: Specifying and Visualizing Physical Zones](https://events.infovaya.com/presentation?id=80482)
-- [Predicting Hand-Object Interaction for Improved Haptic Feedback in Mixed Reality](https://events.infovaya.com/presentation?id=80485)
-- [Towards Safe, Realistic Testbed for Robotic Systems with Human Interaction](https://events.infovaya.com/presentation?id=80488)
-# Vision-Based Navigation II
-- [Object Memory Transformer for Object Goal Navigation](https://events.infovaya.com/presentation?id=80491)
-- [Uncertainty-Driven Planner for Exploration and Navigation](https://events.infovaya.com/presentation?id=80494)
-- [Visual Representation Learning for Preference-Aware Path Planning](https://events.infovaya.com/presentation?id=80497)
-- [An Efficient and Scalable Collection of Fly-Inspired Voting Units for Visual Place Recognition in Changing Environments](https://events.infovaya.com/presentation?id=80500)
-- [An Efficient Locally Reactive Controller for Safe Navigation in Visual Teach and Repeat Missions](https://events.infovaya.com/presentation?id=80503)
-- [Learning to Navigate Sidewalks in Outdoor Environments](https://events.infovaya.com/presentation?id=80506)
-- [Focus on Impact: Indoor Exploration with Intrinsic Motivation](https://events.infovaya.com/presentation?id=80509)
-- [Multi-Agent Embodied Visual Semantic Navigation with Scene Prior Knowledge](https://events.infovaya.com/presentation?id=80512)
-- [Quasi-Globally Optimal and Real-Time Visual Compass in Manhattan Structured Environments](https://events.infovaya.com/presentation?id=80515)
-- [Vision-Only Robot Navigation in a Neural Radiance World](https://events.infovaya.com/presentation?id=80518)
-- [Accurate and Robust Object-Oriented SLAM with 3D Quadric Landmarks in Outdoors](https://events.infovaya.com/presentation?id=80521)
-- [A Novel Neural Multi-Store Memory Network for Autonomous Visual Navigation in Unknown Environment](https://events.infovaya.com/presentation?id=80524)
+- Pose-Based Tactile Servoing: Controlled Soft Touch Using Deep Learning (I)
+- Mapping Mid-Air Haptics with a Low-Cost Tactile Robot
+- Autonomous Tactile Localization and Mapping of Objects Buried in Granular Materials
+- Tactile Gym 2.0: Sim-To-Real Deep Reinforcement Learning for Comparing Low-Cost High-Resolution Robot Touch
+- Bioinspired, Multifunctional, Active Whisker Sensors for Tactile Sensing of Mobile Robots
+- Deep Active Cross-Modal Visuo-Tactile Transfer Learning for Robotic Object Recognition
+- DigiTac: A DIGIT-TacTip Hybrid Tactile Sensor for Comparing Low-Cost High-Resolution Robot Touch
+- Semi-Supervised Disentanglement of Tactile Contact Geometry from Sliding-Induced Shear
+- Multi-Purpose Tactile Perception Based on Deep Learning in a New Tendon-Driven Optical Tactile Sensor
+# Human-Robot Collaboration
+- A Multi-Granularity Scene Segmentation Network for Human-Robot Collaboration Environment Perception
+- Controller Design of a Robotic Assistant for the Transport of Large and Fragile Objects
+- Safety-Based Dynamic Task Offloading for Human-Robot Collaboration Using Deep Reinforcement Learning
+- "I'm Confident This Will End Poorly": Robot Proficiency Self-Assessment in Human-Robot Teaming
+- RILI: Robustly Influencing Latent Intent
+- Multimodal Object Categorization with Reduced User Load through Human-Robot Interaction in Mixed Reality
+- Learning and Executing Re-Usable Behaviour Trees from Natural Language Instruction
+- ProTAMP: Probabilistic Task and Motion Planning Considering Human Action for Harmonious Collaboration
+- VR Facial Animation for Immersive Telepresence Avatars
+# Visual Servoing
+- An Offline Geometric Model for Controlling the Shape of Elastic Linear Objects
+- Skeleton-Based Adaptive Visual Servoing for Control of Robotic Manipulators in Configuration Space
+- Conditional Visual Servoing for Multi-Step Tasks
+- Optimal Shape Servoing with Task-Focused Convergence Constraints
+- An Event-Triggered Visual Servoing Predictive Control Strategy for the Surveillance of Contour-Based Areas Using Multirotor Aerial Vehicles
+- Vision-Based Rotational Control of an Agile Observation Satellite
+- DIJE: Dense Image Jacobian Estimation for Robust Robotic Self-Recognition and Visual Servoing
+- Self-Supervised Wide Baseline Visual Servoing Via 3D Equivariance
+- Visibility Maximization Controller for Robotic Manipulation
+# Mapping 2
+- Multi-Camera-LiDAR Auto-Calibration by Joint Structure-From-Motion
+- GeoROS: Georeferenced Real-Time Orthophoto Stitching with Unmanned Aerial Vehicle
+- Learning to Complete Object Shapes for Object-Level Mapping in Dynamic Scenes
+- Robot-Aided Microbial Density Estimation and Mapping
+- Elevation Mapping for Locomotion and Navigation Using GPU
+- LODM: Large-Scale Online Dense Mapping for UAV
+- Roadside HD Map Object Reconstruction Using Monocular Camera
+- Adaptive-Resolution Field Mapping Using Gaussian Process Fusion with Integral Kernels
+- Make It Dense: Self-Supervised Geometric Scan Completion of Sparse 3D LiDAR Scans in Large Outdoor Environments
+# Human-Centered Robotics 2
+- Learning Causal Relationships of Object Properties and Affordances through Human Demonstrations and Self-Supervised Intervention for Purposeful Action in Transfer Environments
+- Robotic Powder Grinding with a Soft Jig for Laboratory Automation in Material Science
+- Prediction of Whole-Body Velocity and Direction from Local Leg Joint Movements in Insect Walking Via LSTM Neural Networks
+- Core Processes in Intelligent Robotic Lab Assistants: Flexible Liquid Handling
+- Registering Articulated Objects with Human-In-The-Loop Corrections
+- Learning-Based Approach for a Soft Assistive Robotic Arm to Achieve Simultaneous Position and Force Control
+- Egocentric Human Trajectory Forecasting with a Wearable Camera and Multi-Modal Fusion
+- Social Attitude towards a Robot Is Promoted by Motor-Induced Embodiment Independently of Spatial Perspective
+- Spatial Computing and Intuitive Interaction: Bringing Mixed Reality and Robotics Together (I)
+# Sensor Fusion 1
+- Generalized Laplace Particle Filter on Lie Groups Applied to Ambiguous Doppler Navigation
+- Towards Autonomous Control of Surgical Instruments Using Adaptive-Fusion Tracking and Robot Self-Calibration
+- AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation
+- A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes
+- HD-CCSOM: Hierarchical and Dense Collaborative Continuous Semantic Occupancy Mapping through Label Diffusion
+- Scalable and Modular Ultra-Wideband Aided Inertial Navigation
+- Optimal Multi-Robot Formations for Relative Pose Estimation Using Range Measurements
+- Monocular Event Visual Inertial Odometry Based on Event-Corner Using Sliding Windows Graph-Based Optimization
+- Multical: Spatiotemporal Calibration for Multiple IMUs, Cameras and LiDARs
+# Reinforcement Learning 1
+- Safe Reinforcement Learning for Legged Locomotion
+- Safety Guided Policy Optimization
+- How to Spend Your Robot Time: Bridging Kickstarting and Offline Reinforcement Learning for Vision-Based Robotic Manipulation
+- A Contact-Safe Reinforcement Learning Framework for Contact-Rich Robot Manipulation
+- Learning Skills to Navigate without a Master: A Sequential Multi-Policy Reinforcement Learning Algorithm
+- Ordinal Inverse Reinforcement Learning Applied to Robot Learning with Small Data
+- Advanced Skills by Learning Locomotion and Local Navigation End-To-End
+- NavDreams: Towards Camera-Only RL Navigation among Humans
+- Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations
+# Micro/Nano Robots
+- Origami Robot Self-Folding by Magnetic Induction
+- A Passive, Asymmetrically-Compliant Knee Joint Improves Obstacle Traversal in an Insect-Scale Legged Robot
+- Passive Compliant Foot Design for Improved Micororobotic Mobility on Rough Terrains
+- Torque-Actuated Multimodal Locomotion of Ferrofluid Robot with Environment and Task Adaptability
+- Versatile Motion Generation of Magnetic Origami Spring Robots in the Uniform Magnetic Field
+- OCTOANTS: A Heterogeneous Lightweight Intelligent Multi-Robot Collaboration System with Resource-Constrained IoT Devices
+- Insect-Scale SMAW-Based Soft Robot with Crawling, Jumping, and Loading Locomotion
+- Characterization of the Variable Stiffness Actuator Fabricated of SMA/SMP and MWCNT/IL: PDMS Strain-Sensitive Heater Electrode
+- Adaptive Autonomous Navigation of Multiple Optoelectronic Microrobots in Dynamic Environments
+# Motion Control
+- Beyond the Limit Automated Driving with Performance Constrained Reachability Analysis
+- Simultaneous Motion Tracking and Joint Stiffness Control of Bidirectional Antagonistic Variable-Stiffness Actuators
+- Planar Magnetic Actuation for Soft and Rigid Robots Using a Scalable Electromagnet Array
+- Kinematic Control of Redundant Robots with Online Handling of Variable Generalized Hard Constraints
+- Set-Point Control for a Ground-Based Reconfigurable Robot
+- Enhanced Quadruped Locomotion of a Rat Robot Based on the Lateral Flexion of a Soft Actuated Spine
+- Shape and Motion Optimization of Rigid Planar Effectors for Contact Trajectory Satisfaction
+- Co-Optimization of Acrobot Design and Controller for Increased Certifiable Stability
+- RoSA: A Mechatronically Synthesized Dataset for Rotodynamic System Anomaly Detection
+# Biologically-Inspired Robots 2
+- Toward Dexterous Flapping Flight: Effective Large Yaw Torque Generation by 2 × 2-Degrees-Of-Freedom Flapping Wings
+- End-To-End Design of Bespoke, Dexterous Snake-Like Surgical Robots: A Case Study with the RAVEN II (I)
+- Comparative Model Evaluation with a Symmetric Three-Link Swimming Robot
+- Development of a Stingray-Inspired High-Frequency Propulsion Platform with Variable Wavelength
+- Amoeba-Inspired Swimming through Isoperimetric Modulation of Body Shape
+- Compliant Thorax Design for Robustness and Elastic Energy Exchange in Flapping-Wing Robots
+- Event-Triggered Control of Robotic Fish with Reduced Communication Rate
+- Design and Testing of a Bioinspired Lightweight Perching Mechanism for Flapping-Wing MAVs Using Soft Grippers
+# Factory Automation and Logistics
+- Image Translation Based Synthetic Data Generation for Industrial Object Detection and Pose Estimation
+- Reconstructed Student-Teacher and Discriminative Networks for Anomaly Detection
+- Systematic Evaluation and Analysis on Hybrid Strategies of Automatic Agent Last Mile Delivery
+- Multi-Object Grasping -# Efficient Robotic Picking and Transferring Policy for Batch Picking
+- AssembleRL: Learning to Assemble Furniture from Their Point Clouds
+- FASTDLO: Fast Deformable Linear Objects Instance Segmentation
+- MS-Cubic: A Modularized Manufacturing System with Scalability, Portability and Parallelism
+- Optimal Partitioning of Non-Convex Environments for Minimum Turn Coverage Planning
+# SLAM 2
+- DH-LC: Hierarchical Matching and Hybrid Bundle Adjustment towards Accurate and Robust Loop Closure
+- One RING to Rule Them All: Radon Sinogram for Place Recognition, Orientation and Translation Estimation
+- Keyframe Selection with Information Occupancy Grid Model for Long-Term Data Association
+- PLC-LiSLAM: LiDAR SLAM with Planes, Lines and Cylinders
+- Thermal Inertial SLAM for the Environments with Challenging Illumination
+- Are We Ready for Robust and Resilient SLAM? a Framework for Quantitative Characterization of SLAM Datasets
+- Robust Change Detection Based on Neural Descriptor Fields
+- LayoutSLAM: Object Layout Based Simultaneous Localization and Mapping for Reducing Object Map Distortion
+- SLAM-Supported Self-Training for 6D Object Pose Estimation
+# Localization 2
+- ROLL: Long-Term Robust LiDAR-Based Localization with Temporary Mapping in Changing Environments
+- Indirect Point Cloud Registration: Aligning Distance Fields Using a Pseudo Third Point Set
+- Semantic Topological Descriptor for Loop Closure Detection within 3D Point Clouds in Outdoor Environment
+- P3-VINS: Tightly Coupled PPP/INS/Visual SLAM Based on Optimization Approach
+- Gaussian Variational Inference with Covariance Constraints Applied to Range-Only Localization
+- Point Cloud Registration Leveraging Structural Regularity in Manhattan World
+- Pose Refinement with Joint Optimization of Visual Points and Lines
+- Closed-Form Error Propagation on SEn(3) Group for Invariant EKF with Applications to VINS
+# Motion and Path Planning 2
+- Comprehensive Reactive Safety: No Need for a Trajectory If You Have a Strategy
+- Modeling and Control of Morphing Covers for the Adaptive Morphology of Humanoid Robots (I)
+- Terrain-Aware Learned Controllers for Sampling-Based Kinodynamic Planning Over Physically Simulated Terrains
+- Risk-Aware Off-Road Navigation Via a Learned Speed Distribution Map
+- Dynamic Replanning with Posterior Sampling
+- Energy-Aware Planning-Scheduling for Autonomous Aerial Robots
+- Learning to Herd Amongst Obstacles from an Optimized Surrogate
+- Geometric Savitzky-Golay Filtering of Noisy Rotations on SO(3) with Simultaneous Angular Velocity and Acceleration Estimation
+- 
+# Award Session III
+- 1-Degree-Of-Freedom Robotic Gripper with Infinite Self-Twist Function
+- Aerial Grasping and the Velocity Sufficiency Region
+- Automated Design of Task Specific Additively Manufacturable Coupled Serial Chain Mechanisms for Tracing Predefined Planar Trajectories
+- Robot Learning to Paint from Demonstrations
+- The Wheelbot: A Jumping Reaction Wheel Unicycle
+- Robot Dance Generation with Music Based Trajectory Optimization
+- Award Session IV
+- Learning on the Job: Long-Term Behavioural Adaptation in Human-Robot Interactions
+- Robotic Detection of a Human-Comprehensible Gestural Language for Underwater Multi-Human-Robot Collaboration
+- Intuitive & Efficient Human-Robot Collaboration Via Real-Time Approximate Bayesian Inference
+- Gesture2Vec: Clustering Gestures Using Representation Learning Methods for Co-Speech Gesture Generation
+- Robowflex: Robot Motion Planning with MoveIt Made Easy
+- Absolute Position Detection in 7-Phase Sensorless Electric Stepper Motor
+# Grasping 3
+- A Novel Simulation-Based Quality Metric for Evaluating Grasps on 3D Deformable Objects
+- Optimal Nonprehensile Interception Strategy for Objects in Flight
+- MasKGrasp: Mask-Based Grasping for Scenes with Multiple General Real-World Objects
+- Development of Pneumatically Driven Tensegrity Manipulator without Mechanical Springs
+- Fixture-Aware DDQN for Generalized Environment-Enabled Grasping
+- Learning Push-Grasping in Dense Clutter
+- Grasping Strategy for Unknown Objects Based on Real-Time Grasp-Stability Evaluation Using Proximity Sensing
+- Resonant Pneumatic Tactile Sensing for Soft Grippers
+- A Mechanical Screwing Tool for 2-Finger Parallel Grippers -# Design, Optimization, and Manipulation Policies (I)
+# Manipulation Systems 3
+- Tactile-Guided Dynamic Object Planar Manipulation
+- 3D Visual-Based Tension Control in Strip-Like Deformable Objects Using a Catenary Model
+- DGBench: An Open-Source, Reproducible Benchmark for Dynamic Grasping
+- Sim2Real Instance-Level Style Transfer for 6D Pose Estimation
+- Simultaneous Contact Location and Object Pose Estimation Using Proprioception and Tactile Feedback
+- All You Need Is LUV: Unsupervised Collection of Labeled Images Using UV-Fluorescent Markings
+- Voting and Attention-Based Pose Relation Learning for Object Pose Estimation from 3D Point Clouds
+- Acoustic Balance: Weighing in Ultrasonic Non-Contact Manipulators
+- The Probabilistic Robot Kinematics Model and Its Application to Sensor Fusion
+# Navigation Systems 2
+- On the Coupling of Depth and Egomotion Networks for Self-Supervised Structure from Motion
+- Spatio-Temporal Graph Localization Networks for Image-Based Navigation
+- Stubborn: A Strong Baseline for Indoor Object Navigation
+- VI-IKD: High-Speed Accurate Off-Road Navigation Using Learned Visual-Inertial Inverse Kinodynamics
+- H-VLO: Hybrid LiDAR-Camera Fusion for Self-Supervised Odometry
+- B-GAP: Behavior-Rich Simulation and Navigation for Autonomous Driving
+- Memory-Augmented Reinforcement Learning for Image-Goal Navigation
+- Exploring Event Camera-Based Odometry for Planetary Robots
+- GA-Nav: Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments
+# Aerial Systems 3
+- Automated Aerial Screwing with a Fully Actuated Aerial Manipulator
+- Automatic Parameter Adaptation for Quadrotor Trajectory Planning
+- Efficient Sampling-Based Multirotors Kinodynamic Planning with Fast Regional Optimization and Post Refining
+- DIDO: Deep Inertial Quadrotor Dynamical Odometry
+- Folding Knots Using a Team of Aerial Robots
+- Hand-Crafted Features for Floating Plastic Detection
+- Reactive Motion Planning for Rope Manipulation and Collision Avoidance Using Aerial Robots
+- Autonomous Emergency Landing for Multicopters Using Deep Reinforcement Learning
+- GNGraph: Self-Organizing Maps for Autonomous Aerial Vehicle Planning
+# Medical Robots and Systems 3
+- Biocompatible Ferrofluid Robot with Photothermal Property for Targeted Tumor Therapy
+- Lumen Shape Reconstruction Using a Soft Robotic Balloon Catheter and Electrical Impedance Tomography
+- Ultrasound Tracking and Closed-Loop Control of a Magnetically-Actuated Biomimetic Soft Robot
+- Robust Sim2Real Transfer with the Da Vinci Research Kit: A Study on Camera, Lighting, and Physics Domain Randomization
+- Simulation-Based Reinforcement Learning for Real-World Autonomous US Probe Navigation
+- PH Sensor-Embedded Magnetically Driven Capsule for H. Pylori Infection Diagnosis
+- Development of a Robotic Capsule for in Vivo Sampling of Gut Microbiota
+- Local One-Dimensional Motion Estimation Using FBG-Based Shape Sensing for Cardiac Applications
+- Sim-To-Real Transfer of Image-Based Autonomous Guidewire Navigation Trained by Deep Deterministic Policy Gradient with Behavior Cloning for Fast Learning
+# Mechanism Design 3
+- Modular and Hybrid Numerical-Analytical Approach # a Case Study on Improving Computational Efficiency for Series-Parallel Hybrid Robots
+- Multi-Axis Reorientation of a Free-Falling Omnidirectional Wheeled Robot
+- Steady-State Manifold of Riderless Motorcycles
+- Foot-Operated Tele-Impedance Interface for Robot Manipulation Tasks in Interaction with Unpredictable Environments
+- Toward FBG-Sensorized Needle Shape Prediction in Tissue Insertions
+- Robust Cartesian Kinematics Estimation for Task-Space Control Systems
+- Unsupervised 3D Link Segmentation of Articulated Objects with a Mixture of Coherent Point Drift
+- A Robot Factors Approach to Designing Modular Hardware
+- BSA # Bi-Stiffness Actuation for Optimally Exploiting Intrinsic Compliance and Inertial Coupling Effects in Elastic Joint Robots
+# Object Detection, Segmentation and Categorization 3
+- Time-To-Label: Temporal Consistency for Self-Supervised Monocular 3D Object Detection
+- 3D Multi-Object Tracking Using Graph Neural Networks with Cross-Edge Modality Attention
+- See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation
+- MV6D: Multi-View 6D Pose Estimation on RGB-D Frames Using a Deep Point-Wise Voting Network
+- Deep Tri-Training for Semi-Supervised Image Segmentation
+- Child Engagement Estimation in Heterogeneous Child-Robot Interactions Using Spatiotemporal Visual Cues
+- TRAVEL: Traversable Ground and Above-Ground Object Segmentation Using Graph Representation of 3D LiDAR Scans
+- One Object at a Time: Accurate and Robust Structure from Motion for Robots
+- 2D vs. 3D LiDAR-Based Person Detection on Mobile Robots
+# Contact Modeling and Force/Tactile Sensing
+- Validating Robotics Simulators on Real-World Impacts
+- Velocity Level Approximation of Pressure Field Contact Patches
+- Visual Pressure Estimation and Control for Soft Robotic Grippers
+- Environmental Interaction with Continuum Robots Exploiting Impact
+- Tactile Pattern Super Resolution with Taxel-Based Sensors
+- Learning-Based Six-Axis Force/Torque Estimation Using GelStereo Fingertip Visuotactile Sensing
+- Deep Learning Classification of Touch Gestures Using Distributed Normal and Shear Force
+- Modulo Cellulo: Modular Versatile Tangible Educational Robots
+- Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering
+# Physical Human-Robot Interaction
+- A Framework of Rehabilitation-Assisted Robot Skill Representation, Learning, and Modulation Via Manifold-Mappings and Gaussian Processes
+- Position-Based Treadmill Drive with Wire Traction for Experience of Level Ground Walking from Gait Acceleration State to Steady State
+- A Null-Space Based Approach for a Safe and Effective Human-Robot Collaboration
+- Fast and Comfortable Interactive Robot-To-Human Object Handover
+- MOCA-S: A Sensitive Mobile Collaborative Robotic Assistant Exploiting Low-Cost Capacitive Tactile Cover and Whole-Body Control
+- In-Hand Admittance Controller for a Robotic Assistive Walker Based on Tactile Grasping Feedback
+- Robot-Assisted Drilling on Curved Surfaces with Haptic Guidance under Adaptive Admittance Control
+- Towards Safe Physical Human-Robot Interaction by Exploring the Rapid Stiffness Switching Feature of Discrete Variable Stiffness Actuation
+- Robustness of Interaction Parameters Identification Technique for Collaborative Robots
+# Visual Tracking
+- Learning Moving-Object Tracking with FMCW LiDAR
+- Self-Supervised Learning for Multiple Object Tracking in 3D Point Clouds
+- An Efficient and Accurate Solution to Camera Pose Estimation Problem from Point and Line Correspondences Based on Null Space Analysis
+- Improving 3D Markerless Pose Estimation of Animals in the Wild Using Low-Cost Cameras
+- DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment
+- Scene-Level Tracking and Reconstruction without Object Priors
+- Smart Visual Beacons with Asynchronous Optical Communications Using Event Cameras
+- Category-Independent Articulated Object Tracking with Factor Graphs
+- ECDT: Event Clustering for Simultaneous Feature Detection and Tracking
+# Mapping 3
+- Hierarchical Road Topology Learning for Urban Mapless Driving
+- S-MKI: Incremental Dense Semantic Occupancy Reconstruction through Multi-Entropy Kernel Inference
+- BEV-SLAM: Building a Globally-Consistent World Map Using Monocular Vision
+- Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms
+- OdomBeyondVision: An Indoor Multi-Modal Multi-Platform Odometry Dataset Beyond the Visible Spectrum
+- FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms
+- STheReO: Stereo Thermal Dataset for Research in Odometry and Mapping
+- VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM
+- Challenges of SLAM in Extremely Unstructured Environments: The DLR Planetary Stereo, Solid-State LiDAR, Inertial Dataset
+# Human-Centered Robotics 3
+- Affective Behavior Learning for Social Robot Haru with Implicit Evaluative Feedback
+- Efficient Hand Gesture Recognition for Human-Robot Interaction
+- Augmented Reality-Assisted Reconfiguration and Workspace Visualisation of Malleable Robots (I)
+- A Tool for Organizing Key Characteristics of Virtual, Augmented, and Mixed Reality for Human-Robot Interaction Systems: Synthesizing VAM-HRI Trends and Takeaways (I)
+- Feasibility Study on Disentangling Muscle Movements in TMR Patients through a Myokinetic Control Interface for the Control of Artificial Hands
+- A-RIFT: Visual Substitution of Force Feedback for a Zero-Cost Interface in Telemanipulation
+- Metabolic Efficiency Improvement of Human Walking by Shoulder Stress Reduction through Load Transfer Backpack
+- Learning an Interpretable Model for Driver Behavior Prediction with Inductive Biases
+# Sensor Fusion 2
+- Robust Real-Time LiDAR-Inertial Initialization
+- VAST: Visual and Spectral Terrain Classification in Unstructured Multi-Class Environments
+- EFGHNet: A Versatile Image-To-Point Cloud Registration Network for Extreme Outdoor Environment
+- Shape Estimation of Concentric Tube Robots Using Single Point Position Measurement
+- Estimating Odometry Scale and UWB Anchor Location Based on Semidefinite Programming Optimization
+- Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning
+- Exploring mmWave Radar and Camera Fusion for High-Resolution and Long-Range Depth Imaging
+- FAST-LIVO: Fast and Tightly-Coupled Sparse-Direct LiDAR-Inertial-Visual Odometry
+- Adaptive Gradient-Descent Extended Kalman Filter for Pose Estimation of Mobile Robots with Sparse Reference Signals
+# Reinforcement Learning 2
+- Automated Flexible Needle Trajectory Planning for Keyhole Neurosurgery Using Reinforcement Learning
+- Learning Time-Optimized Path Tracking in Joint Space with or without Sensory Feedback
+- L2C2: Locally Lipschitz Continuous Constraint towards Stable and Smooth Reinforcement Learning
+- Learning Visual Robotic Control Efficiently with Contrastive Pre-Training and Data Augmentation
+- Analyzing and Overcoming Degradation in Warm-Start Reinforcement Learning
+- Online Model Learning for Shape Control of Deformable Linear Objects
+- PM-FSM: Policies Modulating Finite State Machine for Robust Quadrupedal Locomotion
+- SafeTAC: Safe Tsallis Actor-Critic Reinforcement Learning for Safer Exploration
+- Planning to Practice: Efficient Online Fine-Tuning by Composing Goals in Latent Space
+# Space Robotics and Automation
+- Trajectory Optimization and Following for a Three Degrees of Freedom Overactuated Floating Platform
+- Optimal and Risk-Aware Path Planning Considering Localization Uncertainty for Space Exploration Rovers
+- 3D Human Pose Estimation in Weightless Environments Using a Fisheye Camera
+- A Sampling Based Approach to Robust Planning for a Planetary Lander
+- Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning
+- Adaptive Sampling Site Selection for Robotic Exploration in Unknown Environments
+- An Approach to Science and Risk-Aware Planetary Rover Exploration
+- Attracting Conductive Nonmagnetic Objects with Rotating Magnetic Dipole Fields
+- Active Traversability Learning Via Risk-Aware Information Gathering for Planetary Exploration Rovers
+# Model Learning for Control
+- Randomized-To-Canonical Model Predictive Control for Real-World Visual Robotic Manipulation
+- Nonlinear Model Learning for Compensation and Feed-Forward Control of Real-World Hydraulic Actuators Using Gaussian Processes
+- Learning Neuro-Symbolic Relational Transition Models for Bilevel Planning
+- T3VIP: Transformation-Based 3D Video Prediction
+- Physics Embedded Neural Network Vehicle Model and Applications in Risk-Aware Autonomous Driving Using Latent Features
+- TOAST: Trajectory Optimization and Simultaneous Tracking Using Shared Neural Network Dynamics
+- Augmented Neural Network for Full Robot Kinematic Modelling in SE(3)
+- Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model Predictive Trajectory Tracking
+- Learning Non-Parametric Models in Real Time Via Online Generalized Product of Experts
+# Biologically-Inspired Robots 3
+- A Flexible Calibration Algorithm for High-Speed Bionic Vision System Based on Galvanometer
+- Design and Control of a Multi-Modal Soft Gripper Inspired by Elephant Fingers
+- Design Optimization of an Ultrafast-Striking Mantis Shrimp Microrobot
+- Imitation Behavior of the Outer Edge of the Foot by Humanoids Using a Simplified Contact State Representation
+- Visual Confined-Space Navigation Using an Efficient Learned Bilinear Optic Flow Approximation for Insect-Scale Robots
+- Tactile Perception for Growing Robots Via Discrete Curvature Measurements
+- Bioinspired Antagonist–agonist Artificial Muscles for Humanoid Eyeball Motions
+- The Relationship between Incremental Changes in Orientation and Slip Speed Estimation Using the Fingerprint Effect
+- Diaphragm Ankle Actuation for Efficient Series Elastic Legged Robot Hopping
+# Failure Detection and Recovery
+- Model-Free Unsupervised Anomaly Detection of a General Robotic System Using a Stacked LSTM and Its Application to a Fixed-Wing Unmanned Aerial Vehicle
+- Meta-Active Learning in Probabilistically Safe Optimization
+- Learning Symbolic Failure Detection for Grasping and Mobile Manipulation Tasks
+- Design, Modeling and Control for a Tilt-Rotor VTOL UAV in the Presence of Actuator Failure
+- Transmissibility-Based DAgger for Fault Classification in Connected Autonomous Vehicles
+- Robot Vitals and Robot Health: Towards Systematically Quantifying Runtime Performance Degradation in Robots under Adverse Conditions
+- RoBiGAN: A Bidirectional Wasserstein GAN Approach for Online Robot Fault Diagnosis Via Internal Anomaly Detection
+- PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains
+- Why Did I Fail? a Causal-Based Method to Find Explanations for Robot Failures
+# SLAM 3
+- Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-Object Scenes
+- Probabilistic Data Association for Semantic SLAM at Scale
+- Observability Analysis and Keyframe-Based Filtering for Visual Inertial Odometry with Full Self-Calibration (I)
+- OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition
+- Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation
+- CFP-SLAM: A Real-Time Visual SLAM Based on Coarse-To-Fine Probability in Dynamic Environments
+- Object-Plane Co-Represented and Graph Propagation-Based Semantic Descriptor for Relocalization
+- Certifiably Optimal Mutual Localization with Anonymous Bearing Measurements
+- LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-Of-View Cameras with Negative Plane
+# Localization 3
+- SO-PFH: Semantic Object-Based Point Feature Histogram for Global Localization in Parking Lot
+- Tether-Based Localization for Cooperative Ground and Aerial Vehicles
+- Tightly-Coupled Visual-Inertial-Pressure Fusion Using Forward and Backward IMU Preintegration
+- A 2D Georeferenced Map Aided Visual-Inertial System for Precise UAV Localization
+- Global Data Association for SLAM with 3D Grassmannian Manifold Objects
+- Confidence-Rich Localization and Mapping Based on Particle Filter for Robotic Exploration
+# Motion and Path Planning 3
+- Homology-Class Guided Rapidly-Exploring Random Tree for Belief Space Planning
+- Improving the Efficiency of Sampling-Based Motion Planners Via Runtime Predictions for Motion-Planning Problems with Dynamics
+- BITKOMO: Combining Sampling and Optimization for Fast Convergence in Optimal Motion Planning
+- Making Robotics Swarm Flow More Smoothly: A Regular Virtual Tube Model
+- Image-Goal Navigation in Complex Environments Via Modular Learning
+- Reachability Based Trajectory Generation Combining Global Graph Search in Task Space and Local Optimization in Configuration Space
+- Multi-Objective Safe-Interval Path Planning with Dynamic Obstacles
+- Optimal Partitioning of Non-Convex Environments for Minimum Turn Coverage Planning
+- Optimal Time Trajectory Generation and Tracking Control for Over-Actuated Multirotors with Large-Angle Maneuvering Capability
+# Award Session V
+- Robot-Assisted Nuclear Disaster Response: Report and Insights from a Field Exercise
+- Power-Based Safety Layer for Aerial Vehicles in Physical Interaction Using Lyapunov Exponents
+- Risk-Aware Motion Planning for Collision-Tolerant Aerial Robots Subject to Localization Uncertainty
+- A Planning-And-Control Framework for Aerial Manipulation of Articulated Objects
+- Safe Drone Flight with Time-Varying Backup Controllers
+- Mobile Manipulation Leveraging Multiple Views
+# Award Session VI
+- Safety-Critical Manipulation for Collision-Free Food Preparation
+- Impedance Control on Arbitrary Surfaces for Ultrasound Scanning Using Discrete Differential Geometry
+- Soft Tissue Characterisation Using a Novel Robotic Medical Percussion Device with Acoustic Analysis and Neural Networks
+- Multi-Directional Bicycle Robot for Bridge Inspection with Steel Defect Detection System
+- Tactile-Sensitive NewtonianVAE for High-Accuracy Industrial Connector Insertion
+# Grasping 4
+- Enabling Massage Actions: An Interactive Parallel Robot with Compliant Joints
+- Designing Underactuated Graspers with Dynamically Variable Geometry Using Potential Energy Map Based Analysis
+- A Novel Human-Safe Robotic Gripper: An Application of a Programmable Permanent Magnet Actuator
+- The Good Grasp, the Bad Grasp, and the Plateau in Tactile Based Grasp Stability Prediction
+- Extrinsic Dexterous Manipulation with a Direct-Drive Hand: A Case Study
+- GTac-Gripper: A Reconfigurable Under-Actuated Four-Fingered Robotic Gripper with Tactile Sensing
+- Single-Fingered Reconfigurable Robotic Gripper with a Folding Mechanism for Narrow Working Spaces
+- SEED: Series Elastic End Effectors in 6D for Visuotactile Tool Use
+- Elongatable Gripper Fingers with Integrated Stretchable Tactile Sensors for Underactuated Grasping and Dexterous Manipulation (I)
+# Manipulation Systems 4
+- Challenges and Outlook in Robotic Manipulation of Deformable Objects (I)
+- Robust Robotic 3-D Drawing Using Closed-Loop Planning and Online Picked Pens (I)
+- 6D Robotic Assembly Based on RGB-Only Object Pose Estimation
+- Context and Intention Aware 3D Human Body Motion Prediction Using an Attention Deep Learning Model in Handover Tasks
+- Learning a State Estimator for Tactile In-Hand Manipulation
+- A Two-Stage Learning Architecture That Generates High-Quality Grasps for a Multi-Fingered Hand
+- Graph-Structured Policy Learning for Multi-Goal Manipulation Tasks
+- Scene Editing As Teleoperation: A Case Study in 6DoF Kit Assembly
+- On the Importance of Label Encoding and Uncertainty Estimation for Robotic Grasp Detection
+# Navigation Systems 3
+- A Unified MPC Design Approach for AGV Path Following
+- GPU-Parallelized Iterative LQR with Input Constraints for Fast Collision Avoidance of Autonomous Vehicles
+- RIANet: Road Graph and Image Attention Network for Urban Autonomous Driving
+- Sem-Aug: Improving Camera-LiDAR Feature Fusion with Semantic Augmentation for 3D Vehicle Detection
+- P2EG: Prediction and Planning Integrated Robust Decision-Making for Automated Vehicle Negotiating in Narrow Lane with Explorative Game
+- Visual Mapping and Localization System Based on Compact Instance-Level Road Markings with Spatial Uncertainty
+- Motion Planning for HyTAQs: A Topology-Guided Unified NMPC Approach
+- SEAN 2.0: Formalizing and Generating Social Situations for Robot Navigation
+# SLAM 4
+- Group-K Consistent Measurement Set Maximization for Robust Outlier Detection
+- Floorplan-Aware Camera Poses Refinement
+- MOTSLAM: MOT-Assisted Monocular Dynamic SLAM Using Single-View Depth Estimation
+- Gravity-Constrained Point Cloud Registration
+- When Geometry Is Not Enough: Using Reflector Markers in Lidar SLAM
+- LOCUS 2.0: Robust and Computationally Efficient LiDAR Odometry for Real-Time 3D Mapping
+- The Hilti SLAM Challenge Dataset
+- Photometric Single-View Dense 3D Reconstruction in Endoscopy
+- Continuous-Time Stereo-Inertial Odometry
+# Virtual Reality and Interfaces
+- Immersive View and Interface Design for Teleoperated Aerial Manipulation
+- WFH-VR: Teleoperating a Robot Arm to Set a Dining Table across the Globe Via Virtual Reality
+- A Deep Learning Technique As a Sensor Fusion for Enhancing the Position in a Virtual Reality Micro-Environment
+- A Wearable Multi-Joint Wrist Contour Measuring Device for Hand Shape Recognition
+- A Torque Controlled Approach for Virtual Remote Centre of Motion Implementation
+- Semi-Automatic Infrared Calibration for Augmented Reality Systems in Surgery
+- Detecting Touch and Grasp Gestures Using a Wrist-Worn Optical and Inertial Sensing Network
+- Towards Reproducible Evaluations for Flying Drone Controllers in Virtual Environments
+- Learning with Yourself: A Tangible Twin Robot System to Promote STEM Education
+# Tendon Driven Mechanisms
+- Kinematics-Inertial Fusion for Localization of a 4-Cable Underactuated Suspended Robot Considering Cable Sag
+- End-Point Stiffness and Joint Viscosity Control of Musculoskeletal Robotic Arm Using Muscle Redundancy
+- Data-Driven Kinematic Control Scheme for Cable-Driven Parallel Robots Allowing Collisions
+- Miniature, Lightweight, High-Force, Capstan Winch for Mobile Robots
+- RAMIEL: A Parallel-Wire Driven Monopedal Robot for High and Continuous Jumping
+- Workspace-Based Model Predictive Control for Cable-Driven Robots (I)
+- Dexterity Analysis and Motion Optimization of In-Situ Torsionally-Steerable Flexible Surgical Robots
+# Planning under Uncertainty
+- Meta-Learning-Based Proactive Online Planning for UAVs under Degraded Conditions
+- Path-Tree Optimization in Discrete Partially Observable Environments Using Rapidly-Exploring Belief-Space Graphs
+- Object-Aware SLAM Based on Efficient Quadric Initialization and Joint Data Association
+- Accelerated Reinforcement Learning for Temporal Logic Control Objectives
+- Smooth Model Predictive Path Integral Control without Smoothing
+- Monte-Carlo Robot Path Planning
+- Qualitative Belief Space Planning Via Compositions
+- Task and Motion Informed Trees (TMIT*): Almost-Surely Asymptotically Optimal Integrated Task and Motion Planning
+- Generalizable Task Planning through Representation Pretraining
+# Robot Safety
+- An Analytical Study of Motion of Autonomous Vehicles under Imperfect Sensing
+- Adhesion Risk Assessment of an Aircraft Inspection Robot for Improving Operator Awareness
+- How Do We Fail? Stress Testing Perception in Autonomous Vehicles
+- HiddenGems: Efficient Safety Boundary Detection with Active Learning
+- Enpheeph: A Fault Injection Framework for Spiking and Compressed Deep Neural Networks
+- Continuous Safety Control of a Mobile Robot in Cluttered Environments
+- Dependability Analysis of Deep Reinforcement Learning Based Robotics and Autonomous Systems through Probabilistic Model Checking
+- On Safety Testing, Validation, and Characterization with Scenario-Sampling: A Case Study of Legged Robots
+- Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation from Depth Maps
+- Human and Humanoid Motion Analysis and Synthesis
+- Understanding Spatio-Temporal Relations in Human-Object Interaction Using Pyramid Graph Convolutional Network
+- Gastrocnemius and Power Amplifier Soleus Spring-Tendons Achieve Fast Human-Like Walking in a Bipedal Robot
+- A Riemannian Take on Human Motion Analysis and Retargeting
+- Human-To-Robot Manipulability Domain Adaptation with Parallel Transport and Manifold-Aware ICP
+- From Human Walking to Bipedal Robot Locomotion: Reflex Inspired Compensation on Planned and Unplanned Downsteps
+- End-To-End from Human Hand Synergies to Robot Hand Tendon Routing
+- A Centaur System for Assisting Human Walking with Load Carriage
+- Construction of a Simulator to Reproduce the Changes of Running by Motion Strategy with Spring-Loaded Inverted Pendulum Model
+- Koopman Pose Predictions for Temporally Consistent Human Walking Estimations
+# Vision
+- LapSeg3D: Weakly Supervised Semantic Segmentation of Point Clouds Representing Laparoscopic Scenes
+- Ego+X: An Egocentric Vision System for Global 3D Human Pose Estimation and Social Interaction Characterization
+- Tracking Monocular Camera Pose and Deformation for SLAM Inside the Human Body
+- Markerless Suture Needle 6D Pose Tracking with Robust Uncertainty Estimation for Autonomous Minimally Invasive Robotic Surgery
+- Monocular Depth Estimation for Equirectangular Videos
+- Visual Servoing with Geometrically Interpretable Neural Perception
+- Online Adaptation for Implicit Object Tracking and Shape Reconstruction in the Wild
+- DeepFusionMOT: A 3D Multi-Object Tracking Framework Based on Camera-LiDAR Fusion with Deep Association
+- EV-Catcher: High Speed Object Catching Using Low-Latency Event-Based Neural Networks
+# Mapping 4
+- Voxfield: Non-Projective Signed Distance Fields for Online Planning and 3D Reconstruction
+- 3D Lidar Reconstruction with Probabilistic Depth Completion for Robotic Navigation
+- Scalable Fiducial Tag Localization on a 3D Prior Map Via Graph-Theoretic Global Tag-Map Registration
+- These Maps Are Made for Walking: Real-Time Terrain Property Estimation for Mobile Robots
+- MapLite 2.0: Online HD Map Inference Using a Prior SD Map
+- Towards High-Definition Maps: A Framework Leveraging Semantic Segmentation to Improve NDT Map Compression and Descriptivity
+- Robust Structure Identification and Room Segmentation of Cluttered Indoor Environments from Occupancy Grid Maps
+- Struct-MDC: Mesh-Refined Unsupervised Depth Completion Leveraging Structural Regularities from Visual SLAM
+- MotionSC: Data Set and Network for Real-Time Semantic Mapping in Dynamic Environments
+# Soft Robot Materials and Design 1
+- Rigid Skeleton Enhanced Dexterous Soft Finger Possessing Proprioception
+- Self-Propelled Soft Everting Toroidal Robot for Navigation and Climbing in Confined Spaces
+- A Geometric Design Approach for Continuum Robots by Piecewise Approximation of Free-Form Shapes
+- A Multi-Segmented Soft Finger Using Snap-Through Instability of a Soft Valve with a Slit
+- Deformation-Driven Closed-Chain Soft Mobile Robot Aimed for Rolling and Climbing Locomotion
+- Soft, Multi-Layer, Disposable, Kirigami Based Robotic Grippers: On Handling of Delicate, Contaminated, and Everyday Objects
+- Topology Optimized Multi-Material Self-Healing Actuator with Reduced Out of Plane Deformation
+- Performance Evaluation for Braided McKibben Pneumatic Actuators in Telescopic Nested Structure
+- Energy-Efficient Tunable-Stiffness Soft Robots Using Second Moment of Area Actuation
+# Localization 4
+- Acoustic Localization and Communication Using a MEMS Microphone for Low-Cost and Low-Power Bio-Inspired Underwater Robots
+- Using Magnetic Fields to Navigate and Simultaneously Localize Catheters in Endoluminal Environments
+- Robust Slip-Aware Fusion for Mobile Robots State Estimation
+- Highly-Efficient Binary Neural Networks for Visual Place Recognition
+- GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation
+- Square-Root Robocentric Visual-Inertial Odometry with Online Spatiotemporal Calibration
+- Are We Ready for Radar to Replace Lidar in All-Weather Mapping and Localization?
+- Continuous-Time Factor Graph Optimization for Trajectory Smoothness of GNSS/INS Navigation in Temporarily GNSS-Denied Environments
+- Maintaining Robot Localizability with Bayesian Cramer-Rao Lower Bounds
+# Reinforcement Learning 3
+- Safe Reinforcement Learning Using Black-Box Reachability Analysis
+- Hierarchical Primitive Composition: Simultaneous Activation of Skills with Inconsistent Action Dimensions in Multiple Hierarchies
+- Vision-Guided Quadrupedal Locomotion in the Wild with Multi-Modal Delay Randomization
+- Temporal Logic Guided Meta Q-Learning of Multiple Tasks
+- Model-Free Neural Lyapunov Control for Safe Robot Navigation
+- Efficient Off-Policy Safe Reinforcement Learning Using Trust Region Conditional Value at Risk
+- Variable Impedance Skill Learning for Contact-Rich Manipulation
+- Source Term Estimation Using Deep Reinforcement Learning with Gaussian Mixture Model Feature Extraction for Mobile Sensors
+- Autonomous Learning of Page Flipping Movements Via Tactile Feedback (I)
+- Climbing and Wheeled Robots
+- Magnetic Field Modeling of Linear Halbach Array for Wall-Climbing Robot Based on Radial Basis Function Neural Network
+- OmniWheg: An Omnidirectional Wheel-Leg Transformable Robot
+- SCALER: A Tough Versatile Quadruped Free-Climber Robot
+- Microspine Design for Additive Manufacturing
+- Design, Fabrication, and Characterization of a Hybrid Bionic Spherical Robotics with Multilegged Feedback Mechanism
+- The Concept of Rod-Driven Locomotion for Spherical Lunar Exploration Robots
+- Nonlinear Model Predictive Control with Cost Function Scheduling for a Wheeled Mobile Robot
+- Caterpillar-Inspired Insect-Scale Climbing Robot Using Dry Adhesives
+- Electro-Hydraulic Rolling Soft Wheel: Design, Hybrid Dynamic Modeling, and Model Predictive Control (I)
+# Motion and Path Planning 4
+- Linear MPC-Based Motion Planning for Autonomous Surgery
+- Disk-Graph Probabilistic Roadmap: Biased Distance Sampling for Path Planning in a Partially Unknown Environment
+- Elevation State-Space: Surfel-Based Navigation in Uneven Environments for Mobile Robots
+- Locomotion Policy Guided Traversability Learning Using Volumetric Representations of Complex Environments
+- Jerk-Continuous Online Trajectory Generation for Robot Manipulator with Arbitrary Initial State and Kinematic Constraints
+- Imitation Learning and Model Integrated Excavator Trajectory Planning
+- Online Complete Coverage Path Planning of a Reconfigurable Robot Using Glasius Bio-Inspired Neural Network and Genetic Algorithm
+- Quantity Over Quality: Training an AV Motion Planner with Large Scale Commodity Vision Data
+- TIGRIS: An Informed Sampling-Based Algorithm for Informative Path Planning
+# Biologically-Inspired Robots 4
+- Online Learning Feedback Control Method Considering Hysteresis for Musculoskeletal Structures
+- Realization of Seated Walk by a Musculoskeletal Humanoid with Buttock-Contact Sensors from Human Constrained Teaching
+- A Control Architecture of a Distributed Actuator System for a Bio-Inspired Spine
+- Development of a Conveyor-Type Object Release Mechanism for a Parallel Gripper with a Mushroom-Shaped Gecko-Inspired Surface
+- Instantaneous Force Generation Mechanism Based on the Striking Motion of Mantis shrimp—Design and Control Method of Cavitation by Simulation and Experiment
+- Upside-Down Brachiation Robot Using Elastic Energy Stored through Soft Body Deformation
+- Learning of Balance Controller Considering Changes in Body State for Musculoskeletal Humanoids
+- Locomotion Via Active Suction in a Sea Star-Inspired Soft Robot
+- Joint-Space CPG for Safe Foothold Planning and Body Pose Control During Locomotion and Climbing
+- Distributed Robot Systems
+- Real-Time Distributed Multi-Robot Target Tracking Via Virtual Pheromones
+- Conservative Filtering for Heterogeneous Decentralized Data Fusion in Dynamic Robotic Systems
+- Decay-Based Error Correction in Collective Robotic Construction
+- Perceive, Represent, Generate: Translating Multimodal Information to Robotic Motion Trajectories
+- SMA-NBO: A Sequential Multi-Agent Planning with Nominal Belief-State Optimization in Target Tracking
+- Influence of Variable Leg Elasticity on the Stability of Quadrupedal Gaits
+- Learning to Act with Affordance-Aware Multimodal Neural SLAM
+- Learning to Assess Danger from Movies for Cooperative Escape Planning in Hazardous Environments
+- Distributed Deployment with Multiple Moving Robots for Long Distance Complex Pipe Inspection
+# Medical Robots and Systems 4
+- Time-Optimal Synchronous Terminal Trajectory Planning for Coupling Motions of Robotic Flexible Endoscope
+- Robotic Actuation and Control of a Catheter for Structural Intervention Cardiology
+- A Kinematic Modeling and Control Scheme for Different Robotic Endoscopes: A Rudimentary Research Prototype
+- Real-Time Intraoperative Surgical Guidance System in the Da Vinci Surgical Robot Based on Transrectal Ultrasound/photoacoustic Imaging with Photoacoustic Markers: An Ex Vivo Demonstration
+- Model-Free and Uncalibrated Visual-Feedback Control of Magnetically-Actuated Flexible Endoscopes
+- Design, Teleoperation Control and Experimental Validation of a Dexterous Robotic Flexible Endoscope for Laparoscopic Surgery
+- A Miniature Continuum Robot with Integrated Piezoelectric Beacon Transducers and Its Ultrasonic Shape Detection in Robot-Assisted Minimally Invasive Surgeries
+- A Domain-Adapted Machine Learning Approach for Visual Evaluation and Interpretation of Robot-Assisted Surgery Skills
+- Automating Surgical Peg Transfer: Calibration with Deep Learning Can Exceed Speed, Accuracy, and Consistency of Humans (I)
+# Computer Vision for Automation 1
+- RGB-X Classification for Electronics Sorting
+- CPQNet: Contact Points Quality Network for Robotic Grasping
+- SESR: Self-Ensembling Sim-To-Real Instance Segmentation for Auto-Store Bin Picking
+- Visual Odometry in HDR Environments by Using Spatially Varying Exposure Camera
+- Trifocal Tensor and Relative Pose Estimation from 8 Lines and Known Vertical Direction
+- Lidar with Velocity: Motion Distortion Correction of Point Clouds from Oscillating Scanning Lidars
+- A Flexible and Robust Vision Trap for Automated Part Feeder Design
+- Leveraging Local Planar Motion Property for Robust Visual Matching and Localization
+- AFR: An Efficient Buffering Algorithm for Cloud Robotic Systems
+# Award Session VII
+- Robot Learning of Mobile Manipulation with Reachability Behavior Priors
+- A Hybrid Learning and Optimization Framework to Achieve Physically Interactive Tasks with Mobile Manipulators
+- Contrastive 3D Shape Completion and Reconstruction for Agricultural Robots Using RGB-D Frames
+- Instance Segmentation for Autonomous Log Grasping in Forestry Operations
+- Explicitly Incorporating Spatial Information to Recurrent Networks for Agriculture
+- Multimodal Aerial-Tethered Robot for Tree Canopy Exploration
+- Brain-Machine Interfaces and Natural Language Interaction
+- Lightmyography Based Decoding of Human Intention Using Temporal Multi-Channel Transformers
+- Dynamic Network Model for Multi-Domain End-To-End Task-Oriented Dialogue System
+- Hey Haru, Let’s Be Friends! Using the Tiers of Friendship to Build Rapport through Small Talk with the Tabletop Robot Haru
+- Givenness Hierarchy Informed Optimal Document Planning for Situated Human-Robot Interaction
+- DoRO: Disambiguation of Referred Object for Embodied Agents
+- Following Natural Language Instructions for Household Tasks with Landmark Guided Search and Reinforced Pose Adjustment
+- SEMG-Based Minimally Supervised Regression Using Soft-DTW Neural Networks for Robot Hand Grasping Control
+- Hand Gesture Recognition Via Transient sEMG Using Transfer Learning of Dilated Efficient CapsNet: Towards Generalization for Neurorobotics
+- Deep Augmentation for Electrode Shift Compensation in Transient High-Density sEMG: Towards Application in Neurorobotics
+# Telerobotics and Teleoperation 1
+- Adaptive Wave Reconstruction through Regulated-BMFLC for Transparency-Enhanced Telerobotics Over Delayed Networks (I)
+- Analysis of User Behavior and Workload During Simultaneous Tele-Operation of Multiple Mobile Manipulators
+- Variable Impedance Control for Safety and Usability in Telemanipulation
+- Block-Based Novel Haptic Data Reduction for Time-Delayed Teleoperation
+- Skill-CPD: Real-Time Skill Refinement for Shared Autonomy in Manipulator Teleoperation
+- Haptic Teleoperation of High-Dimensional Robotic Systems Using a Feedback MPC Framework
+- Manipulability-Aware Shared Locomanipulation Motion Generation for Teleoperation of Mobile Manipulators
+- Fast Reflexive Grasping with a Proprioceptive Teleoperation Platform
+- Design Interface Mapping for Efficient Free-Form Tele-Manipulation
+- Calibration and Identification
+- Simultaneous Calibration of Multiple Revolute Joints for Articulated Vision Systems Via SE(3) Kinematic Bundle Adjustment
+- DXQ-Net: Differentiable LiDAR-Camera Extrinsic Calibration Using Quality-Aware Flow
+- CSA-SVM Method for Internal Cavitation Defects Detection and Its Application of District Heating Pipes
+- Industrial Robot Parameter Identification Using a Constrained Instrumental Variable Method
+- TEScalib: Targetless Extrinsic Self-Calibration of LiDAR and Stereo Camera for Automated Driving Vehicles with Uncertainty Analysis
+- Extrinsic Calibration of a 2D Laser Rangefinder and a Depth-Camera Using an Orthogonal Trihedron
+- Continuous Calibration and Narrow Compensation Algorithm to Estimate a Joint Axis under the Various Conditions with Unit Sensor
+- Visual-Inertial-Aided Online MAV System Identification
+- Efficient Extrinsic Calibration of Multi-Sensor 3D LiDAR Systems for Autonomous Vehicles Using Static Objects Information
+# Navigation Systems 4
+- Online Mapping and Motion Planning under Uncertainty for Safe Navigation in Unknown Environments (I)
+- Drift Reduced Navigation with Deep Explainable Features
+- A Robust and Fast Occlusion-Based Frontier Method for Autonomous Navigation in Unknown Cluttered Environments
+- Bubble Planner: Planning High-Speed Smooth Quadrotor Trajectories Using Receding Corridors
+- Temporal Context for Robust Maritime Obstacle Detection
+- Information-Aware Guidance for Magnetic Anomaly Based Navigation
+- Unified Automatic Control of Vehicular Systems with Reinforcement Learning (I)
+- SphereMap: Dynamic Multi-Layer Graph Structure for Rapid Safety-Aware UAV Planning
+- AIB-MDP: Continuous Probabilistic Motion Planning for Automated Vehicles by Leveraging Action Independent Belief Spaces
+# SLAM 5
+- InCOpt: Incremental Constrained Optimization Using the Bayes Tree
+- S3LAM: Structured Scene SLAM
+- Fast Structural Representation and Structure-Aware Loop Closing for Visual SLAM
+- Efficient 2D Graph SLAM for Sparse Sensing
+- Spectral Measurement Sparsification for Pose-Graph SLAM
+- BOEM-SLAM: A Block Online EM Algorithm for the Visual-Inertial SLAM Backend
+- RO-LOAM: 3D Reference Object-Based Trajectory and Map Optimization in LiDAR Odometry and Mapping
+- TwistSLAM: Constrained SLAM in Dynamic Environment
+- Fast Sparse LiDAR Odometry Using Self-Supervised Feature Selection on Intensity Images
+# Medical Robots and Systems 5
+- Design and Evaluation of a Robotic Forceps with Flexible Wrist Joint Made of PEEK Plastic
+- External and Internal Sensor Fusion Based Localization Strategy for 6-DOF Pose Estimation of a Magnetic Capsule Robot
+- Robotic Auscultation Over Clothes for Eliminating Gender Bias
+- ANN-Based Optimization of Human Gait Data Obtained from a Robot-Mounted 3D Camera: A Multiple Sclerosis Case Study
+- Magnetic Microrobot Control Using an Adaptive Fuzzy Sliding-Mode Method
+- An Easy-To-Deploy Combined Nasal/Throat Swab Robot with Sampling Dexterity and Resistance to External Interference
+- Towards Autonomous Atlas-Based Ultrasound Acquisitions in Presence of Articulated Motion
+- Optimization of Surgical Robotic Instrument Mounting in a Macro-Micro Manipulator Setup for Improving Task Execution (I)
+# Robotics and Automation in Agriculture and Construction 1
+- Excavation of Fragmented Rocks with Multi-Modal Model-Based Reinforcement Learning
+- Model Learning and Predictive Control for Autonomous Obstacle Reduction Via Bulldozing
+- Design and Motion Planning for a Reconfigurable Robotic Base
+- External Load Estimation of Hydraulically Driven Construction Machinery from Cylinder Pressures and Link Accelerations
+- Connected Reconfiguration of Polyominoes Amid Obstacles Using RRT*
+- Autonomous Mobile 3D Printing of Large-Scale Trajectories
+- Soil-Adaptive Excavation Using Reinforcement Learning
+- Loading an Autonomous Large-Scale Dump Truck: Path Planning Based on Motion Data from Human-Operated Construction Vehicles
+- Towards Autonomous Visual Navigation in Arable Fields
+# Recognition
+- STEADY: Simultaneous State Estimation and Dynamics Learning from Indirect Observations
+- Smart Explorer: Recognizing Objects in Dense Clutter Via Interactive Exploration
+- LSDNet: A Lightweight Self-Attentional Distillation Network for Visual Place Recognition
+- STUN: Self-Teaching Uncertainty Estimation for Place Recognition
+- Self-Supervised Reinforcement Learning for Active Object Detection
+- ReINView: Re-Interpreting Views for Multi-View 3D Object Recognition
+- Dual-Camera High Magnification Surveillance System with Non-Delay Gaze Control and Always-In-Focus Function in Indoor Scenes
+- Point Label Aware Superpixels for Multi-Species Segmentation of Underwater Imagery
+- Mapping of Spatiotemporal Scalar Fields by Mobile Robots Using Gaussian Process Regression
+# Safety in HRI
+- PSM: A Predictive Safety Model for Body Motion Based on the Spring-Damper Pendulum
+- Physical Adversarial Attack on a Robotic Arm
+- Regularized Deep Signed Distance Fields for Reactive Motion Generation
+- Safe and Ergonomic Human-Drone Interaction in Warehouses
+- Robot Contact Reflexes: Adaptive Maneuvers in the Contact Reflex Space
+- Suppressing Delay-Induced Oscillations in Physical Human-Robot Interaction with an Upper-Limb Exoskeleton Using Rate-Limiting
+- Safety Compliant Control for Robotic Manipulator with Task and Input Constraints
+- Safe and Efficient Exploration of Human Models During Human-Robot Interaction
+- Evaluation of On-Robot Capacitive Proximity Sensors with Collision Experiments for Human-Robot Collaboration
+- Humanoid and Bipedal Locomotion
+- Terrain-Adaptive, ALIP-Based Bipedal Locomotion Controller Via Model Predictive Control and Virtual Constraints
+- Robust Contact State Estimation in Humanoid Walking Gaits
+- Uniform Global Exponential Stabilizing Passivity-Based Tracking Controller Applied to Planar Biped Robots
+- Learning Dynamic Bipedal Walking across Stepping Stones
+- Humanoid Balance Control Using Centroidal Angular Momentum Based on Hierarchical Quadratic Programming
+- Resolved Motion Control for 3D Underactuated Bipedal Walking Using Linear Inverted Pendulum Dynamics and Neural Adaptation
+- Preemptive Foot Compliance to Lower Impact During Biped Robot Walking Over Unknown Terrain
+- Improved Biped Walking Performance Around the Kinematic Singularities of Biomimetic Four-Bar Knees
+- Comparison of EKF-Based Floating Base Estimators for Humanoid Robots with Flat Feet
+# Computer Vision for Automation 2
+- ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation Using Synthetic Data
+- Jacobian Computation for Cumulative B-Splines on SE(3) and Application to Continuous-Time Object Tracking
+- Intensity Image-Based LiDAR Fiducial Marker System
+- Multi-Modal Non-Isotropic Light Source Modelling for Reflectance Estimation in Hyperspectral Imaging
+- LiSnowNet: Real-Time Snow Removal for LiDAR Point Clouds
+- Application of Ghost-DeblurGAN to Fiducial Marker Detection
+- Learning Important Regions Via Attention for Video Streaming on Cloud Robotics
+- Unsupervised Simultaneous Learning for Camera Re-Localization and Depth Estimation from Video
+- HyperPocket: Generative Point Cloud Completion
+# Marine Robotics 1
+- Flexible Collision-Free Platooning Method for Unmanned Surface Vehicle with Experimental Validations
+- Development and Field Testing of an Optimal Path Following ASV Controller for Marine Surveys
+- Inertial-Measurement-Based Catenary Shape Estimation of Underwater Cables for Tethered Robots
+- Motion Attribute-Based Clustering and Collision Avoidance of Multiple In-Water Obstacles by Autonomous Surface Vehicle
+- Training Dynamic Motion Primitives Using Deep Reinforcement Learning to Control a Robotic Tadpole
+- Hydrodynamic Parameters Estimation Using Varying Forces and Numerical Integration Fitting Method
+- An Underwater Target Perception Framework for Underwater Operation Scene
+# Soft Robot Materials and Design 2
+- Self-Morphing Soft Parallel-And-Coplanar Electroadhesive Grippers Based on Laser-Scribed Graphene Oxide Electrodes
+- Embeddable Coiled Soft Sensor-Based Joint Angle Sensing for Flexible Surgical Manipulator
+- A Soft Fluidic Sensor-Actuator for Active Sensing of Force and Displacement in Biomedical Applications
+- GSG: A Granary-Shaped Soft Gripper with Mechanical Sensing Via Snap-Through Structure
+- FireFly: An Insect-Scale Aerial Robot Powered by Electroluminescent Soft Artificial Muscles
+- Sensor-Based Reconstruction of Slender Flexible Beams Undergoing Large-Scale Deflection
+- Development of a 6 DOF Soft Robotic Manipulator with Integrated Sensing Skin
+- Autonomous Intraluminal Navigation of a Soft Robot Using Deep-Learning-Based Visual Servoing
+- Equilibrium Manipulation Planning for a Soft Elastic Rod Considering an External Distributed Force and Intrinsic Curvature
+# Localization 5
+- FSM: Correspondenceless Scan-Matching of Panoramic 2D Range Scans
+- VMVG-Loc: Visual Localization for Autonomous Driving Using Vector Map and Voxel Grid Map
+- Learnable Spatio-Temporal Map Embeddings for Deep Inertial Localization
+- CGiS-Net: Aggregating Colour, Geometry and Implicit Semantic Features for Indoor Place Recognition
+- A New Dense Hybrid Stereo Visual Odometry Approach
+- BoxGraph: Semantic Place Recognition and Pose Estimation from 3D LiDAR
+- Towards Holistic Autonomous Obstacle Detection in Railways by Complementing of On-Board Vision with UAV-Based Object Localization
+- Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion
+- Continuous Self-Localization on Aerial Images Using Visual and Lidar Sensors
+# Reinforcement Learning 4
+- Autonomous Control of Redundant Hydraulic Manipulator Using Reinforcement Learning with Action Feedback
+- DRL-ISP: Multi-Objective Camera ISP with Deep Reinforcement Learning
+- Renaissance Robot: Optimal Transport Policy Fusion for Learning Diverse Skills
+- SKILL-IL: Disentangling Skill and Knowledge in Multitask Imitation Learning
+- Learning Perceptual Locomotion on Uneven Terrains Using Sparse Visual Observations
+- Towards Adaptive Continuous Control of Soft Robotic Manipulator Using Reinforcement Learning
+- Infusing Model Predictive Control into Meta-Reinforcement Learning for Mobile Robots in Dynamic Environments
+- A New Robotic Knee Impedance Control Parameter Optimization Method Facilitated by Inverse Reinforcement Learning
+- UNICON: Uncertainty-Conditioned Policy for Robust Behavior in Unfamiliar Scenarios
+# Field Robots
+- P-AgBot: In-Row & Under-Canopy Agricultural Robot for Monitoring and Physical Sampling
+- Efficient Sampling-Based Planning for Subterranean Exploration
+- A Novel Robot with Rolling and Climbing Modes for Power Transmission Line Inspection
+- Autonomous Pipeline Tracking Using Bernoulli Filter for Unmanned Underwater Surveys
+- An Evaluation of Position Keeping Strategies under Disturbances for a Symmetrical Shape Autonomous on Water Surface Robot
+- Capability-Aware Task Allocation and Team Formation Analysis for Cooperative Exploration of Complex Environments
+- MIMOSA: A Multi-Modal SLAM Framework for Resilient Autonomy against Sensor Degradation
+- PUTN: A Plane-Fitting Based Uneven Terrain Navigation Framework
+- A Standards-Based Pipeline Route Drawing System Using a Towed Sensing Unit
+# Motion and Path Planning 5
+- Speeding up POMDP Planning Via Simplification
+- Speeding up Optimization-Based Motion Planning through Deep Learning
+- Improved A-Search Guided Tree for Autonomous Trailer Planning
+- TerraPN: Unstructured Terrain Navigation Using Online Self-Supervised Learning
+- Robust Counterexample-Guided Optimization for Planning from Differentiable Temporal Logic
+- CGLR: Dense Multi-Agent Navigation Using Voronoi Cells and Congestion Metric-Based Replanning
+- Adaptive Experience Sampling for Motion Planning Using the Generator-Critic Framework
+- This Is the Way: Differential Bayesian Filtering for Agile Trajectory Synthesis
+- Optimal Motion Planning in Unknown Workspaces Using Integral Reinforcement Learning
+# Swarm Robotics
+- Collective Decision-Making with Bayesian Robots in Dynamic Environments
+- Decentralized Control of Minimalistic Robotic Swarms for Guaranteed Target Encapsulation
+- A Dynamical System Approach to Decentralized Collision-Free Autonomous Coordination of a Mobile Assistive Furniture Swarm
+- Collective Decision Making in Communication-Constrained Environments
+- Chemistry-Inspired Pattern Formation with Robotic Swarms
+- Enhanced Decentralized Autonomous Aerial Robot Teams with Group Planning
+- A Data-Driven Method for Metric Extraction to Detect Faults in Robot Swarms
+- Deliberative Democracy with Robot Swarms
+- Particle Swarm Optimizer-Based Attack Strategy with Swarm Robots
+# Industrial and Parallel Robots
+- Multi-Objective Geometric Optimization of a Multi-Link Manipulator Using Parameterized Design Method
+- A Configurable Skill Oriented Architecture Based on OPC UA
+- Accurate Edge Detection for Robotic Welding through Tactile Exploration
+- Vision-Based Safety System for Barrierless Human-Robot Collaboration
+- Horizontal Insertion of a Ring Onto a Shaft Using a Gantry Crane with Minimal Sensors
+- An All-In-One Cable-Driven Parallel Robot with Flexible Workspace and Its Auto-Calibration Method
+- Experimental Study on Impact Resistance of Multi-DOF Electro-Hydrostatic Robot Systems Using Hydracer, a 6DOF Arm
+- On a Balanced Delta Robot for Precise Aerial Manipulation: Implementation, Testing, and Lessons for Future Designs
+- Locally Optimal Estimation and Control of Cable Driven Parallel Robots Using Time Varying Linear Quadratic Gaussian Control
+# Learning from Demonstration 1
+- Learning Object Manipulation Skills from Video Via Approximate Differentiable Physics
+- Quantifying Demonstration Quality for Robot Learning and Generalization
+- Imitation of Manipulation Skills Using Multiple Geometries
+- Learning Category-Level Generalizable Object Manipulation Policy Via Generative Adversarial Self-Imitation Learning from Demonstrations
+- Robot Learning from Demonstration Using Elastic Maps
+- Robot Policy Learning from Demonstration Using Advantage Weighting and Early Termination
+- Inverse Reinforcement Learning with Hybrid-Weight Trust-Region Optimization and Curriculum Learning for Autonomous Maneuvering
+- WFA-IRL: Inverse Reinforcement Learning of Autonomous Behaviors Encoded As Weighted Finite Automata
+- Ergodic Exploration Using Tensor Train: Applications in Insertion Tasks (I)
+# Manipulation Systems 5
+- SSP-Pose: Symmetry-Aware Shape Prior Deformation for Direct Category-Level Object Pose Estimation
+- VGPN: 6-DoF Grasp Pose Detection Network Based on Hough Voting
+- TANDEM: Learning Joint Exploration and Decision Making with Tactile Sensors
+- Leveraging Publicly Available Textual Object Descriptions for Anthropomorphic Robotic Grasp Predictions
+- Learning Closed-Loop Dough Manipulation Using a Differentiable Reset Module
+- When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection
+# Biologically-Inspired Robots 5
+- Effects of Design and Hydrodynamic Parameters on Optimized Swimming for Simulated, Fish-Inspired Robots
+- High-Performance Morphing Wing for Large-Scale Bio-Inspired Unmanned Aerial Vehicles
+- A Motion Generation Strategy of Robotic Rat Using Imitation Learning for Behavioral Interaction
+- Shaping Impedances to Comply with Constrained Task Dynamics (I)
+- Development of a Small-Sized Quadruped Robotic Rat Capable of Multimodal Motions (I)
+# Aerial Systems 4
+- Hoverability Analysis and Development of a Quadrotor Only with Clockwise Rotors
+- A Novel Quadrotor with a 3-Axis Deformable Frame Using Tilting Motions of Parallel Link Modules without Thrust Loss
+- Adaptive Tank-Based Control for Aerial Physical Interaction with Uncertain Dynamic Environments Using Energy-Task Estimation
+- A Robotic Aerial Platform with Functionally Anthropomorphic Arms Designed for Physical Interaction
+- Back-Transition Control with Large Deceleration for a Dual Propulsion VTOL UAV Based on Its Maneuverability
+- Nonlinear Model Predictive Control for Human-Robot Handover with Application to the Aerial Case
+- Design, Modeling and Control of a Two Flight Mode Capable Single Wing Rotorcraft with Mid-Air Transition Ability
+- Stabilization of Tangent and Normal Contact Forces for a Quadrotor Subject to Disturbances
+- Experimental Performance Comparison of Bidirectional Actuator Configurations for Suspended Aerial Platforms
+# Learning from Demonstration 2
+- Learning to Sequence and Blend Robot Skills Via Differentiable Optimization
+- Risk-Sensitive MPCs with Deep Distributional Inverse RL for Autonomous Driving
+- Learning Turn-Taking Behavior from Human Demonstrations for Social Human-Robot Interactions
+- A Framework for Transferring Surface Finishing Skills to New Surface Geometries
+- A Bimanual Manipulation Taxonomy
+- Learning Temporal Task Models from Human Bimanual Demonstrations
+- Learning Implicit Priors for Motion Optimization
+- Learning from Demonstration Based on Environmental Constraints
+- Multi-Level Task Learning Based on Intention and Constraint Inference for Autonomous Robotic Manipulation
+# Telerobotics and Teleoperation 2
+- HI-DWA: Human-Influenced Dynamic Window Approach for Shared Control of a Telepresence Robot
+- A Method for Automated Drone Viewpoints to Support Remote Robot Manipulation
+- On the Communication Channel in Bilateral Teleoperation: An Experimental Study for Ethernet, WiFi, LTE and 5G
+- On Stabilizing Communication Law for Bilateral Force-Reflecting Teleoperation Systems
+- Towards Robot Avatar: Systems and Methods for Teleinteraction at Avatar XPRIZE Semi-Final
+- Multi-Phase Multi-Modal Haptic Teleoperation
+- Optimal Joint TDPA Formulation for Kinematically Redundant Robot Manipulators
+- Enhanced Accuracy in Magnetic Actuation: Closed-Loop Control of a Magnetic Agent with Low-Error Numerical Magnetic Model Estimation
+- Enhancing Rover Teleoperation on the Moon with Proprioceptive Sensors and Machine Learning Techniques
+# Manipulation Systems 6
+- The Role of Tactile Sensing in Learning and Deploying Grasp Refinement Algorithms
+- Learning to Singulate Layers of Cloth Based on Tactile Feedback
+- Multi-Finger Tactile Servoing for Grasping Adjustment under Partial Observation
+- Finger-STS: Combined Proximity and Tactile Sensing for Robotic Manipulation
+- Soft Tactile Contour Following for Robot-Assisted Wiping and Bathing
+- A Deep-Learning-Based System for Indoor Active Cleaning
+- Grasp Stability Prediction with Sim-To-Real Transfer from Tactile Sensing
+- Whisker-Inspired Tactile Sensing for Contact Localization on Robot Manipulators
+- Comparing Human Haptic Perception and Robotic Force/Torque Sensing in a Simulated Surgical Palpation Task
+# Navigation Systems 5
+- SwitchHit: A Probabilistic, Complementarity-Based Switching System for Improved Visual Place Recognition in Changing Environments
+- A Robust Sidewalk Navigation Method for Mobile Robots Based on Sparse Semantic Point Cloud
+- RCA: Ride Comfort-Aware Visual Navigation Via Self-Supervised Learning
+- Binary Neural Networks for Memory-Efficient and Effective Visual Place Recognition in Changing Environments (I)
+- Avoiding Dense and Dynamic Obstacles in Enclosed Spaces: Application to Moving in Crowds (I)
+- Optimal Hierarchical Planner for Object Search in Large Environments Via Mobile Manipulation
+- CNS Flight Stack for Reproducible, Customizable, and Fully Autonomous Applications
+- A Hybrid Primitive-Based Navigation Planner for the Wheeled-Legged Robot CENTAURO
+- Stronger Together: Air-Ground Robotic Collaboration Using Semantics
+# SLAM 6
+- LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments
+- Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM
+- Keeping Less Is More: Point Sparsification for Visual SLAM
+- Online Extrinsic Correction of Multi-Camera Systems by Low-Dimensional Parameterization of Physical Deformation
+- Active SLAM in 3D Deformable Environments
+- Event-Based Line SLAM in Real-Time
+- MR-TopoMap: Multi-Robot Exploration Based on Topological Map in Communication Restricted Environment
+- LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM (I)
+- Anchor Selection for SLAM Based on Graph Topology and Sub-Modular Optimization (I)
+# Medical Robots and Systems 6
+- Recognition and Prediction of Surgical Gestures and Trajectories Using Transformer Models in Robot-Assisted Surgery
+- Autonomous Laparoscope Control for Minimally Invasive Surgery with Intuition and RCM Constraints
+- Learning Laparoscope Actions Via Video Features for Proactive Robotic Field-Of-View Control
+- A Surgical Robot for Intracorporeal Additive Manufacturing of Tissue Engineering Constructs
+- Automatic Keyframe Detection for Critical Actions from the Experience of Expert Surgeons
+- Localization of Interaction Using Fibre-Optic Shape Sensing in Soft-Robotic Surgery Tools
+- Accurate Pose Estimation for Comanipulation Robotic Surgery
+- Distilled Visual and Robot Kinematics Embeddings for Metric Depth Estimation in Monocular Scene Reconstruction
+- A New Power Law Linking the Speed to the Geometry of Tool-Tip Orientation in Teleoperation of a Robot-Assisted Surgical System
+# Collision Avoidance
+- Differentiable Collision Avoidance Using Collision Primitives
+- Informed Sampling-Based Collision Avoidance with Least Deviation from the Nominal Path
+- Reactive Neural Path Planning with Dynamic Obstacle Avoidance in a Condensed Configuration Space
+- HIRO: Heuristics Informed Robot Online Path Planning Using Pre-Computed Deterministic Roadmaps
+- A Framework for the Systematic Evaluation of Obstacle Avoidance and Object-Aware Controllers
+- GraphDistNet: A Graph-Based Collision-Distance Estimator for Gradient-Based Trajectory Optimization
+- A Generalized Continuous Collision Detection Framework of Polynomial Trajectory for Mobile Robots in Cluttered Environments
+- Collaborative Teleoperation with Haptic Feedback for Collision-Free Navigation of Ground Robots
+- Deep Reinforcement Learning for Robot Collision Avoidance with Self-State-Attention and Sensor Fusion
+# Simulation and Animation
+- Fidelity Evaluation of Virtual Traffic Based on Anomalous Trajectory Detection
+- CapSense: A Real-Time Capacitive Sensor Simulation Framework for Physical Human-Robot Interaction
+- Learning to Simulate Realistic LiDARs
+- Realistic Real-Time Simulation of RGB and Depth Sensors for Dynamic Scenarios Using Augmented Image Based Rendering
+- Understanding Physical Effects for Effective Tool-Use
+- A High-Fidelity Simulation Platform for Industrial Manufacturing by Incorporating Robotic Dynamics into an Industrial Simulation Tool
+- Sequential Manipulation Planning on Scene Graph
+- Competency Assessment for Autonomous Agents Using Deep Generative Models
+- A Simulation Framework for Magnetic Continuum Robots
+# Social HRI
+- HRI Framework for Continual Learning in Face Recognition
+- Should a Robot Follow Social Norms? Human-Robot Interaction Design for Social Relations in Mixed Age Group
+- A Personable Robot: A Meta-Analysis of Robot Personality and Human Acceptance
+- A Novel Wire-Driven 3D Eyebrow Design for Communication with Humanoid Robot ICub
+- SonifyIt: Towards Transformative Sound for All Robots
+- Playful Recommendation: Sales Promotion That Robots Stimulate Pleasant Feelings Instead of Product Explanation
+- Android As a Receptionist in a Shopping Mall Using Inverse Reinforcement Learning
+- SanitizerBot: How Human-In-The-Loop Social Robots Can Playfully Support Humans
+- Deep Gesture Generation for Social Robots Using Type-Specific Libraries
+# Humanoid Robot Systems
+- Experimental Demonstration of a General Balancing Controller on an Untethered Planar Inverted Double Pendulum
+- Robust Humanoid Walking System Considering Recognized Terrain and Robots' Balance
+- Human-Humanoid Robot Cooperative Load Transportation: Model-Based Control Approach
+- Hands-Free Telelocomotion of a Wheeled Humanoid
+- Improved Zero Step Push Recovery with a Unified Reduced Order Model of Standing Balance
+- Walking Control Framework on Uneven Terrain Using Variable Stiffness Sole
+- Tello Leg: The Study of Design Principles and Metrics for Dynamic Humanoid Robots
+- Watch Me Calibrate My Force-Sensing Shoes!
+# RGB-D Perception
+- Unsupervised Confidence for LiDAR Depth Maps and Applications
+- Multi-Scaled and Densely Connected Locally Convolutional Layers for Depth Completion
+- From Local to Holistic: Self-Supervised Single Image 3D Face Reconstruction Via Multi-Level Constraints
+- Learning Feature Decomposition for Domain Adaptive Monocular Depth Estimation
+- Inferring Articulated Rigid Body Dynamics from RGBD Video
+- Multi-View Guided Multi-View Stereo
+- Semantic Scene Completion through Multi-Level Feature Fusion
+- RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments
+- SDFEst: Categorical Pose and Shape Estimation of Objects from RGB-D Using Signed Distance Fields
+# Marine Robotics 2
+- Evaluating the Benefit of Using Multiple Low-Cost Forward-Looking Sonar Beams for Collision Avoidance in Small AUVs
+- Analysis of Hybrid Cable-Thruster Actuated ROV in Heavy Lifting Interventions
+- Improving Marine Radar Odometry by Modeling Radar Resolution and Exploiting Additional Temporal Information
+- UWRange: An Open ROS Framework for Simulating Acoustic Ranging and Localization for Underwater Robots under Realistic Conditions
+- HoloOcean: Realistic Sonar Simulation
+- DRACo-SLAM: Distributed Robust Acoustic Communication-Efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams
+- Confined Water Body Coverage under Resource Constraints
+- Self-Management of ROV Umbilical Using Sliding Buoys and Stop
+- AUV-Assisted Diver Navigation
+# Soft Robot Applications
+- Design of a Soft Wearable Passive Fitness Device for Upper Limb Resistance Exercise
+- Multi-DoF Soft Robotic Actuators Based on Spring Reinforce and Particle Jamming
+- Automated Fruit Quality Testing Using an Electrical Impedance Tomography-Enabled Soft Robotic Gripper
+- Jammkle: Fibre Jamming 3D Printed Multi-Material Tendons and Their Application in a Robotic Ankle
+- Grasping State Analysis of Soft Manipulator Based on Flexible Tactile Sensor Array
+- RoboHeart: A Bi-Directional Zipping Actuator
+- Physics-Informed Recurrent Neural Networks for Soft Pneumatic Actuators
+- Design and Experimental Characterization of a Push-Pull Flexible Rod-Driven Soft-Bodied Robot
+# Localization 6
+- Centralized-Equivalent Pairwise Estimation with Asynchronous Communication Constraints for Two Robots
+- Cooperative Localization Using Learning-Based Constrained Optimization
+- InCloud: Incremental Learning for Point Cloud Place Recognition
+- LNC Assisted Localization and Mapping in Pipe Environment
+- Unsupervised Appearance Map Abstraction for Indoor Visual Place Recognition with Mobile Robots
+- Predicting to Improve: Integrity Measures for Assessing Visual Localization Performance
+- What Goes Around: Leveraging a Constant-Curvature Motion Constraint in Radar Odometry
+- Learning-Enhanced Adaptive Robust GNSS Navigation in Challenging Environments
+- Optimization Strategies for Bayesian Source Localization Algorithms (I)
+# Imitation Learning
+- Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning
+- Using Human Gaze in Few-Shot Imitation Learning for Robot Manipulation
+- Divide & Conquer Imitation Learning
+- MMFN: Multi-Modal-Fusion-Net for End-To-End Driving
+- Output Feedback Tube MPC-Guided Data Augmentation for Robust, Efficient Sensorimotor Policy Learning
+- Hierarchical Model-Based Imitation Learning for Planning in Autonomous Driving
+- Back to the Manifold: Recovering from Out-Of-Distribution States
+- From One Hand to Multiple Hands: Imitation Learning for Dexterous Manipulation from Single-Camera Teleoperation
+- DPMP-Deep Probabilistic Motion Planning: A Use Case in Strawberry Picking Robot
+# Field and Marine Robotics
+- Polytopic Planar Region Characterization of Rough Terrains for Legged Locomotion
+- Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions
+- Speed up of Wave-Driven Unmanned Surface Vehicle Using Passively Transformable Two-Segment Foils
+- Simultaneous Localization of Rail Vehicles and Mapping of Environment with Multiple LiDARs
+- Forest Traversability Mapping (FTM): Traversability Estimation Using 3D Voxel-Based Normal Distributed Transform to Enable Forest Navigation
+- WayFAST: Navigation with Predictive Traversability in the Field
+- Learning Pseudo Front Depth for 2D Forward-Looking Sonar-Based Multi-View Stereo
+- Obstacle-Aided Locomotion of a Snake Robot Using Piecewise Helixes
+- Informative Path Planning to Estimate Quantiles for Environmental Analysis
+# Motion and Path Planning 6
+- FIG-OP: Exploring Large-Scale Unknown Environments on a Fixed Time Budget
+- Adaptive Sampling of Latent Phenomena Using Heterogeneous Robot Teams (ASLaP-HR)
+- Online Planning for Interactive-POMDPs Using Nested Monte Carlo Tree Search
+- Lazy Lifelong Planning for Efficient Replanning in Graphs with Expensive Edge Evaluation
+- LTR*: Rapid Replanning in Executing Consecutive Tasks with Lazy Experience Graph
+- RRT*-Based Path Planning for Continuum Arms
+- FlowBot: Flow-Based Modeling for Robot Navigation
+- The RATTLE Motion Planning Algorithm for Robust Online Parametric Model Improvement with On-Orbit Validation
+- Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving Using Sim-To-Real
+# Control for Legged Robot
+- The Uncertainty Aware Salted Kalman Filter: State Estimation for Hybrid Systems with Uncertain Guards
+- Contact-Implicit Trajectory Optimization with Hydroelastic Contact and ILQR
+- Balancing Control and Pose Optimization for Wheel-Legged Robots Navigating High Obstacles
+- Large-Scale ADMM-Based Co-Design of Legged Robots
+- An Error-State Model Predictive Control on Connected Matrix Lie Groups for Legged Robot Control
+- Whole-Body Model Predictive Control with Rigid Contacts Via Online Switching Time Optimization
+- Generating Families of Optimally Actuated Gaits from a Legged System’s Energetically Conservative Dynamics
+- Optimal Gait Families Using Lagrange Multiplier Method
+- Lifted Contact Dynamics for Efficient Optimal Control of Rigid Body Systems with Contacts
+# Intelligent and Flexible Manufacturing
+- Heuristic-Free Optimization of Force-Controlled Robot Search Strategies in Stochastic Environments
+- A Composable Framework for Policy Design, Learning, and Transfer Toward Safe and Efficient Industrial Insertion
+- Online 3D Bin Packing Reinforcement Learning Solution with Buffer
+- GoferBot: A Visual Guided Human-Robot Collaborative Assembly System
+- Robot Companion, an Intelligent Interactive Robot Coworker for the Industry 5.0
+- Metal Wire Manipulation Planning for 3D Curving a Low Payload Robot That Uses a Bending Machine to Bend High-Stiffness Wire
+- SurfMan: Generating Smooth Robotic Surface Manipulation Trajectories for Human-Demonstrated Pattern Sequence
+- Development and Control of Robot Hand with Finger Camera for Garment Handling Tasks
+- Robotics and Automation in Agriculture and Construction 2
+- EPAR: An Efficient and Privacy-Aware Augmented Reality Framework for Indoor Location-Based Services
+- Compact Strawberry Harvesting Tube Employing Laser Cutter
+- Reconstructing a Spatial Field with an Autonomous Robot under a Budget Constraint
+- Hybrid Discrete-Continuous Path Planning for Lattice Traversal
+- RECCraft System: Towards Reliable and Efficient Collective Robotic Construction
+# Reinforcement Learning 5
+- Improved Robustness and Safety for Pre-Adaptation of Meta Reinforcement Learning with Prior Regularization
+- Active Tactile Exploration Using Shape Dependent Reinforcement Learning
+- DARL1N: Distributed Multi-Agent Reinforcement Learning with One-Hop Neighbors
+- Adaptive Environment Modeling Based Reinforcement Learning for Collision Avoidance in Complex Scenes
+- Scalable Model-Based Policy Optimization for Decentralized Networked Systems
+- Safety Correction from Baseline: Towards the Risk-Aware Policy in Robotics Via Dual-Agent Reinforcement Learning
+- Multi-Objective Policy Gradients with Topological Constraints
+- Backward Imitation and Forward Reinforcement Learning Via Bi-Directional Model Rollouts
+- BIMRL: Brain Inspired Meta Reinforcement Learning
+- Coordination with Humans Via Strategy Matching
+- DULA and DEBA: Differentiable Ergonomic Risk Models for Postural Assessment and Optimization in Ergonomically Intelligent PHRI
+- Towards Inclusive HRI: Using Sim2Real to Address Underrepresentation in Emotion Expression Recognition
+- Reasoning about Counterfactuals to Improve Human Inverse Reinforcement Learning
+- Proactive Robotic Assistance Via Theory of Mind
+- A Novel Perceptive Robotic Cane with Haptic Navigation for Enabling Vision-Independent Participation in the Social Dynamics of Seat Choice
+- SESNO: Sample Efficient Social Navigation from Observation
+- Understanding Acoustic Patterns of Human Teachers Demonstrating Manipulation Tasks to Robots
+- Gesture2Vec: Clustering Gestures Using Representation Learning Methods for Co-Speech Gesture Generation
+- Optical Flow-Based Branch Segmentation for Complex Orchard Environments
+- Near Real-Time Vineyard Downy Mildew Detection and Severity Estimation
+- View Planning Using Discrete Optimization for 3D Reconstruction of Row Crops
+- BonnBot-I: A Precise Weed Management and Crop Monitoring Platform
+- An Integrated Actuation-Perception Framework for Robotic Leaf Retrieval: Detection, Localization, and Cutting
+- Algorithm Design and Integration for a Robotic Apple Harvesting System
+- Predicting Fruit-Pick Success Using a Grasp Classifier Trained on a Physical Proxy
+- Contrastive 3D Shape Completion and Reconstruction for Agricultural Robots Using RGB-D Frames
+- Beyond mAP: Towards Practical Object Detection for Weed Spraying in Precision Agriculture
+- Audio-Visual Depth and Material Estimation for Robot Navigation
+- Design of a Low-Cost Passive Acoustic Monitoring System for Animal Localisation from Calls
+- Spotforming by NMF Using Multiple Microphone Arrays
+- Noisy Agents: Self-Supervised Exploration by Predicting Auditory Events
+- Direction-Aware Adaptive Online Neural Speech Enhancement with an Augmented Reality Headset in Real Noisy Conversational Environments
+- Object Surface Recognition Using Microphone Array by Acoustic Standing Wave
+- Recognizing Object Surface Material from Impact Sounds for Robot Manipulation
+- Controlling the Impression of Robots Via GAN-Based Gesture Generation
+- Outdoor Evaluation of Sound Source Localization for Drone Groups Using Microphone Arrays
+# Machine Learning for Robot Control 1
+- Reactive Stepping for Humanoid Robots Using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante
+- Hybrid Approach for Stabilizing Large Time Delays in Cooperative Adaptive Cruise Control with Reduced Performance Penalties
+- Leveraging Multi-Level Modelling to Automatically Design Behavioral Arbitrators in Robotic Controllers
+- Federated Learning from Demonstration for Active Assistance to Smart Wheelchair Users
+- PourNet: Robust Robotic Pouring through Curriculum and Curiosity-Based Reinforcement Learning
+- Simulation-Based Learning of the Peg-In-Hole Process Using Robot-Skills
+- Hybrid LMC: Hybrid Learning and Model-Based Control for Wheeled Humanoid Robot Via Ensemble Deep Reinforcement Learning
+- Active Exploration for Robotic Manipulation
+- Cloud-Edge Training Architecture for Sim-To-Real Deep Reinforcement Learning
+# Soft Robot Modeling and Control 1
+- Towards Accurate Modeling of Modular Soft Pneumatic Robots: From Volume FEM to Cosserat Rod
+- A Proprioceptive Method for Soft Robots Using Inertial Measurement Units
+- Model-Based Contact Detection and Accommodation for Soft Bending Actuators: An Integrated Direct/Indirect Adaptive Robust Approach
+- A Unified and Modular Model Predictive Control Framework for Soft Continuum Manipulators under Internal and External Constraints
+- Contact-Implicit Trajectory and Grasp Planning for Soft Continuum Manipulators
+- Analytical Modeling of a Membrane-Based Pneumatic Soft Gripper
+- Planar Modeling and Sim-To-Real of a Tethered Multimaterial Soft Swimmer Driven by Peano-HASELs
+- Model-Based Disturbance Estimation for a Fiber-Reinforced Soft Manipulator Using Orientation Sensing
+- Variable Stiffness Object Recognition with Bayesian Convolutional Neural Network on a Soft Gripper
+# SLAM 7
+- Simultaneous Localization and Mapping through the Lens of Nonlinear Optimization
+- Fast and Safe Exploration Via Adaptive Semantic Perception in Outdoor Environments
+- Towards Robust Visual-Inertial Odometry with Multiple Non-Overlapped Monocular Cameras
+- Scalable Probabilistic Gas Distribution Mapping Using Gaussian Belief Propagation
+- WiSARD: A Labeled Visual and Thermal Image Dataset for Wilderness Search and Rescue
+- A Tightly-Coupled Event-Inertial Odometry Using Exponential Decay and Linear Preintegrated Measurements
+- Photometric Visual-Inertial Navigation with Uncertainty-Aware Ensembles (I)
+- FAST-LIO2: Fast Direct LiDAR-Inertial Odometry (I)
+- Rail Vehicle Localization and Mapping with LiDAR-Vision-Inertial-GNSS Fusion
+# Medical Robots and Systems 7
+- A Metric for Finding Robust Start Positions for Medical Steerable Needle Automation
+- Design and Development of a Lorentz Force-Based MRI-Driven Neuroendoscope
+- GESRsim: Gastrointestinal Endoscopic Surgical Robot Simulator
+- A Dataset and Benchmark for Learning the Kinematics of Concentric Tube Continuum Robots
+- Intrinsic Force Sensing for Motion Estimation in a Parallel, Fluidic Soft Robot for Endoluminal Interventions
+- Contact Localization of Continuum and Flexible Robot Using Data-Driven Approach
+- Deep-Learning-Based Compliant Motion Control of a Pneumatically-Driven Robotic Catheter
+- Colonoscopy Navigation Using End-To-End Deep Visuomotor Control: A User Study
+- Shape Memory Polymer Variable Stiffness Magnetic Catheters with Hybrid Stiffness Control
+# Compliance and Impedance Control 1
+- Learning Variable Impedance Control for Aerial Sliding on Uneven Heterogeneous Surfaces through Proprioceptive and Tactile Sensing
+- Passivity-Based Skill Motion Learning in Stiffness-Adaptive Unified Force-Impedance Control
+- Perturbation-Based Stiffness Inference in Variable Impedance Control
+- A Whole-Body Controller Based on a Simplified Template for Rendering Impedances in Quadruped Manipulators
+- Electro-Adhesive Tubular Clutch for Variable-Stiffness Robots
+- An Observer-Based Responsive Variable Impedance Control for Dual–User Haptic Training System
+- Development of Low-Inertia Backdrivable Arm Focusing on Learning-Based Control
+- BEAR-H: An Intelligent Bilateral Exoskeletal Assistive Robot for Smart Rehabilitation (I)
+- Data-Driven Variable Impedance Control of a Powered Knee-Ankle Prosthesis for Sit, Stand, and Walk with Minimal Tuning
+# Software, Middleware and Programming Environments 1
+- OHM: GPU Based Occupancy Map Generation
+- IKFlow: Generating Diverse Inverse Kinematics Solutions
+- Ros2_tracing: Multipurpose Low-Overhead Framework for Real-Time Tracing of ROS 2
+- RobotCore: An Open Architecture for Hardware Acceleration in ROS 2
+- Tasho: A Python Toolbox for Rapid Prototyping and Deployment of Optimal Control Problem-Based Complex Robot Motion Skills
+- Containerization and Orchestration of Software for Autonomous Mobile Robots: A Case Study of Mixed-Criticality Tasks across Edge-Cloud Computing Platforms
+- GPU-Accelerated Incremental Euclidean Distance Transform for Online Motion Planning of Mobile Robots
+- Transactional Transform Library for ROS
+- Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments
+# Wearable Robotics
+- An Impedance-Controlled Testbed for Simulating Variations in the Mechanical Fit of Wearable Devices
+- Human-Exoskeleton Cooperative Balance Strategy for a Human-Powered Augmentation Lower Exoskeleton
+- RANK # Robotic Ankle: Design and Testing on Irregular Terrains
+- A Wearable Smart Glove and Its Application of Pose and Gesture Detection to Sign Language Classification
+- A Soft Fabric-Based Shrink-To-Fit Pneumatic Sleeve for Comfortable Limb Assistance
+- Ring-Pull Type Soft Wearable Robotic Glove for Hand Strength Assistance
+- Kinematics-Based Adaptive Assistance of a Semi-Passive Upper-Limb Exoskeleton for Workers in Static and Dynamic Tasks
+- Reconfigurable Self-Sensing Pneumatic Artificial Muscle with Locking Ability Based on Modular Multi-Chamber Soft Actuator
+- Design of a Wearable Mechanism with Shape Memory Alloy (SMA)-Based Artificial Muscle for Assisting with Shoulder Abduction
+# Intention Recognition
+- Intention Estimation from Gaze and Motion Features for Human-Robot Shared-Control Object Manipulation
+- Disentangled Sequence Clustering for Human Intention Inference
+- Personalized Estimation of Intended Gait Speed for Lower-Limb Exoskeleton Users Via Data Augmentation Using Mutual Information
+- Flash: Fast and Light Motion Prediction for Autonomous Driving with Bayesian Inverse Planning and Learned Motion Profiles
+- MPC-PF: Social Interaction Aware Trajectory Prediction of Dynamic Objects for Autonomous Driving Using Potential Fields
+- Optimization of Forcemyography Sensor Placement for Arm Movement Recognition
+- Pedestrian Intention Prediction Based on Traffic-Aware Scene Graph Model
+- Social-PatteRNN: Socially-Aware Trajectory Prediction Guided by Motion Patterns
+- A Hierarchical Deliberative Architecture Framework Based on Goal Decomposition
+# Semantic Scene Understanding 1
+- SynWoodScape: Synthetic Surround-View Fisheye Camera Dataset for Autonomous Driving
+- Accurate Instance-Level CAD Model Retrieval in a Large-Scale Database
+- Low-Latency LiDAR Semantic Segmentation
+- Implicit-Part Based Context Aggregation for Point Cloud Instance Segmentation
+- Unsupervised Domain Adaptation for Point Cloud Semantic Segmentation Via Graph Matching
+- SectionKey: 3-D Semantic Point Cloud Descriptor for Place Recognition
+- Fisheye Object Detection Based on Standard Image Datasets with 24-Points Regression Strategy
+- Real-Time Semantic 3D Reconstruction for High-Touch Surface Recognition for Robotic Disinfection
+- Relationship Oriented Semantic Scene Understanding for Daily Manipulation Tasks
+# Multi-Robot Systems 1
+- Multi-Robot Unknown Area Exploration Using Frontier Trees
+- Min-Max Vertex Cycle Covers with Connectivity Constraints for Multi-Robot Patrolling
+- Efficient Range-Constrained Manifold Optimization with Application to Cooperative Navigation
+- On Coverage Control for Limited Range Multi-Robot Systems
+- Multi-Goal Multi-Agent Pickup and Delivery
+- Asynchronous Real-Time Decentralized Multi-Robot Trajectory Planning
+- Decentralized Learning with Limited Communications for Multi-Robot Coverage of Unknown Spatial Fields
+- Multi-Agent Path Planning Using Medial-Axis-Based Pebble-Graph Embedding
+- Multi-Modal User Interface for Multi-Robot Control in Underground Environments
+# Soft Sensors and Actuators 1
+- Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor
+- Estimation of Soft Robotic Bladder Compression for Smart Helmets Using IR Range Finding and Hall Effect Magnetic Sensing
+- Kirigami Skin Based Flexible Whisker Sensor
+- Design and Characterisation of a Soft Barometric Sensing Skin for Robotic Manipulation
+- A Virtual 2D Tactile Array for Soft Actuators Using Acoustic Sensing
+- Transferable Shape Estimation of Soft Pneumatic Actuators Based on Active Vibroacoustic Sensing
+- Shape Reconstruction of Soft Manipulators Using Vision and IMU Feedback
+- FBG-Based Variable-Length Estimation for Shape Sensing of Extensible Soft Robotic Manipulators
+- Soft-Skin Actuator Capable of Seawater Propulsion Based on MagnetoHydroDynamics
+# Path Planning for Multiple Mobile Robots and Agents 1
+- Collaborative Navigation-Aware Coverage in Feature-Poor Environments
+- Polynomial Time Near-Time-Optimal Multi-Robot Path Planning in Three Dimensions with Applications to Large-Scale UAV Coordination
+- Energy-Efficient Orienteering Problem in the Presence of Ocean Currents
+- MAPFASTER: A Faster and Simpler Take on Multi-Agent Path Finding Algorithm Selection
+- A Conflict-Driven Interface between Symbolic Planning and Nonlinear Constraint Solving
+- Scalable Online Coverage Path Planning for Multi-Robot Systems
+- DiMOpt: A Distributed Multi-Robot Trajectory Optimization Algorithm
+- Non-Submodular Maximization Via the Greedy Algorithm and the Effects of Limited Information in Multi-Agent Execution
+- Gathering Physical Particles with a Global Magnetic Field Using Reinforcement Learning
+# Transfer Learning
+- Contrastive Learning for Cross-Domain Open World Recognition
+- Efficient Multi-Task Learning Via Iterated Single-Task Transfer
+- MPR-RL: Multi-Prior Regularized Reinforcement Learning for Knowledge Transfer
+- Unsupervised Reinforcement Learning for Transferable Manipulation Skill Discovery
+- Subspace-Based Feature Alignment for Unsupervised Domain Adaptation
+- Using Simulation Optimization to Improve Zero-Shot Policy Transfer of Quadrotors
+- Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic Segmentation
+- Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation
+- Analysis of Randomization Effects on Sim2Real Transfer in Reinforcement Learning for Robotic Manipulation Tasks
+# Assembly and Additive Manufacturing
+- Additive Manufacturing for Tissue Engineering Applications in a Temperature-Controlled Environment
+- On CAD Informed Adaptive Robotic Assembly
+- Graph-Based Reinforcement Learning Meets Mixed Integer Programs: An Application to 3D Robot Assembly Discovery
+- Assembly Planning from Observations under Physical Constraints
+- Coordinated Toolpath Planning for Multi-Extruder Additive Manufacturing
+- A Hierarchical Finite-State Machine-Based Task Allocation Framework for Human-Robot Collaborative Assembly Tasks
+- Self-Stabilizing Self-Assembly
+- Flexible and Precision Snap-Fit Peg-In-Hole Assembly Based on Multiple Sensations and Damping Identification
+- A General Method for Autonomous Assembly of Arbitrary Parts in the Presence of Uncertainty
+# Motion and Path Planning 7
+- Fast-Replanning Motion Control for Non-Holonomic Vehicles with Aborting A*
+- Collision and Rollover-Free mathcal{G}^2 Path Planning for Mobile Manipulation
+- Fast 3D Sparse Topological Skeleton Graph Generation for Mobile Robot Global Planning
+- Learning Enabled Fast Planning and Control in Dynamic Environments with Intermittent Information
+- NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments
+- FISS: A Trajectory Planning Framework Using Fast Iterative Search and Sampling Strategy for Autonomous Driving
+- Reshaping Local Path Planner
+- T-PRM: Temporal Probabilistic Roadmap for Path Planning in Dynamic Environments
+- Hierarchical Planning with Annotated Skeleton Guidance
+# Legged Robots 1
+- Learning Coordinated Terrain-Adaptive Locomotion by Imitating a Centroidal Dynamics Planner
+- A Versatile Co-Design Approach for Dynamic Legged Robots
+- Motion Planning for Agile Legged Locomotion Using Failure Margin Constraints
+- Energy-Based Legged Robots Terrain Traversability Modeling Via Deep Inverse Reinforcement Learning
+- Robust High-Speed Running for Quadruped Robots Via Deep Reinforcement Learning
+- Toward a Data-Driven Template Model for Quadrupedal Locomotion
+- Planning of Obstacle-Aided Navigation for Multi-Legged Robots Using a Sampling-Based Method Over Directed Graphs
+- Real-Time Digital Double Framework to Predict Collapsible Terrains for Legged Robots
+- Adaptive Feet for Quadrupedal Walkers (I)
+# Art and Entertainment and Manipulation
+- Towards Learning to Play Piano with Dexterous Hands and Touch
+- Consensus-Based Normalizing-Flow Control: A Case Study in Learning Dual-Arm Coordination
+- Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement
+- Simultaneous Depth Estimation and Localization for Cell Manipulation Based on Deep Learning
+- Cooperative Object Manipulation under Signal Temporal Logic Tasks and Uncertain Dynamics
+- DrozBot: Using Ergodic Control to Draw Portraits
+- Visual Haptic Reasoning: Estimating Contact Forces by Observing Deformable Object Interactions
+- Tactile Feedback Enabling In-Hand Pivoting and Internal Force Control for Dual-Arm Cooperative Object Carrying
+- DUQIM-Net: Probabilistic Object Hierarchy Representation for Multi-View Manipulation
+# Aerial Systems 5
+- Downwash-Aware Control Allocation for Over-Actuated UAV Platforms
+- Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention
+- Unsteady Aerodynamic Modeling of Aerobat Using Lifting Line Theory and Wagner's Function
+- Design and Analysis of Truss Aerial Transportation System (TATS): The Lightweight Bar Spherical Joint Mechanism
+- SytaB: A Class of Smooth-Transition Hybrid Terrestrial/Aerial Bicopters
+- Real-Time Trajectory Planning for Aerial Perching
+- Dynamic Free-Space Roadmap for Safe Quadrotor Motion Planning
+- Obstacle Avoidance of Resilient UAV Swarm Formation with Active Sensing System in the Dense Environment
+- Autoexplorer: Autonomous Exploration of Unknown Environments Using Fast Frontier-Region Detection and Parallel Path Planning
+# Navigation Systems 6
+- Real-Time Visual Inertial Odometry with a Resource-Efficient Harris Corner Detection Accelerator on FPGA Platform
+- MPNP: Multi-Policy Neural Planner for Urban Driving
+- Contextual Tuning of Model Predictive Control for Autonomous Racing
+- Temporal Logic Path Planning under Localization Uncertainty
+- Navigating to Objects in Unseen Environments by Distance Prediction
+- Depth-CUPRL: Depth-Imaged Contrastive Unsupervised Prioritized Representations in Reinforcement Learning for Mapless Navigation of Unmanned Aerial Vehicles
+- DSOL: A Fast Direct Sparse Odometry Scheme
+- Planning for Negotiations in Autonomous Driving Using Reinforcement Learning
+- Towards Specialized Hardware for Learning-Based Visual Odometry on the Edge
+# Deep Learning for Visual Perception 1
+- MPT-Net: Mask Point Transformer Network for Large Scale Point Cloud Semantic Segmentation
+- Timestamp-Supervised Action Segmentation with Graph Convolutional Networks
+- CA-SpaceNet: Counterfactual Analysis for 6D Pose Estimation in Space
+- 3D Object Aided Self-Supervised Monocular Depth Estimation
+- DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-View Structure from Motion
+- Attention-Guided RGB-D Fusion Network for Category-Level 6D Object Pose Estimation
+- Robust Sim2Real 3D Object Classification Using Graph Representations and a Deep Center Voting Scheme
+- Weak6D: Weakly Supervised 6D Pose Estimation with Iterative Annotation Resolver
+- Robust Human Motion Forecasting Using Transformer-Based Model
+- Human-Robot Collaborative Carrying of Objects with Unknown Deformation Characteristics
+- A Framework for Robot Self-Assessment of Expected Task Performance
+- An Empirical Study of Reward Explanations with Human-Robot Interaction Applications
+- The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models
+- Sociable and Ergonomic Human-Robot Collaboration through Action Recognition and Augmented Hierarchical Quadratic Programming
+- Learning on the Job: Long-Term Behavioural Adaptation in Human-Robot Interactions
+- Bounded Rational Game-Theoretical Modeling of Human Joint Actions with Incomplete Information
+- COSM2IC: Optimizing Real-Time Multi-Modal Instruction Comprehension
+- Quantifying Changes in Kinematic Behavior of a Human-Exoskeleton Interactive System
+# Learning from Demonstration 3
+- Socially CompliAnt Navigation Dataset (SCAND): A Large-Scale Dataset of Demonstrations for Social Navigation
+- Learning Deformable Object Manipulation from Expert Demonstrations
+- Transporters with Visual Foresight for Solving Unseen Rearrangement Tasks
+- Learning Perceptual Concepts by Bootstrapping from Human Queries
+- Extending Extrapolation Capabilities of Probabilistic Motion Models Learned from Human Demonstrations Using Shape-Preserving Virtual Demonstrations
+- Learning High Speed Precision Table Tennis on a Physical Robot
+- Behaviour Learning with Adaptive Motif Discovery and Interacting Multiple Model
+- Learning from Demonstration Using a Curvature Regularized Variational Auto-Encoder (CurvVAE)
+- Constrained Probabilistic Movement Primitives for Robot Trajectory Adaptation (I)
+# Deep Learning for Visual Perception 2
+- Bayesian Active Learning for Sim-To-Real Robotic Perception
+- DiffCloud: Real-To-Sim from Point Clouds with Differentiable Simulation and Rendering of Deformable Objects
+- Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments
+- What's in the Black Box? the False Negative Mechanisms Inside Object Detectors
+- RVMOS: Range-View Moving Object Segmentation Leveraged by Semantic and Motion Features
+- Pseudo-Label Guided Cross-Video Pixel Contrast for Robotic SurgicalScene Segmentation with Limited Annotations
+- An Unsupervised Domain Adaptive Approach for Multimodal 2D Object Detection in Adverse Weather Conditions
+- BIMS-PU: Bi-Directional and Multi-Scale Point Cloud Upsampling
+- LiCaS3: A Simple LiDAR–Camera Self-Supervised Synchronization Method (I)
+# Machine Learning for Robot Control 2
+- Multiscale Sensor Fusion and Continuous Control with Neural CDEs
+- SMS-MPC: Adversarial Learning-Based Simultaneous Prediction Control with Single Model for Mobile Robots
+- Dynamic Inference on Graphs Using Structured Transition Models
+- Grasp Planning for Occluded Objects in a Confined Space with Lateral View Using Monte Carlo Tree Search
+- Non-Blocking Asynchronous Training for Reinforcement Learning in Real-World Environments
+- End-To-End Learning to Grasp Via Sampling from Object Point Clouds
+- Robot Skill Learning with Identification of Preconditions and Postconditions Via Level Set Estimation
+- Sex Parity in Cognitive Fatigue Model Development for Effective Human-Robot Collaboration
+- Online Adaptive Compensation for Model Uncertainty Using Extreme Learning Machine-Based Control Barrier Functions
+# Soft Robot Modeling and Control 2
+- Task-Space Control of Continuum Robots Using Underactuated Discrete Rod Models
+- Nonlinear Dynamics Modeling and Fault Detection for a Soft Trunk Robot: An Adaptive NN-Based Approach
+- Shape Representation and Modeling of Tendon-Driven Continuum Robots Using Euler Arc Splines
+- Geometrically-Exact Inverse Kinematic Control of Sof Manipulators with General Threadlike Actuators’ Routing
+- Quasi-Static FEA Model for a Multi-Material Soft Pneumatic Actuator in SOFA
+- Controlling Soft Fluidic Actuators Using Soft DEA-Based Valves
+- Omnidirectional Walking of a Quadruped Robot Enabled by Compressible Tendon-Driven Soft Actuators
+- Estimating Forces Along Continuum Robots
+- Learning Physics-Informed Simulation Models for Soft Robotic Manipulation: A Case Study with Dielectric Elastomer Actuators
+# SLAM 8
+- Detecting Invalid Map Merges in Lifelong SLAM
+- MD-SLAM: Multi-Cue Direct SLAM
+- Visual-Inertial Multi-Instance Dynamic SLAM with Object-Level Relocalisation
+- ACEFusion # Accelerated and Energy-Efficient Semantic 3D Reconstruction of Dynamic Scenes
+- A Spanning Tree-Based Multi-Resolution Approach for Pose-Graph Optimization
+- Situational Graphs for Robot Navigation in Structured Indoor Environments
+- PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-Based SLAM
+- Nested Sampling for Non-Gaussian Inference in SLAM Factor Graphs
+- City-Wide Street-To-Satellite Image Geolocalization of a Mobile Ground Agent
+# Rehabilitation Robotics
+- Soft Actuators for Facial Reanimation
+- Development and Experimental Evaluation of a Novel Portable Haptic Robotic Exoskeleton Glove System for Patients with Brachial Plexus Injuries
+- Development of a Novel Low-Profile Robotic Exoskeleton Glove for Patients with Brachial Plexus Injuries
+- A Novel Wheelchair-Exoskeleton Hybrid Robot to Assist Movement and Aid Rehabilitation
+- Facial Expressions-Controlled Flight Game with Haptic Feedback for Stroke Rehabilitation: A Proof-Of-Concept Study
+- An Intention Prediction Based Shared Control System for Point-To-Point Navigation of a Robotic Wheelchair
+- A Wearable System with Harmonic Oscillations to Assess Finger Biomechanics
+- Evaluation of TENS Based Biofeedback and Warning for Improvement of Seated Balance on a Trunk Rehabilitation Robot
+- Soft Robotic Fabric Actuator with Elastic Bands for High Force & Bending Performance in Hand Exoskeletons
+# Compliance and Impedance Control 2
+- Integrating Impedance Control and Nonlinear Disturbance Observer for Robot-Assisted Arthroscope Control in Elbow Arthroscopic Surgery
+- Reinforcement Learning of Impedance Policies for Peg-In-Hole Tasks: Role of Asymmetric Matrices
+- A Self-Tuning Impedance-Based Interaction Planner for Robotic Haptic Exploration
+- Probabilistic Approach to Online Stiffness Estimation for Robotic Tasks
+- Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control
+- On the Performance and Passivity of Admittance Control with Feed-Forward Input
+- Feel the Tension: Manipulation of Deformable Linear Objects in Environments with Fixtures Using Force Information
+- A Comparative Study of Force Observers for Accurate Force Control of Multisensor-Based Force Controlled Motion Systems
+- Bio-Inspired Grasping Controller for Sensorized 2-DoF Grippers
+# Software, Middleware and Programming Environments 2
+- Gazebo Fluids: SPH-Based Simulation of Fluid Interaction with Articulated Rigid Body Dynamics
+- SOCIALGYM: A Framework for Benchmarking Social Robot Navigation
+- SROS2: Usable Cyber Security Tools for ROS 2
+- Automatic Co-Design of Aerial Robots Using a Graph Grammar
+- ARviz – an Augmented Reality-Enabled Visualization Platform for ROS Applications (I)
+- A RoboStack Tutorial: Using the Robot Operating System Alongside the Conda and Jupyter Data Science Ecosystems (I)
+- Safe-Control-Gym: A Unified Benchmark Suite for Safe Learning-Based Control and Reinforcement Learning in Robotics
+- On-Device CPU Scheduling for Robot Systems
+# Whole-Body Motion Planning and Control 1
+- Whole-Body Control with Motion/Force Transmissibility for Parallel-Legged Robot
+- Recursive Hierarchical Projection for Whole-Body Control with Task Priority Transition
+- Multimodal Generation of Novel Action Appearances for Synthetic-To-Real Recognition of Activities of Daily Living
+- Learning a Group-Aware Policy for Robot Navigation
+- Feedback-Efficient Active Preference Learning for Socially Aware Robot Navigation
+- Watch Out! There May Be a Human. Addressing Invisible Humans in Social Navigation
+- Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion
+- Discover Life Skills for Planning As Bandits Via Observing and Learning How the World Works
+- An Optimal Motion Planning Framework for Quadruped Jumping
+# Intelligent Transportation Systems 1
+- Trajectory Prediction with Graph-Based Dual-Scale Context Fusion
+- IMU Dead-Reckoning Localization with RNN-IEKF Algorithm
+- A Value-Based Dynamic Learning Approach for Vehicle Dispatch in Ride-Sharing
+- Deep Kernel Learning for Uncertainty Estimation in Multiple Trajectory Prediction Networks
+- Development of a Research Testbed for Cooperative Driving in Mixed Traffic of Human-Driven and Autonomous Vehicles
+- Interventional Behavior Prediction: Avoiding Overly Confident Anticipation in Interactive Prediction
+- InterSim: Interactive Traffic Simulation Via Explicit Relation Modeling
+- Driving Anomaly Detection Using Contrastive Multiview Coding to Interpret Cause of Anomaly
+- TIP: Task-Informed Motion Prediction for Intelligent Vehicles
+# Semantic Scene Understanding 2
+- Hybrid Belief Pruning with Guarantees for Viewpoint-Dependent Semantic SLAM
+- Invariant-Based World Models for Robust Robotic Systems Demonstrated on an Autonomous Football Table
+- Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
+- Robust Visual Teach and Repeat for UGVs Using 3D Semantic Maps
+- Perceiving the Invisible: Proposal-Free Amodal Panoptic Segmentation
+- Meta-RangeSeg: LiDAR Sequence Semantic Segmentation Using Multiple Feature Aggregation
+- Receding Moving Object Segmentation in 3D LiDAR Data Using Sparse 4D Convolutions
+- Unsupervised Class-Agnostic Instance Segmentation of 3D LiDAR Data for Autonomous Vehicles
+- FedDrive: Generalizing Federated Learning to Semantic Segmentation in Autonomous Driving
+# Multi-Robot Systems 2
+- Collecting a Flock with Multiple Sub-Groups by Using Multi-Robot System
+- A Hybrid PSO Algorithm for Multi-Robot Target Search and Decision Awareness
+- Interactive Multi-Robot Aerial Cinematography through Hemispherical Manifold Coverage
+- Passive Multiuser Teleoperation of a Multirobot System with Connectivity-Preserving Containment (I)
+- PD-FAC: Probability Density Factorized Multi-Agent Distributional Reinforcement Learning for Multi-Robot Reliable Search
+- Cooperative Towing by Multi-Robot System That Maintains Welding Cable in Optimized Shape
+- Impressionist Algorithms for Autonomous Multi-Robot Systems: Flocking As a Case Study
+- Decentralized Multi-Robot Velocity Estimation for UAVs Enhancing Onboard Camera-Based Velocity Measurements
+- Autonomous Service Robots for Urban Waste Management # Multiagent Route Planning and Cooperative Operation
+# Soft Sensors and Actuators 2
+- Mechanically Programmable Jamming Based on Articulated Mesh Structures for Variable Stiffness Robots
+- Electroadhesive Clutches for Programmable Shape Morphing of Soft Actuators
+- Modeling and Position Control of the HASEL Actuator Via Port-Hamiltonian Approach
+- Motion Tracking Smart Work Suit with a Modular Joint Angle Sensor Using Screw Routing
+- 3D Curvature-Based Tip Load Estimation for Continuum Robots
+- Optimizing Out-Of-Plane Stiffness for Soft Grippers
+- Wire-Storage Pantograph Mechanism for Strain and Force Amplification of a Twisted and Coiled Polymer Fiber
+- Vision-Based Sensing for Electrically-Driven Soft Actuators
+- FEA-Based Inverse Kinematic Control: Hyperelastic Material Characterization of Self-Healing Soft Robots (I)
+# Path Planning for Multiple Mobile Robots and Agents 2
+- Planning with Intermittent State Observability: Knowing When to Act Blind
+- Selecting the Partial State Abstractions of MDPs: A Metareasoning Approach with Deep Reinforcement Learning
+- Adaptive Online Sampling of Periodic Processes with Application to Coral Reef Acoustic Abundance Monitoring
+- Learning Coordination Policies Over Heterogeneous Graphs for Human-Robot Teams Via Recurrent Neural Schedule Propagation
+- Deep Reinforcement Learning Based Robot Navigation in Dynamic Environments Using Occupancy Values of Motion Primitives
+- A Polynomial Time Approximation Scheme for the Scheduling Problem in the AGV System
+- Fast and Compute-Efficient Sampling-Based Local Exploration Planning Via Distribution Learning
+- DC-MRTA: Decentralized Multi-Robot Task Allocation and Navigation in Complex Environments
+- Prioritized Safe Interval Path Planning for Multi-Agent Pathfinding with Continuous Time on 2D Roadmaps
+# Optimization and Optimal Control 1
+- Simulation Aided Co-Design for Robust Robot Optimization
+- Reference Acceleration Model Predictive Control (RA-MPC) for Cable-Driven Robots
+- CARLA Simulator-Based Evaluation Framework Development of Lane Detection Accuracy Performance under Sensor Blockage Caused by Heavy Rain for Autonomous Vehicle
+- Planning under Periodic Observations: Bounds and Bounding-Based Solutions
+- Real-Time Predictive Kinematics Control of Redundancy: A Benchmark of Optimal Control Approaches
+- Automatic Generation of Optimization Model Using Process Mining and Petri Nets for Optimal Motion Planning of 6-DOF Manipulators
+- Physically Consistent Lie Group Mesh Models for Robot Design and Motion Co-Optimization
+- Analytical Second-Order Partial Derivatives of Rigid-Body Inverse Dynamics
+- High-Speed Accurate Robot Control Using Learned Forward Kinodynamics and Non-Linear Least Squares Optimization
+# Bimanual and In-Hand Manipulation
+- Kinesthetic Teaching of Bi-Manual Tasks with Known Relative Constraints
+- Transferring Dexterous Manipulation from GPU Simulation to a Remote Real-World TriFinger
+- A System for Imitation Learning of Contact-Rich Bimanual Manipulation Policies
+- Optical Proximity Sensing for Pose Estimation During In-Hand Manipulation
+- E-TRoll: Tactile Sensing and Classification Via a Simple Robotic Gripper for Extended Rolling Manipulations
+- Variable Friction Based In-Hand Manipulation of Fabrics Applied to Unfolding Operations
+- A Target-Guided Telemanipulation Architecture for Assisted Grasping
+- DA^2 Dataset: Toward Dexterity-Aware Dual-Arm Grasping
+- A Shared Autonomy Reconfigurable Control Framework for Telemanipulation of Multi-Arm Systems
+# Motion and Path Planning 8
+- Generating Safe Corridors Roadmap for Urban Air Mobility
+- Explainable Robotic Plan Execution Monitoring under Partial Observability (I)
+- Sampling-Based View Planning for MAVs in Active Visual-Inertial State Estimation
+- Maximizing the Probability of Task Completion for Redundant Robots Experiencing Locked Joint Failures (I)
+- Dynamic Compressed Sensing of Unsteady Flows with a Mobile Robot
+- Adaptive Coverage Path Planning for Efficient Exploration of Unknown Environments
+- Path Planning and Energy Management of Hybrid Air Vehicles for Urban Air-Mobility
+- Informative Path Planning for Active Learning in Aerial Semantic Mapping
+- Towards Autonomous Grading in the Real World
+# Legged Robots 2
+- Vastus and Gastrocnemius Improve Hopping Efficiency and Joints Synchronicity at Different Frequencies: A Robotic Study
+- Animal Motions on Legged Robots Using Nonlinear Model Predictive Control
+- Improved Performance of CPG Parameter Inference for Path-Following Control of Legged Robots
+- Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control
+- Contact-Implicit Differential Dynamic Programming for Model Predictive Control with Relaxed Complementarity Constraints
+- Robust Predictive Control for Quadrupedal Locomotion: Learning to Close the Gap between Reduced and Full-Order Models
+- Contact-Timing and Trajectory Optimization for 3D Jumping on Quadruped Robots
+- Improved Control Scheme for the Solo Quadruped and Experimental Comparison of Model Predictive Controllers
+- The Geometry of Optimal Gaits for Inertia-Dominated Kinematic Systems (I)
+# Task Planning
+- Optimal Constrained Task Planning As Mixed Integer Programming
+- Extended Time Dependent Vehicle Routing Problem for Joint Task Allocation and Path Planning in Shared Space
+- Multi-Objective Task Allocation for Multi-Agent Systems Using Hierarchical Cost Function
+- Probabilistic Planning for AUV Data Harvesting from Smart Underwater Sensor Networks
+- Efficient Task/Motion Planning for a Dual-Arm Robot from Language Instructions and Cooking Images
+- Clustering Trust Dynamics in a Human-Robot Sequential Decision-Making Task
+- Behavior-Tree Embeddings for Robot Task-Level Knowledge
+- Can We Reach Human Expert Programming Performance? a Tactile Manipulation Case Study in Learning Time and Task Performance
+- Data-Driven Abstractions for Robots with Stochastic Dynamics (I)
+# Aerial Systems 6
+- Linear and Nonlinear Model Predictive Control Strategies for Trajectory Tracking Micro Aerial Vehicles: A Comparative Study
+- Design and Trajectory Tracking Control of a New Bi-Copter UAV
+- Local Perception-Aware Transformer for Aerial Tracking
+- End-To-End Feature Decontaminated Network for UAV Tracking
+- Blind As a Bat: Audible Echolocation on Small Robots
+- HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking
+- Drone with Pneumatic-Tethered Suction-Based Perching Mechanism for High Payload Application
+- Geometrically Constrained Trajectory Optimization for Multicopters (I)
+- Robust Trajectory Planning for Spatial-Temporal Multi-Drone Coordination in Large Scenes
+# Navigation Systems 7
+- Dynamic-GAN: Learning Spatial-Temporal Attention for Dynamic Object Removal in Feature Dense Environments
+- Heterogeneous-Agent Trajectory Forecasting Incorporating Class Uncertainty
+- Lifelong Topological Visual Navigation
+- D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR SLAM in Complicated Circumstances with Noisy Point Clouds
+- State Dropout-Based Curriculum Reinforcement Learning for Self-Driving at Unsignalized Intersections
+- Vehicle Type Specific Waypoint Generation
+- Autonomous Navigation of AGVs in Unknown Cluttered Environments: Log-MPPI Control Strategy
+- Cross-Modal Fusion-Based Prior Correction for Road Detection in Off-Road Environments
+- InterFusion: Interaction-Based 4D Radar and Lidar Fusion for 3D Object Detection
+# Prosthetics and Exoskeletons 1
+- Experimental Assessment of a Control Strategy for Locomotion Assistance Relying on Simplified Motor Primitives
+- Design of EMG-Driven Musculoskeletal Model for Volitional Control of a Robotic Ankle Prosthesis
+- Visual Environment Perception for Obstacle Detection and Crossing of Lower-Limb Exoskeletons
+- Unilateral Stiffness Modulation with a Robotic Hip Exoskeleton Elicits Adaptation During Gait
+- A Piecewise Monotonic Smooth Phase Variable for Speed-Adaptation Control of Powered Knee-Ankle Prostheses
+- Imposing Healthy Hip Movement Pattern and Range by Exoskeleton Control for Individualized Assistance
+- Characterizing Prosthesis Control Fault During Human-Prosthesis Interactive Walking Using Intrinsic Sensors
+- A Piecewise Monotonic Gait Phase Estimation Model for Controlling a Powered Transfemoral Prosthesis in Various Locomotion Modes
+- Understanding Modulation of Ankle Stiffness During Stance Phase of Walking on Different Environments and Its Implications for the Design of Impedance Controllers
+# Aerial Systems 7
+- Robust and Efficient Velocity Estimation for MAVs with an RGB-D Camera
+- Geometric MPC Techniques for Reduced Attitude Control on Quadrotors with Bidirectional Thrust
+- Tightly-Coupled EKF-Based Radar-Inertial Odometry
+- Accurate Vision-Based Flight with Fixed-Wing Drones
+- Autonomous Quadrotor Landing on Inclined Surfaces in High Particle Environments Using Radar Sensor Perception
+- Retro-RL: Reinforcing Nominal Controller with Deep Reinforcement Learning for Tilting-Rotor Drones
+- TAPE: Tether-Aware Path Planning for Autonomous Exploration of Unknown 3D Cavities Using a Tangle-Compatible Tethered Aerial Robot
+- Sweep-Your-Map: Efficient Coverage Planning for Aerial Teams in Large-Scale Environments
+- Predicting Visual Differentiability for Unmanned Aerial Vehicle Gestures
+# Learning from Experience
+- Robot Task Learning with Motor Babbling Using Pseudo Rehearsal
+- Continual Learning in Real-Life Applications
+- Autonomous Cycle Time Reduction of Robotic Tasks Using Iterative Learning Control
+- Medical Ultrasound Image Quality Assessment for Autonomous Robotic Screening
+- Self-Supervised Traversability Prediction by Learning to Reconstruct Safe Terrain
+- SafeAPT: Safe Simulation-To-Real Robot Learning Using Diverse Policies Learned in Simulation
+- Self-Supervised Learning of Visual Servoing for Low-Rigidity Robots Considering Temporal Body Changes
+- Safe Adaptation in Multiagent Competition
+- Learning Pneumatic Non-Prehensile Manipulation with a Mobile Blower
+# Deep Learning Methods
+- PUA-MOS: End-To-End Point-Wise Uncertainty Weighted Aggregation for Moving Object Segmentation
+- Grounding Commands for Autonomous Vehicles Via Layer Fusion with Region-Specific Dynamic Layer Attention
+- Neural-Guided Runtime Prediction of Planners for Improved Motion and Task Planning with Graph Neural Networks
+- OpenDR: An Open Toolkit for Enabling High Performance, Low Footprint Deep Learning for Robotics
+- FloorGenT: Generative Vector Graphic Model of Floor Plans for Robotics
+- Robot Motion Planning As Video Prediction: A Spatio-Temporal Neural Network-Based Motion Planner
+- Adversarial Attacks on Monocular Pose Estimation
+- Don’t Share My Face: Privacy Preserving Inpainting for Visual Localization
+- Torque Control of Hydraulic Pressure Servo Valve Driven Actuator with Deep Neural Network
+# AI-Enabled Robotics
+- SGL: Symbolic Goal Learning in a Hybrid, Modular Framework for Human Instruction Following
+- Towards Defensive Autonomous Driving: Collecting and Probing Driving Demonstrations of Mixed Qualities
+- TAE: A Semi-Supervised Controllable Behavior-Aware Trajectory Generator and Predictor
+- Visual-Tactile Sensing for Real-Time Liquid Volume Estimation in Grasping
+- Comparing Reconstruction and Contrastive-Based Models for Visual Task Planning
+- Learning Object-Based State Estimators for Household Robots
+- Deep Residual Reinforcement Learning Based Autonomous Blimp Control
+- Semantic Grasping Via a Knowledge Graph of Robotic Manipulation: A Graph Representation Learning Approach
+- 3D Part Assembly Generation with Instance Encoded Transformer
+# Soft Robot Modeling and Control 3
+- Continuum-Body-Pose Estimation from Partial Sensor Information Using Recurrent Neural Networks
+- Sim2Real for Soft Robotic Fish Via Differentiable Simulation
+- An Experimental Validation of the Polynomial Curvature Model: Identification and Optimal Control of a Soft Underwater Tentacle
+- Collision-Aware Fast Simulation for Soft Robots by Optimization-Based Geometric Computing
+- Model-Based Design Optimization of Underwater Flagellate Propellers
+- Prismatic Soft Actuator Augments the Workspace of Soft Continuum Robots
+- Hybrid Eye-In-Hand/Eye-To-Hand Image Based Visual Servoing for Soft Continuum Arms
+- Using R-Functions to Control the Shape of Soft Robots
+# Cellular, Modular and Cooperating Robots
+- RePoSt: Distributed Self-Reconfiguration Algorithm for Modular Robots Based on Porous Structure
+- Selective Self-Assembly Using Re-Programmable Magnetic Pixels
+- Physical Neural Cellular Automata for 2D Shape Classification
+- Multi-Modal Multi-Agent Optimization for LIMMS, a Modular Robotics Approach to Delivery Automation
+- Design, Modeling and Control of a Composable and Extensible Drone with Tilting Rotors
+- Robotic Parasitic Array Control for Increased RSS in Non-Line-Of-Sight
+- Modular Robot Networking: A Novel Schema and Its Performance Assessment
+- Coordinated Multi-Agent Exploration, Rendezvous, & Task Allocation in Unknown Environments with Limited Connectivity
+- Multi-AGV's Temporal Memory-Based RRT Exploration in Unknown Environment
+# Prosthetics and Exoskeletons 2
+- A Novel Method for Detecting Misclassifications of the Locomotion Mode in Lower-Limb Exoskeleton Robot Control
+- Sample-Efficient Policy Adaptation for Exoskeletons under Variations in the Users and the Environment
+- Deep-Learning to Map a Benchmark Dataset of Non-Amputee Ambulation for Controlling an Open Source Bionic Leg
+- Continuous Locomotion Mode Recognition and Gait Phase Estimation Based on a Shank-Mounted IMU with Artificial Neural Networks
+- Biomechanical Design Optimization of Passive Exoskeletons through Surrogate Modeling on Industrial Activity Data
+- Application of Piece-Wise Constant Strain Model to Flexible Deformation Calculation of Sports Prosthesis and Stiffness Estimation
+- Real-Time Locomotion Recognition Algorithm for an Active Pelvis Orthosis to Assist Lower-Limb Amputees
+- Predictive Locomotion Mode Recognition and Accurate Gait Phase Estimation for Hip Exoskeleton on Various Terrains
+- Simultaneous Gesture Classification and Speed Control for Myoelectric Prosthetic Hand Using Joint-Loss Neural Network
+# Robust/Adaptive Control
+- Unbiased Active Inference for Classical Control
+- Plane-To-Plane Positioning by Proximity-Based Control
+- Safe Control Synthesis with Uncertain Dynamics and Constraints
+- Robust and Decoupled Position and Stiffness Control for Electrically-Driven Articulated Soft Robots
+- Battle the Wind: Improving Flight Stability of a Flapping Wing Micro Air Vehicle under Wind Disturbance with Onboard Thermistor-Based Airflow Sensing
+- Robust Stabilization of Elastic Joint Robots by ESP and PID Control: Theory and Experiments
+- An Adaptive Approach to Whole-Body Balance Control of Wheel-Bipedal Robot Ollie
+- An Optimal Dynamic Control Method for Manipulators with Virtual Links
+- Constrained Imitation Learning for a Flapping Wing Unmanned Aerial Vehicle
+# Calibration and Robot Safety
+- CROON: Automatic Multi-LiDAR Calibration and Refinement Method in Road Scene
+- Geometric Calibration of Single-Pixel Distance Sensors
+- Data-Driven Kalman Filter with Kernel-Based Koopman Operators for Nonlinear Robot Systems
+- High Precision and Robust Camera Calibration under Learning-Based Distortion Correction and Feature Detection
+- Extrinsic Camera Calibration from a Moving Person
+- A Barrier-Based Scenario Approach to Verifying Safety-Critical Systems
+- Quantifying Safety of Learning-Based Self-Driving Control Using Almost-Barrier Functions
+- A Task-Based Post-Impact Safety Protocol Based on Energy Tanks
+- Scalable Safety-Critical Policy Evaluation with Accelerated Rare Event Sampling
+- Multi-Contact Whole-Body Motion Planning and Control
+- Deep Active Visual Attention for Real-Time Robot Motion Generation: Emergence of Tool-Body Assimilation and Adaptive Tool-Use
+- Automatic Tuning and Selection of Whole-Body Controllers
+- Learning to Guide Online Multi-Contact Receding Horizon Planning
+- Real-Time Footstep Planning and Control of the Solo Quadruped Robot in 3D Environments
+- Modeling, Analysis and Activation of Planar Viscoelastically-Combined Rimless Wheels
+- Minor Change, Major Gains II: Are Maximal Coordinates the Fastest Choice for Trajectory Optimization?
+- Centroidal Trajectory Generation and Stabilization Based on Preview Control for Humanoid Multi-Contact Motion
+- Integration of Variable-Height and Hopping Strategies for Humanoid Push Recovery
+- Learning Agile Hybrid Whole-Body Motor Skills for Thruster-Aided Humanoid Robots
+# Intelligent Transportation Systems 2
+- Active Mapping Via Gradient Ascent Optimization of Shannon Mutual Information Over Continuous SE(3) Trajectories
+- A Framework for Optimized Topology Design and Leader Selection in Affine Formation Control
+- Contextual Driving Scene Perception from Anonymous Vehicle Bus Data for Automotive Applications
+- Efficient Game-Theoretic Planning with Prediction Heuristic for Socially-Compliant Autonomous Driving
+- Self-Supervised Scene Flow Estimation with 4-D Automotive Radar
+- Domain Knowledge Driven Pseudo Labels for Interpretable Goal-Conditioned Interactive Trajectory Prediction
+- ACHORD: Communication-Aware Multi-Robot Coordination with Intermittent Connectivity
+- Detecting Adversarial Perturbations in Multi-Task Perception
+- Recognition Beyond Perception: Environmental Model Completion by Reasoning for Occluded Vehicles
+# Data Sets for Robotic Vision
+- ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception
+- EVOPS Benchmark: Evaluation of Plane Segmentation from RGBD and LiDAR Data
+- 6-DoF Pose Estimation of Household Objects for Robotic Manipulation: An Accessible Dataset and Benchmark
+- Realism Assessment for Synthetic Images in Robot Vision through Performance Characterization
+- Danish Airs and Grounds: A Dataset for Aerial-To-Street-Level Place Recognition and Localization
+- Object Pose Estimation Using Mid-Level Visual Representations
+- Grasp Pre-Shape Selection by Synthetic Training: Eye-In-Hand Shared Control on the Hannes Prosthesis
+- Sequential Thermal Image-Based Adult and Baby Detection Robust to Thermal Residual Heat Marks
+- IndoLayout: Leveraging Attention for Extended Indoor Layout Estimation from an RGB Image
+# Autonomous Agents
+- A Biologically-Inspired Simultaneous Localization and Mapping System Based on LiDAR Sensor
+- Cola-HRL: Continuous-Lattice Hierarchical Reinforcement Learning for Autonomous Driving
+- Visibility-Inspired Models of Touch Sensors for Navigation
+- Factorization of Dynamic Games Over Spatio-Temporal Resources
+- Handling Non-Convex Constraints in MPC-Based Humanoid Gait Generation
+- Low-Drift LiDAR-Only Odometry and Mapping for UGVs in Environments with Non-Level Roads
+- Stochastic Games with Stopping States and Their Application to Adversarial Motion Planning Problems
+- BOBCAT: Behaviors, Objectives and Binary States for Coordinated Autonomous Tasks
+- ATF-3D: Semi-Supervised 3D Object Detection withAdaptive Thresholds Filtering Based on Confidenceand Distance
 # Actuation and Joint Mechanisms
-- [Design and Experimental Investigation of a Vibro-Impact Self-Propelled Capsule Robot with Orientation Control](https://events.infovaya.com/presentation?id=80527)
-- [A Novel Triad Twisted String Actuator for Controlling a Two Degrees of Freedom Joint: Design and Experimental Validation](https://events.infovaya.com/presentation?id=80530)
-- [Experimental Validation of the Usage of Kinematic Singularities to Produce Periodic High-Powered Motion](https://events.infovaya.com/presentation?id=80536)
-- [Q & A](https://events.infovaya.com/presentation?id=81403)
-- [A Passively Adaptable Toroidal Continuously Variable Transmission Combined with Twisted String Actuator](https://events.infovaya.com/presentation?id=80539)
-- [Design Exploration and Experimental Characterization of a 6 Degrees-Of-Freedom Robotic Manipulator Powered by Cable-Driven Semi-Delocalized Magnetorheological Actuators](https://events.infovaya.com/presentation?id=80542)
-- [Macro-Mini Linear Actuator Using Electrorheological-Fluid Brake for Impedance Modulation in Physical Human-Robot Interaction](https://events.infovaya.com/presentation?id=80545)
-- [A Continuum Robot Surface of Woven, McKibben Muscles Embedded in and Giving Shape to Rooms](https://events.infovaya.com/presentation?id=80548)
-- [Hydraulic Servo Booster for Serially Configured Modular Robots](https://events.infovaya.com/presentation?id=80551)
-- [A Magnetorheological Fluid-Based Damper towards Increased Biomimetism in Soft Robotic Actuators](https://events.infovaya.com/presentation?id=80554)
-- [Active-Type Continuously Variable Transmission System Based on a Twisted String Actuator](https://events.infovaya.com/presentation?id=80557)
-- [ABENICS: Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Meshings](https://events.infovaya.com/presentation?id=80560)
-# Control
-- [Multi-Agent Dynamic Ergodic Search with Low-Information Sensors](https://events.infovaya.com/presentation?id=80563)
-- [Self-Supervised Online Learning for Safety-Critical Control Using Stereo Vision](https://events.infovaya.com/presentation?id=80566)
-- [A Graph-Based Approach to Boundary Estimation with Mobile Sensors](https://events.infovaya.com/presentation?id=80569)
-- [Real-Time Non-Visual Shape Estimation and Robotic Dual-Arm Manipulation Control of an Elastic Wire](https://events.infovaya.com/presentation?id=80572)
-- [Combining Planning and Learning of Behavior Trees for Robotic Assembly](https://events.infovaya.com/presentation?id=80575)
-- [RE: BT-Espresso: Improving Interpretability and Expressivity of Behavior Trees Learned from Robot Demonstrations](https://events.infovaya.com/presentation?id=80578)
-- [Safe Learning-Based Feedback Linearization Tracking Control for Nonlinear System with Event-Triggered Model Update](https://events.infovaya.com/presentation?id=80581)
-- [Reinforcement Learning As a Method for Tuning CPG Controllers for Underwater Multi-Fin Propulsion](https://events.infovaya.com/presentation?id=80584)
-- [Goal-Driven Autonomous Exploration through Deep Reinforcement Learning](https://events.infovaya.com/presentation?id=80587)
-- [A Colored Petri Net Model for Control Problem of Border Crossing under Constraints](https://events.infovaya.com/presentation?id=80590)
-- [Precision Motion Control of Robotized Industrial Hydraulic Excavators Via Data-Driven Model Inversion](https://events.infovaya.com/presentation?id=80593)
-- [Characterizing Trust and Resilience in Distributed Consensus for Cyberphysical Systems](https://events.infovaya.com/presentation?id=80596)
+- Adaptative Friction Shock Absorbers and Reverse Thrust for Fast Multirotor Landing on Inclined Surfaces
+- DeltaZ: An Accessible Compliant Delta Robot Manipulator for Research and Education
+- Jumping on Air: Design and Modeling of Latch-Mediated, Spring-Actuated Air-Jumpers
+- Anisotropic-Stiffness Belt in Mono Wheeled Flexible Track for Rough Terrain Locomotion
+- Wave-Shaped Notched Compliant Joint with High Rigidity
+- A Methodology for Designing a Lightweight and Energy-Efficient Kinematically Redundant Actuator
+- An In-Pipe Crawling Robot Based on Tensegrity Structures
+- Vertical Bend and T-Branch Travels of an Articulated Wheeled In-Pipe Inspection Robot by Combining Its Joint Angle and Torque Controls
+# Sensor Systems
+- Learned Depth Estimation of 3D Imaging Radar for Indoor Mapping
+- Mind the Gap: Norm-Aware Adaptive Robust Loss for Multivariate Least-Squares Problems
+- Patchwork++: Fast and Robust Ground Segmentation Solving Partial Under-Segmentation Using 3D Point Cloud
+- Linewise Non-Rigid Point Cloud Registration
+- A LiDAR-Inertial Odometry with Principled Uncertainty Modeling
+- DeepCIR: Insights into CIR-Based Data-Driven UWB Error Mitigation
+- From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM
+- Combined Dual-Prediction Based Data Fusion and Enhanced Leak Detection and Isolation Method for WSN Pipeline Monitoring System (I)
+- Upper Limb Movement Estimation and Function Evaluation of the Shoulder Girdle by Multi-Sensing Flexible Sensor Wear
+# Optimization and Optimal Control 2
+- A Legendre-Gauss Pseudospectral Collocation Method for Trajectory Optimization in Second Order Systems
+- An Equivalent Time-Optimal Problem to Find Energy-Optimal Paths for Skid-Steer Rovers
+- Visibility-Aware Navigation with Batch Projection Augmented Cross-Entropy Method Over a Learned Occlusion Cost
+- Refining Control Barrier Functions through Hamilton-Jacobi Reachability
+- Newton-PnP: Real-Time Visual Navigation for Autonomous Toy-Drones
+- Constrained Differential Dynamic Programming: A Primal-Dual Augmented Lagrangian Approach
+- Introducing Force Feedback in Model Predictive Control
+- Toward Global Sensing Quality Maximization: A Configuration Optimization Scheme for Camera Networks
+- Embedding Koopman Optimal Control in Robot Policy Learning
+# Behavior-Based Systems
+- HGCN-GJS: Hierarchical Graph Convolutional Network with Groupwise Joint Sampling for Trajectory Prediction
+- Teaching Robots to Span the Space of Functional Expressive Motion
+- Manual Maneuverability: Metrics for Analysing and Benchmarking Kinesthetic Robot Guidance
+- Learning Bidirectional Translation between Descriptions and Actions with Small Paired Data
+- Generalizability Analysis of Graph-Based Trajectory Predictor with Vectorized Representation
+- CreativeBot: A Creative Storyteller Agent Developed by Leveraging Pre-Trained Language Models
+- Adaptive Sequential Composition for Robot Behaviours
+- Collective Conditioned Reflex: A Bio-Inspired Fast Emergency Reaction Mechanism for Designing Safe Multi-Robot Systems
+- Use of Action Label in Deep Predictive Learning for Robot Manipulation
+# Motion and Path Planning 9
+- Safe Active Dynamics Learning and Control: A Sequential Exploration-Exploitation Framework (I)
+- Fast Cost-Aware Lazy-Theta* Over Euclidean Distance Functions for 3D Planning of Aerial Robots in Building-Like Environments
+- Conflict-Based Search for Multi-Robot Motion Planning with Kinodynamic Constraints
+- Motion Planning by Search in Derivative Space and Convex Optimization with Enlarged Solution Space
+- From Low to High Order Motion Planners: Safe Robot Navigation Using Motion Prediction and Reference Governor
+- Hierarchical Planning through Goal-Conditioned Offline Reinforcement Learning
+- Learning Minimum Time Flight in Cluttered Environments
+- NFOMP: Neural Field for Optimal Motion Planner of Differential Drive Robots with Nonholonomic Constraints
+- Db-A*: Discontinuity-Bounded Search for Kinodynamic Mobile Robot Motion Planning
+# Legged Robots 3
+- Auto-Tuning of Controller and Online Trajectory Planner for Legged Robots
+- An Online Interactive Approach for Crowd Navigation of Quadrupedal Robots
+- Simultaneous Contact-Rich Grasping and Locomotion Via Distributed Optimization Enabling Free-Climbing for Multi-Limbed Robots
+- Vision-Assisted Localization and Terrain Reconstruction with Quadruped Robots
+- Improved Task Space Locomotion Controller for a Quadruped Robot with Parallel Mechanisms
+- Feasible Wrench Set Computation for Legged Robots
+- Online Kinematic Calibration for Legged Robots
+- Collision Detection and Identification for a Legged Manipulator
+- Bio-Inspired Rhythmic Locomotion for Quadruped Robots
+# Constrained Motion Planning
+- Predictive Angular Potential Field-Based Obstacle Avoidance for Dynamic UAV Flights
+- Avoiding Dynamic Obstacles with Real-Time Motion Planning Using Quadratic Programming for Varied Locomotion Modes
+- CoMBiNED: Multi-Constrained Model Based Planning for Navigation in Dynamic Environments
+- A Saturation-Aware Trajectory-Based Explicit Reference Governor for a Robotic Arm
+- Time-Optimal Online Replanning for Agile Quadrotor Flight
+- Collision Detection for Unions of Convex Bodies with Smooth Boundaries Using Closed-Form Contact Space Parameterization
+- Trajectory Planning for UAVs Based on Interfered Fluid Dynamical System and Bézier Curves
+- Time-Optimal Trajectory Planning with Interaction with the Environment
+- Obstacle Aware Sampling for Path Planning
+# Multi-Robot Systems 3
+- Distributed Ranging SLAM for Multiple Robots with Ultra-WideBand and Odometry Measurements
+- MT*: Multi-Robot Path Planning with Temporal Logic Specification
+- Meeting-Merging-Mission: A Multi-Robot Coordinate Framework for Large-Scale Communication-Limited Exploration
+- Communication-Preserving Bids in Market-Based Task Allocation
+- Toolbox Release: A WiFi-Based Relative Bearing Framework for Robotics
+- Multi-Robot Dynamic Swarm Disablement
+- Attention-Based Population-Invariant Deep Reinforcement Learning for Collision-Free Flocking with a Scalable Fixed-Wing UAV Swarm
+- Multi-UAV Cooperative Short-Range Combat Via Attention-Based Reinforcement Learning Using Individual Reward Shaping
+- Vision-Based Distributed Multi-UAV Collision Avoidance Via Deep Reinforcement Learning for Navigation
+# Path Planning for Multiple Mobile Robots and Agents 3
+- Sequence-Of-Constraints MPC: Reactive Timing-Optimal Control of Sequential Manipulation
+- RHH-LGP: Receding Horizon and Heuristics-Based Logic-Geometric Programming for Task and Motion Planning
+- FC3: Feasibility-Based Control Chain Coordination
+- Inspection of Ship Hulls with Multiple UAVs: Exploiting Prior Information for Online Path Planning
+- Collision-Free Minimum-Time Trajectory Planning for Multiple Vehicles Based on ADMM
+- Collaborative Navigation and Manipulation of a Cable-Towed Load by Multiple Quadrupedal Robots
+- AB-Mapper: Attention and BicNet Based Multi-Agent Path Planning for Dynamic Environment
+- Graph Embedding for Multi-Robot Path Planning in Complex Environments
+- Artificial Learning for Part Identification in Robotic Disassembly through Automatic Rule Generation in an Ontology (I)
+- 
