@@ -19,7 +19,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Learning Sequential Descriptors for Sequence-Based Visual Place Recognition
 - DCPCR: Deep Compressed Point Cloud Registration in Large-Scale Outdoor Environments
 - Deep Koopman Operator with Control for Nonlinear Systems
-- Service Robotics
+# Service Robotics
 - An Autonomous Descending-Stair Cleaning Robot with RGB-D Based Detection, Approaching, and Area Coverage Process
 - Non-Parametric Modeling of Spatio-Temporal Human Activity Based on Mobile Robot Observations
 - Service Robots in a Bakery Shop: A Field Study
@@ -39,7 +39,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Uncertainty-Aware Manipulation Planning Using Gravity and Environment Geometry
 - Goal-Driven Robotic Pushing Using Tactile and Proprioceptive Feedback (I)
 - Learning to Fold Real Garments with One Arm: A Case Study in Cloud-Based Robotics Research
-- Computer Vision for Transportation
+# Computer Vision for Transportation
 - Multi-Sensor Data Annotation Using Sequence-Based Active Learning
 - 3D Single-Object Tracking with Spatial-Temporal Data Association
 - Instance-Aware Multi-Object Self-Supervision for Monocular Depth Prediction
@@ -97,7 +97,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Perception of Mechanical Properties Via Wrist Haptics: Effects of Feedback Congruence
 - Haptic Feedback Relocation from the Fingertips to the Wrist for Two-Finger Manipulation in Virtual Reality
 - Feeling the Pressure: The Influence of Vibrotactile Patterns on Feedback Perception
-- Human Factors and Human-In-The-Loop
+# Human Factors and Human-In-The-Loop
 - SPARCS: Structuring Physically Assistive Robotics for Caregiving with Stakeholders-In-The-Loop
 - To Ask for Help or Not to Ask: A Predictive Approach to Human-In-The-Loop Motion Planning for Robot Manipulation Tasks
 - You Are in My Way: Non-Verbal Social Cues for Legible Robot Navigation Behaviors
@@ -146,7 +146,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Improving Worst Case Visual Localization Coverage Via Place-Specific Sub-Selection in Multi-Camera Systems
 - Hybrid Interval-Probabilistic Localization in Building Maps
 - Online Target Localization Using Adaptive Belief Propagation in the HMM Framework
-- Representation Learning
+# Representation Learning
 - Reshaping Robot Trajectories Using Natural Language Commands: A Study of Multi-Modal Data Alignment Using Transformers
 - DreamingV2: Reinforcement Learning with Discrete World Models without Reconstruction
 - Playful Interactions for Representation Learning
@@ -156,7 +156,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - MO-Transformer: A Transformer-Based Multi-Object Point Cloud Reconstruction Network
 - Self-Supervised Feature Learning from Partial Point Clouds Via Pose Disentanglement
 - Efficiently Learning Manipulations by Selecting Structured Skill Representations
-- Automation and Robotics at Micro-Nano Scales
+# Automation and Robotics at Micro-Nano Scales
 - Hierarchical Learning and Control for In-Hand Micromanipulation Using Multiple Laser-Driven Micro-Tools
 - A Micro-Robotic Approach for the Correction of Angular Deviations in AFM Samples from Generic Topographic Data
 - Modeling and Characterization of Artificial Bacteria Flagella with Micro-Structured Soft-Magnetic Teeth
@@ -186,7 +186,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Optimal Path Following Control with Efficient Computation for Snake Robots Subject to Multiple Constraints and Unknown Frictions
 - A Distributed Coach-Based Reinforcement Learning Controller for Snake Robot Locomotion
 - Bio-Inspired 2D Vertical Climbing with a Novel Tripedal Robot
-- Formal Methods in Robotics and Automation
+# Formal Methods in Robotics and Automation
 - Event-Based Signal Temporal Logic Tasks: Execution and Feedback in Complex Environments
 - Optimizing Demonstrated Robot Manipulation Skills for Temporal Logic Constraints
 - Classification of Time-Series Data Using Boosted Decision Trees
@@ -437,7 +437,6 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Energy-Aware Planning-Scheduling for Autonomous Aerial Robots
 - Learning to Herd Amongst Obstacles from an Optimized Surrogate
 - Geometric Savitzky-Golay Filtering of Noisy Rotations on SO(3) with Simultaneous Angular Velocity and Acceleration Estimation
-- 
 # Award Session III
 - 1-Degree-Of-Freedom Robotic Gripper with Infinite Self-Twist Function
 - Aerial Grasping and the Velocity Sufficiency Region
@@ -445,7 +444,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Robot Learning to Paint from Demonstrations
 - The Wheelbot: A Jumping Reaction Wheel Unicycle
 - Robot Dance Generation with Music Based Trajectory Optimization
-- Award Session IV
+# Award Session IV
 - Learning on the Job: Long-Term Behavioural Adaptation in Human-Robot Interactions
 - Robotic Detection of a Human-Comprehensible Gestural Language for Underwater Multi-Human-Robot Collaboration
 - Intuitive & Efficient Human-Robot Collaboration Via Real-Time Approximate Bayesian Inference
@@ -808,7 +807,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Variable Impedance Skill Learning for Contact-Rich Manipulation
 - Source Term Estimation Using Deep Reinforcement Learning with Gaussian Mixture Model Feature Extraction for Mobile Sensors
 - Autonomous Learning of Page Flipping Movements Via Tactile Feedback (I)
-- Climbing and Wheeled Robots
+# Climbing and Wheeled Robots
 - Magnetic Field Modeling of Linear Halbach Array for Wall-Climbing Robot Based on Radial Basis Function Neural Network
 - OmniWheg: An Omnidirectional Wheel-Leg Transformable Robot
 - SCALER: A Tough Versatile Quadruped Free-Climber Robot
@@ -838,7 +837,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Learning of Balance Controller Considering Changes in Body State for Musculoskeletal Humanoids
 - Locomotion Via Active Suction in a Sea Star-Inspired Soft Robot
 - Joint-Space CPG for Safe Foothold Planning and Body Pose Control During Locomotion and Climbing
-- Distributed Robot Systems
+# Distributed Robot Systems
 - Real-Time Distributed Multi-Robot Target Tracking Via Virtual Pheromones
 - Conservative Filtering for Heterogeneous Decentralized Data Fusion in Dynamic Robotic Systems
 - Decay-Based Error Correction in Collective Robotic Construction
@@ -895,7 +894,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Manipulability-Aware Shared Locomanipulation Motion Generation for Teleoperation of Mobile Manipulators
 - Fast Reflexive Grasping with a Proprioceptive Teleoperation Platform
 - Design Interface Mapping for Efficient Free-Form Tele-Manipulation
-- Calibration and Identification
+# Calibration and Identification
 - Simultaneous Calibration of Multiple Revolute Joints for Articulated Vision Systems Via SE(3) Kinematic Bundle Adjustment
 - DXQ-Net: Differentiable LiDAR-Camera Extrinsic Calibration Using Quality-Aware Flow
 - CSA-SVM Method for Internal Cavitation Defects Detection and Its Application of District Heating Pipes
@@ -964,7 +963,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Safety Compliant Control for Robotic Manipulator with Task and Input Constraints
 - Safe and Efficient Exploration of Human Models During Human-Robot Interaction
 - Evaluation of On-Robot Capacitive Proximity Sensors with Collision Experiments for Human-Robot Collaboration
-- Humanoid and Bipedal Locomotion
+# Humanoid and Bipedal Locomotion
 - Terrain-Adaptive, ALIP-Based Bipedal Locomotion Controller Via Model Predictive Control and Virtual Constraints
 - Robust Contact State Estimation in Humanoid Walking Gaits
 - Uniform Global Exponential Stabilizing Passivity-Based Tracking Controller Applied to Planar Biped Robots
@@ -1971,4 +1970,3 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - AB-Mapper: Attention and BicNet Based Multi-Agent Path Planning for Dynamic Environment
 - Graph Embedding for Multi-Robot Path Planning in Complex Environments
 - Artificial Learning for Part Identification in Robotic Disassembly through Automatic Rule Generation in an Ontology (I)
-- 
